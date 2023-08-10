@@ -1,0 +1,1250 @@
+Date of Publication,Quarter_From,Quarter_To,Year,Region,Sex,Age,Total,Total economically active,Total in employment,Unemployed,Economically inactive,Economic activity rate (%),Employment rate (%),"Unemployment
+rate (%)",Economic inactivity rate (%)
+Apr-Jun,Apr,Jun,2021,North East,Male,All aged 16 & over,1044136,660543,611815,48727,383593,63.3,58.6,7.4,36.7
+Apr-Jun,Apr,Jun,2021,North East,Female,All aged 16 & over,1100320,612883,588354,24529,487437,55.7,53.5,4.0,44.3
+Apr-Jun,Apr,Jun,2021,Yorkshire and The Humber,Male,All aged 16 & over,2151954,1417155,1343925,73230,734799,65.9,62.5,5.2,34.1
+Apr-Jun,Apr,Jun,2021,Yorkshire and The Humber,Female,All aged 16 & over,2234527,1261791,1201432,60359,972736,56.5,53.8,4.8,43.5
+Apr-Jun,Apr,Jun,2021,East Midlands,Male,All aged 16 & over,1906879,1250013,1192410,57603,656866,65.6,62.5,4.6,34.4
+Apr-Jun,Apr,Jun,2021,East Midlands,Female,All aged 16 & over,1974187,1156877,1109610,47267,817310,58.6,56.2,4.1,41.4
+Apr-Jun,Apr,Jun,2021,West Midland,Male,All aged 16 & over,2319086,1550001,1465911,84090,769085,66.8,63.2,5.4,33.2
+Apr-Jun,Apr,Jun,2021,West Midland,Female,All aged 16 & over,2389145,1391530,1326949,64581,997615,58.2,55.5,4.6,41.8
+Apr-Jun,Apr,Jun,2021,East of England,Male,All aged 16 & over,2457892,1681880,1615220,66660,776012,68.4,65.7,4.0,31.6
+Apr-Jun,Apr,Jun,2021,East of England,Female,All aged 16 & over,2564625,1536441,1478952,57489,1028184,59.9,57.7,3.7,40.1
+Apr-Jun,Apr,Jun,2021,London,Male,All aged 16 & over,3587729,2682346,2528069,154277,905383,74.8,70.5,5.8,25.2
+Apr-Jun,Apr,Jun,2021,London,Female,All aged 16 & over,3622145,2384913,2218051,166862,1237232,65.8,61.2,7.0,34.2
+Apr-Jun,Apr,Jun,2021,South East,Male,All aged 16 & over,3602022,2505802,2386163,119639,1096220,69.6,66.2,4.8,30.4
+Apr-Jun,Apr,Jun,2021,South East,Female,All aged 16 & over,3761759,2257645,2168540,89105,1504114,60.0,57.6,3.9,40.0
+Apr-Jun,Apr,Jun,2021,South West,Male,All aged 16 & over,2235678,1469683,1418995,50688,765995,65.7,63.5,3.4,34.3
+Apr-Jun,Apr,Jun,2021,South West,Female,All aged 16 & over,2340997,1342342,1294077,48265,998655,57.3,55.3,3.6,42.7
+Apr-Jun,Apr,Jun,2021,England,Male,All aged 16 & over,22163358,15054934,14316481,738453,7108424,67.9,64.6,4.9,32.1
+Apr-Jun,Apr,Jun,2021,England,Female,All aged 16 & over,22957707,13679822,13038219,641602,9277885,59.6,56.8,4.7,40.4
+Apr-Jun,Apr,Jun,2021,Wales,Male,All aged 16 & over,1254519,816396,779062,37334,438123,65.1,62.1,4.6,34.9
+Apr-Jun,Apr,Jun,2021,Wales,Female,All aged 16 & over,1300904,723989,698383,25605,576915,55.7,53.7,3.5,44.3
+Apr-Jun,Apr,Jun,2021,Scotland,Male,All aged 16 & over,2147616,1399299,1330683,68616,748317,65.2,62.0,4.9,34.8
+Apr-Jun,Apr,Jun,2021,Scotland,Female,All aged 16 & over,2333107,1360547,1309716,50831,972560,58.3,56.1,3.7,41.7
+Apr-Jun,Apr,Jun,2021,Northern Ireland,Male,All aged 16 & over,721533,440058,415723,24335,281475,61.0,57.6,5.5,39.0
+Apr-Jun,Apr,Jun,2021,Northern Ireland,Female,All aged 16 & over,754797,427656,414616,13040,327141,56.7,54.9,3.0,43.3
+Apr-Jun,Apr,Jun,2022,North East,Male,All aged 16 & over,1047606,656085,619279,36806,391521,62.6,59.1,5.6,37.4
+Apr-Jun,Apr,Jun,2022,North East,Female,All aged 16 & over,1103855,609934,582461,27473,493921,55.3,52.8,4.5,44.7
+Apr-Jun,Apr,Jun,2022,Yorkshire and The Humber,Male,All aged 16 & over,2159417,1433341,1367795,65546,726076,66.4,63.3,4.6,33.6
+Apr-Jun,Apr,Jun,2022,Yorkshire and The Humber,Female,All aged 16 & over,2242116,1293762,1235621,58141,948354,57.7,55.1,4.5,42.3
+Apr-Jun,Apr,Jun,2022,East Midlands,Male,All aged 16 & over,1913737,1246783,1223134,23649,666954,65.1,63.9,1.9,34.9
+Apr-Jun,Apr,Jun,2022,East Midlands,Female,All aged 16 & over,1981207,1168736,1133794,34942,812471,59.0,57.2,3.0,41.0
+Apr-Jun,Apr,Jun,2022,West Midland,Male,All aged 16 & over,2327468,1577974,1508378,69596,749494,67.8,64.8,4.4,32.2
+Apr-Jun,Apr,Jun,2022,West Midland,Female,All aged 16 & over,2397681,1395072,1326450,68623,1002609,58.2,55.3,4.9,41.8
+Apr-Jun,Apr,Jun,2022,East of England,Male,All aged 16 & over,2467128,1688771,1638314,50457,778357,68.5,66.4,3.0,31.5
+Apr-Jun,Apr,Jun,2022,East of England,Female,All aged 16 & over,2574132,1549422,1492394,57028,1024710,60.2,58.0,3.7,39.8
+Apr-Jun,Apr,Jun,2022,London,Male,All aged 16 & over,3602042,2709422,2589069,120353,892620,75.2,71.9,4.4,24.8
+Apr-Jun,Apr,Jun,2022,London,Female,All aged 16 & over,3635865,2322417,2212476,109941,1313448,63.9,60.9,4.7,36.1
+Apr-Jun,Apr,Jun,2022,South East,Male,All aged 16 & over,3615461,2489264,2387134,102130,1126197,68.9,66.0,4.1,31.1
+Apr-Jun,Apr,Jun,2022,South East,Female,All aged 16 & over,3775425,2268040,2198578,69462,1507385,60.1,58.2,3.1,39.9
+Apr-Jun,Apr,Jun,2022,South West,Male,All aged 16 & over,2243851,1484777,1436372,48405,759074,66.2,64.0,3.3,33.8
+Apr-Jun,Apr,Jun,2022,South West,Female,All aged 16 & over,2349420,1382612,1350599,32012,966808,58.8,57.5,2.3,41.2
+Apr-Jun,Apr,Jun,2022,England,Male,All aged 16 & over,22244542,15186246,14588673,597573,7058296,68.3,65.6,3.9,31.7
+Apr-Jun,Apr,Jun,2022,England,Female,All aged 16 & over,23039732,13699198,13174351,524848,9340534,59.5,57.2,3.8,40.5
+Apr-Jun,Apr,Jun,2022,Wales,Male,All aged 16 & over,1258886,811264,779428,31836,447622,64.4,61.9,3.9,35.6
+Apr-Jun,Apr,Jun,2022,Wales,Female,All aged 16 & over,1305298,709362,683521,25841,595936,54.3,52.4,3.6,45.7
+Apr-Jun,Apr,Jun,2022,Scotland,Male,All aged 16 & over,2155095,1411022,1349432,61590,744073,65.5,62.6,4.4,34.5
+Apr-Jun,Apr,Jun,2022,Scotland,Female,All aged 16 & over,2340983,1392197,1364103,28094,948786,59.5,58.3,2.0,40.5
+Apr-Jun,Apr,Jun,2022,Northern Ireland,Male,All aged 16 & over,724074,463244,449557,13688,260830,64.0,62.1,3.0,36.0
+Aug-Oct,Apr,Jun,2022,Northern Ireland,Female,All aged 16 & over,757323,413044,402849,10195,344279,54.5,53.2,2.5,45.5
+Aug-Oct,Aug,Oct,2021,North East,Male,All aged 16 & over,1046601,649060,614036,35025,397541,62.0,58.7,5.4,38.0
+Aug-Oct,Aug,Oct,2021,North East,Female,All aged 16 & over,1102823,604705,573659,31046,498118,54.8,52.0,5.1,45.2
+Aug-Oct,Aug,Oct,2021,Yorkshire and The Humber,Male,All aged 16 & over,2157325,1412857,1350838,62019,744468,65.5,62.6,4.4,34.5
+Aug-Oct,Aug,Oct,2021,Yorkshire and The Humber,Female,All aged 16 & over,2240016,1256388,1211268,45120,983628,56.1,54.1,3.6,43.9
+Aug-Oct,Aug,Oct,2021,East Midlands,Male,All aged 16 & over,1911964,1229945,1176710,53234,682019,64.3,61.5,4.3,35.7
+Aug-Oct,Aug,Oct,2021,East Midlands,Female,All aged 16 & over,1979318,1184177,1137123,47055,795141,59.8,57.5,4.0,40.2
+Aug-Oct,Aug,Oct,2021,West Midland,Male,All aged 16 & over,2325283,1584088,1515244,68844,741195,68.1,65.2,4.3,31.9
+Aug-Oct,Aug,Oct,2021,West Midland,Female,All aged 16 & over,2395351,1373465,1301959,71507,1021886,57.3,54.4,5.2,42.7
+Aug-Oct,Aug,Oct,2021,East of England,Male,All aged 16 & over,2464763,1692258,1637071,55187,772505,68.7,66.4,3.3,31.3
+Aug-Oct,Aug,Oct,2021,East of England,Female,All aged 16 & over,2571656,1553861,1508495,45367,1017795,60.4,58.7,2.9,39.6
+Aug-Oct,Aug,Oct,2021,London,Male,All aged 16 & over,3598592,2698923,2566205,132718,899669,75.0,71.3,4.9,25.0
+Aug-Oct,Aug,Oct,2021,London,Female,All aged 16 & over,3632369,2368350,2229914,138436,1264019,65.2,61.4,5.8,34.8
+Aug-Oct,Aug,Oct,2021,South East,Male,All aged 16 & over,3611928,2500612,2403264,97348,1111316,69.2,66.5,3.9,30.8
+Aug-Oct,Aug,Oct,2021,South East,Female,All aged 16 & over,3771877,2261044,2167230,93814,1510833,59.9,57.5,4.1,40.1
+Aug-Oct,Aug,Oct,2021,South West,Male,All aged 16 & over,2241793,1487166,1436187,50979,754627,66.3,64.1,3.4,33.7
+Aug-Oct,Aug,Oct,2021,South West,Female,All aged 16 & over,2347195,1379247,1344006,35241,967948,58.8,57.3,2.6,41.2
+Aug-Oct,Aug,Oct,2021,England,Male,All aged 16 & over,22223297,15137811,14485893,651918,7085486,68.1,65.2,4.3,31.9
+Aug-Oct,Aug,Oct,2021,England,Female,All aged 16 & over,23017767,13693793,13126075,567717,9323974,59.5,57.0,4.1,40.5
+Aug-Oct,Aug,Oct,2021,Wales,Male,All aged 16 & over,1257687,815862,789706,26156,441825,64.9,62.8,3.2,35.1
+Aug-Oct,Aug,Oct,2021,Wales,Female,All aged 16 & over,1304046,716890,686923,29966,587156,55.0,52.7,4.2,45.0
+Aug-Oct,Aug,Oct,2021,Scotland,Male,All aged 16 & over,2152996,1410808,1343669,67139,742188,65.5,62.4,4.8,34.5
+Aug-Oct,Aug,Oct,2021,Scotland,Female,All aged 16 & over,2338771,1366092,1320114,45978,972679,58.4,56.4,3.4,41.6
+Aug-Oct,Aug,Oct,2021,Northern Ireland,Male,All aged 16 & over,723378,442765,420204,22561,280613,61.2,58.1,5.1,38.8
+Aug-Oct,Aug,Oct,2021,Northern Ireland,Female,All aged 16 & over,756658,421983,410171,11812,334675,55.8,54.2,2.8,44.2
+Aug-Oct,Aug,Oct,2022,North East,Male,All aged 16 & over,1050347,646132,619966,26166,404215,61.5,59.0,4.0,38.5
+Aug-Oct,Aug,Oct,2022,North East,Female,All aged 16 & over,1106782,610942,577893,33049,495840,55.2,52.2,5.4,44.8
+Aug-Oct,Aug,Oct,2022,Yorkshire and The Humber,Male,All aged 16 & over,2165043,1427947,1365592,62355,737096,66.0,63.1,4.4,34.0
+Aug-Oct,Aug,Oct,2022,Yorkshire and The Humber,Female,All aged 16 & over,2248024,1291069,1243727,47342,956955,57.4,55.3,3.7,42.6
+Aug-Oct,Aug,Oct,2022,East Midlands,Male,All aged 16 & over,1918753,1291673,1250398,41276,627080,67.3,65.2,3.2,32.7
+Aug-Oct,Aug,Oct,2022,East Midlands,Female,All aged 16 & over,1986350,1126371,1086756,39615,859979,56.7,54.7,3.5,43.3
+Aug-Oct,Aug,Oct,2022,West Midland,Male,All aged 16 & over,2333552,1529654,1452549,77105,803898,65.6,62.2,5.0,34.4
+Aug-Oct,Aug,Oct,2022,West Midland,Female,All aged 16 & over,2403874,1394099,1328620,65479,1009775,58.0,55.3,4.7,42.0
+Aug-Oct,Aug,Oct,2022,East of England,Male,All aged 16 & over,2473545,1703749,1658979,44770,769796,68.9,67.1,2.6,31.1
+Aug-Oct,Aug,Oct,2022,East of England,Female,All aged 16 & over,2580825,1556029,1513694,42335,1024796,60.3,58.7,2.7,39.7
+Aug-Oct,Aug,Oct,2022,London,Male,All aged 16 & over,3611451,2700479,2598199,102280,910972,74.8,71.9,3.8,25.2
+Aug-Oct,Aug,Oct,2022,London,Female,All aged 16 & over,3645330,2344730,2222113,122617,1300600,64.3,61.0,5.2,35.7
+Aug-Oct,Aug,Oct,2022,South East,Male,All aged 16 & over,3624800,2470441,2383258,87183,1154359,68.2,65.7,3.5,31.8
+Aug-Oct,Aug,Oct,2022,South East,Female,All aged 16 & over,3785221,2282045,2204731,77313,1503176,60.3,58.2,3.4,39.7
+Aug-Oct,Aug,Oct,2022,South West,Male,All aged 16 & over,2249733,1484686,1448070,36616,765047,66.0,64.4,2.5,34.0
+Aug-Oct,Aug,Oct,2022,South West,Female,All aged 16 & over,2355557,1381325,1360905,20419,974232,58.6,57.8,1.5,41.4
+Aug-Oct,Aug,Oct,2022,England,Male,All aged 16 & over,22302595,15125212,14560945,564267,7177383,67.8,65.3,3.7,32.2
+Aug-Oct,Aug,Oct,2022,England,Female,All aged 16 & over,23099762,13691125,13179218,511907,9408637,59.3,57.1,3.7,40.7
+Aug-Oct,Aug,Oct,2022,Wales,Male,All aged 16 & over,1262170,805643,771766,33877,456527,63.8,61.1,4.2,36.2
+Aug-Oct,Aug,Oct,2022,Wales,Female,All aged 16 & over,1308709,695955,675754,20201,612754,53.2,51.6,2.9,46.8
+Aug-Oct,Aug,Oct,2022,Scotland,Male,All aged 16 & over,2160715,1402878,1346628,56250,757837,64.9,62.3,4.0,35.1
+Aug-Oct,Aug,Oct,2022,Scotland,Female,All aged 16 & over,2347111,1414806,1378519,36287,932305,60.3,58.7,2.6,39.7
+Aug-Oct,Aug,Oct,2022,Northern Ireland,Male,All aged 16 & over,725983,467271,449286,17984,258712,64.4,61.9,3.8,35.6
+Dec-Feb,Aug,Oct,2022,Northern Ireland,Female,All aged 16 & over,759326,417641,411329,6312,341685,55.0,54.2,1.5,45.0
+Dec-Feb,Dec,Feb,2022,North East,Male,All aged 16 & over,1046104,652473,617291,35182,393631,62.4,59.0,5.4,37.6
+Dec-Feb,Dec,Feb,2022,North East,Female,All aged 16 & over,1102345,605260,573469,31792,497085,54.9,52.0,5.3,45.1
+Dec-Feb,Dec,Feb,2022,Yorkshire and The Humber,Male,All aged 16 & over,2156308,1405346,1332696,72650,750962,65.2,61.8,5.2,34.8
+Dec-Feb,Dec,Feb,2022,Yorkshire and The Humber,Female,All aged 16 & over,2238907,1235786,1196968,38818,1003121,55.2,53.5,3.1,44.8
+Dec-Feb,Dec,Feb,2022,East Midlands,Male,All aged 16 & over,1911082,1239457,1201934,37524,671625,64.9,62.9,3.0,35.1
+Dec-Feb,Dec,Feb,2022,East Midlands,Female,All aged 16 & over,1978415,1173832,1143132,30699,804583,59.3,57.8,2.6,40.7
+Dec-Feb,Dec,Feb,2022,West Midland,Male,All aged 16 & over,2324238,1594086,1521345,72742,730152,68.6,65.5,4.6,31.4
+Dec-Feb,Dec,Feb,2022,West Midland,Female,All aged 16 & over,2394226,1404835,1324244,80592,989391,58.7,55.3,5.7,41.3
+Dec-Feb,Dec,Feb,2022,East of England,Male,All aged 16 & over,2463623,1673626,1619764,53862,789997,67.9,65.7,3.2,32.1
+Dec-Feb,Dec,Feb,2022,East of England,Female,All aged 16 & over,2570454,1536714,1488289,48425,1033740,59.8,57.9,3.2,40.2
+Dec-Feb,Dec,Feb,2022,London,Male,All aged 16 & over,3596910,2730376,2622087,108288,866534,75.9,72.9,4.0,24.1
+Dec-Feb,Dec,Feb,2022,London,Female,All aged 16 & over,3630628,2329558,2205728,123830,1301070,64.2,60.8,5.3,35.8
+Dec-Feb,Dec,Feb,2022,South East,Male,All aged 16 & over,3610278,2481917,2389497,92420,1128361,68.7,66.2,3.7,31.3
+Dec-Feb,Dec,Feb,2022,South East,Female,All aged 16 & over,3770061,2252505,2183193,69312,1517556,59.7,57.9,3.1,40.3
+Dec-Feb,Dec,Feb,2022,South West,Male,All aged 16 & over,2240704,1468624,1422942,45682,772080,65.5,63.5,3.1,34.5
+Dec-Feb,Dec,Feb,2022,South West,Female,All aged 16 & over,2346106,1391077,1355408,35668,955029,59.3,57.8,2.6,40.7
+Dec-Feb,Dec,Feb,2022,England,Male,All aged 16 & over,22213004,15101125,14497081,604043,7111879,68.0,65.3,4.0,32.0
+Dec-Feb,Dec,Feb,2022,England,Female,All aged 16 & over,23006866,13625083,13098656,526426,9381783,59.2,56.9,3.9,40.8
+Dec-Feb,Dec,Feb,2022,Wales,Male,All aged 16 & over,1257080,791012,765627,25384,466068,62.9,60.9,3.2,37.1
+Dec-Feb,Dec,Feb,2022,Wales,Female,All aged 16 & over,1303399,724439,704613,19826,578960,55.6,54.1,2.7,44.4
+Dec-Feb,Dec,Feb,2022,Scotland,Male,All aged 16 & over,2152041,1396533,1330523,66010,755508,64.9,61.8,4.7,35.1
+Dec-Feb,Dec,Feb,2022,Scotland,Female,All aged 16 & over,2337679,1363425,1333460,29965,974254,58.3,57.0,2.2,41.7
+Dec-Feb,Dec,Feb,2022,Northern Ireland,Male,All aged 16 & over,723067,451545,432780,18765,271522,62.4,59.9,4.2,37.6
+Dec-Feb,Dec,Feb,2022,Northern Ireland,Female,All aged 16 & over,756304,411015,403747,7269,345289,54.3,53.4,1.8,45.7
+Dec-Feb,Dec,Feb,2023,North East,Male,All aged 16 & over,1049896,654895,624111,30784,395001,62.4,59.4,4.7,37.6
+Dec-Feb,Dec,Feb,2023,North East,Female,All aged 16 & over,1106686,637042,613887,23155,469644,57.6,55.5,3.6,42.4
+Dec-Feb,Dec,Feb,2023,Yorkshire and The Humber,Male,All aged 16 & over,2164147,1436355,1372812,63543,727792,66.4,63.4,4.4,33.6
+Dec-Feb,Dec,Feb,2023,Yorkshire and The Humber,Female,All aged 16 & over,2247023,1283687,1251091,32596,963336,57.1,55.7,2.5,42.9
+Dec-Feb,Dec,Feb,2023,East Midlands,Male,All aged 16 & over,1917990,1308845,1262073,46772,609145,68.2,65.8,3.6,31.8
+Dec-Feb,Dec,Feb,2023,East Midlands,Female,All aged 16 & over,1985573,1113459,1075207,38252,872114,56.1,54.2,3.4,43.9
+Dec-Feb,Dec,Feb,2023,West Midland,Male,All aged 16 & over,2332585,1550971,1476043,74928,781614,66.5,63.3,4.8,33.5
+Dec-Feb,Dec,Feb,2023,West Midland,Female,All aged 16 & over,2402883,1383876,1322452,61424,1019007,57.6,55.0,4.4,42.4
+Dec-Feb,Dec,Feb,2023,East of England,Male,All aged 16 & over,2472564,1715653,1654965,60687,756911,69.4,66.9,3.5,30.6
+Dec-Feb,Dec,Feb,2023,East of England,Female,All aged 16 & over,2579893,1562152,1490461,71690,1017741,60.6,57.8,4.6,39.4
+Dec-Feb,Dec,Feb,2023,London,Male,All aged 16 & over,3610181,2685288,2589080,96207,924893,74.4,71.7,3.6,25.6
+Dec-Feb,Dec,Feb,2023,London,Female,All aged 16 & over,3643755,2374005,2230334,143671,1269750,65.2,61.2,6.1,34.8
+Dec-Feb,Dec,Feb,2023,South East,Male,All aged 16 & over,3623349,2524541,2414263,110277,1098808,69.7,66.6,4.4,30.3
+Dec-Feb,Dec,Feb,2023,South East,Female,All aged 16 & over,3783788,2332749,2253138,79612,1451039,61.7,59.5,3.4,38.3
+Dec-Feb,Dec,Feb,2023,South West,Male,All aged 16 & over,2248802,1496077,1455867,40211,752725,66.5,64.7,2.7,33.5
+Dec-Feb,Dec,Feb,2023,South West,Female,All aged 16 & over,2354557,1387518,1362611,24907,967039,58.9,57.9,1.8,41.1
+Dec-Feb,Dec,Feb,2023,England,Male,All aged 16 & over,22293573,15287120,14682825,604295,7006453,68.6,65.9,4.0,31.4
+Dec-Feb,Dec,Feb,2023,England,Female,All aged 16 & over,23090648,13778722,13248065,530657,9311926,59.7,57.4,3.9,40.3
+Dec-Feb,Dec,Feb,2023,Wales,Male,All aged 16 & over,1261632,811045,775582,35463,450587,64.3,61.5,4.4,35.7
+Dec-Feb,Dec,Feb,2023,Wales,Female,All aged 16 & over,1308156,682481,665616,16864,625675,52.2,50.9,2.5,47.8
+Dec-Feb,Dec,Feb,2023,Scotland,Male,All aged 16 & over,2159813,1411582,1367114,44468,748231,65.4,63.3,3.2,34.6
+Dec-Feb,Dec,Feb,2023,Scotland,Female,All aged 16 & over,2346266,1378981,1339655,39326,967285,58.8,57.1,2.9,41.2
+Dec-Feb,Dec,Feb,2023,Northern Ireland,Male,All aged 16 & over,725688,469373,453934,15440,256315,64.7,62.6,3.3,35.3
+Feb-Apr,Dec,Feb,2023,Northern Ireland,Female,All aged 16 & over,759031,423899,417454,6445,335132,55.8,55.0,1.5,44.2
+Feb-Apr,Feb,Apr,2021,North East,Male,All aged 16 & over,1043875,662580,607920,54660,381295,63.5,58.2,8.2,36.5
+Feb-Apr,Feb,Apr,2021,North East,Female,All aged 16 & over,1100071,614686,588790,25896,485385,55.9,53.5,4.2,44.1
+Feb-Apr,Feb,Apr,2021,Yorkshire and The Humber,Male,All aged 16 & over,2150765,1413940,1340747,73193,736825,65.7,62.3,5.2,34.3
+Feb-Apr,Feb,Apr,2021,Yorkshire and The Humber,Female,All aged 16 & over,2233548,1262740,1198278,64462,970808,56.5,53.6,5.1,43.5
+Feb-Apr,Feb,Apr,2021,East Midlands,Male,All aged 16 & over,1905163,1257998,1188137,69861,647165,66.0,62.4,5.6,34.0
+Feb-Apr,Feb,Apr,2021,East Midlands,Female,All aged 16 & over,1972655,1163279,1113538,49740,809376,59.0,56.4,4.3,41.0
+Feb-Apr,Feb,Apr,2021,West Midland,Male,All aged 16 & over,2317119,1540557,1443992,96565,776562,66.5,62.3,6.3,33.5
+Feb-Apr,Feb,Apr,2021,West Midland,Female,All aged 16 & over,2387384,1384860,1305368,79492,1002524,58.0,54.7,5.7,42.0
+Feb-Apr,Feb,Apr,2021,East of England,Male,All aged 16 & over,2455021,1677007,1613312,63695,778014,68.3,65.7,3.8,31.7
+Feb-Apr,Feb,Apr,2021,East of England,Female,All aged 16 & over,2562025,1519984,1458179,61805,1042041,59.3,56.9,4.1,40.7
+Feb-Apr,Feb,Apr,2021,London,Male,All aged 16 & over,3582032,2667155,2501092,166063,914877,74.5,69.8,6.2,25.5
+Feb-Apr,Feb,Apr,2021,London,Female,All aged 16 & over,3617826,2402196,2229977,172219,1215630,66.4,61.6,7.2,33.6
+Feb-Apr,Feb,Apr,2021,South East,Male,All aged 16 & over,3598281,2500549,2391416,109133,1097732,69.5,66.5,4.4,30.5
+Feb-Apr,Feb,Apr,2021,South East,Female,All aged 16 & over,3758388,2257964,2180831,77133,1500424,60.1,58.0,3.4,39.9
+Feb-Apr,Feb,Apr,2021,South West,Male,All aged 16 & over,2233544,1454604,1407714,46890,778940,65.1,63.0,3.2,34.9
+Feb-Apr,Feb,Apr,2021,South West,Female,All aged 16 & over,2338974,1338623,1285278,53346,1000351,57.2,55.0,4.0,42.8
+Feb-Apr,Feb,Apr,2021,England,Male,All aged 16 & over,22142390,15014747,14248324,766422,7127643,67.8,64.3,5.1,32.2
+Feb-Apr,Feb,Apr,2021,England,Female,All aged 16 & over,22939832,13659417,12987843,671574,9280415,59.5,56.6,4.9,40.5
+Feb-Apr,Feb,Apr,2021,Wales,Male,All aged 16 & over,1253884,812334,765892,46443,441550,64.8,61.1,5.7,35.2
+Feb-Apr,Feb,Apr,2021,Wales,Female,All aged 16 & over,1300421,729236,710253,18982,571185,56.1,54.6,2.6,43.9
+Feb-Apr,Feb,Apr,2021,Scotland,Male,All aged 16 & over,2146290,1395339,1328339,67001,750951,65.0,61.9,4.8,35.0
+Feb-Apr,Feb,Apr,2021,Scotland,Female,All aged 16 & over,2332124,1364550,1310232,54318,967574,58.5,56.2,4.0,41.5
+Feb-Apr,Feb,Apr,2021,Northern Ireland,Male,All aged 16 & over,720905,438342,420192,18149,282563,60.8,58.3,4.1,39.2
+Feb-Apr,Feb,Apr,2021,Northern Ireland,Female,All aged 16 & over,754349,415532,403023,12509,338817,55.1,53.4,3.0,44.9
+Feb-Apr,Feb,Apr,2022,North East,Male,All aged 16 & over,1046772,653929,613136,40794,392843,62.5,58.6,6.2,37.5
+Feb-Apr,Feb,Apr,2022,North East,Female,All aged 16 & over,1102984,613438,588584,24854,489546,55.6,53.4,4.1,44.4
+Feb-Apr,Feb,Apr,2022,Yorkshire and The Humber,Male,All aged 16 & over,2157586,1412939,1348497,64443,744647,65.5,62.5,4.6,34.5
+Feb-Apr,Feb,Apr,2022,Yorkshire and The Humber,Female,All aged 16 & over,2240398,1257890,1198538,59352,982508,56.1,53.5,4.7,43.9
+Feb-Apr,Feb,Apr,2022,East Midlands,Male,All aged 16 & over,1912216,1240497,1207313,33184,671719,64.9,63.1,2.7,35.1
+Feb-Apr,Feb,Apr,2022,East Midlands,Female,All aged 16 & over,1979694,1157036,1124871,32165,822658,58.4,56.8,2.8,41.6
+Feb-Apr,Feb,Apr,2022,West Midland,Male,All aged 16 & over,2325654,1592010,1527130,64880,733644,68.5,65.7,4.1,31.5
+Feb-Apr,Feb,Apr,2022,West Midland,Female,All aged 16 & over,2395719,1410706,1341302,69404,985013,58.9,56.0,4.9,41.1
+Feb-Apr,Feb,Apr,2022,East of England,Male,All aged 16 & over,2465163,1673324,1616928,56395,791839,67.9,65.6,3.4,32.1
+Feb-Apr,Feb,Apr,2022,East of England,Female,All aged 16 & over,2572031,1548262,1486616,61646,1023769,60.2,57.8,4.0,39.8
+Feb-Apr,Feb,Apr,2022,London,Male,All aged 16 & over,3599099,2725142,2600885,124257,873957,75.7,72.3,4.6,24.3
+Feb-Apr,Feb,Apr,2022,London,Female,All aged 16 & over,3632906,2329541,2208893,120648,1303365,64.1,60.8,5.2,35.9
+Feb-Apr,Feb,Apr,2022,South East,Male,All aged 16 & over,3612472,2479350,2400288,79062,1133122,68.6,66.4,3.2,31.4
+Feb-Apr,Feb,Apr,2022,South East,Female,All aged 16 & over,3772405,2267693,2201775,65918,1504712,60.1,58.4,2.9,39.9
+Feb-Apr,Feb,Apr,2022,South West,Male,All aged 16 & over,2242096,1481535,1434610,46925,760561,66.1,64.0,3.2,33.9
+Feb-Apr,Feb,Apr,2022,South West,Female,All aged 16 & over,2347507,1400535,1365033,35501,946972,59.7,58.1,2.5,40.3
+Feb-Apr,Feb,Apr,2022,England,Male,All aged 16 & over,22226555,15139528,14541506,598022,7087027,68.1,65.4,4.0,31.9
+Feb-Apr,Feb,Apr,2022,England,Female,All aged 16 & over,23021222,13693175,13158084,535091,9328047,59.5,57.2,3.9,40.5
+Feb-Apr,Feb,Apr,2022,Wales,Male,All aged 16 & over,1257840,794243,767478,26765,463597,63.1,61.0,3.4,36.9
+Feb-Apr,Feb,Apr,2022,Wales,Female,All aged 16 & over,1304245,728479,701769,26711,575766,55.9,53.8,3.7,44.1
+Feb-Apr,Feb,Apr,2022,Scotland,Male,All aged 16 & over,2153320,1399934,1341174,58760,753386,65.0,62.3,4.2,35.0
+Feb-Apr,Feb,Apr,2022,Scotland,Female,All aged 16 & over,2339082,1376469,1345287,31182,962613,58.8,57.5,2.3,41.2
+Feb-Apr,Feb,Apr,2022,Northern Ireland,Male,All aged 16 & over,723489,457897,444199,13698,265592,63.3,61.4,3.0,36.7
+Feb-Apr,Feb,Apr,2022,Northern Ireland,Female,All aged 16 & over,756772,416722,407351,9371,340050,55.1,53.8,2.2,44.9
+Feb-Apr,Feb,Apr,2023,North East,Male,All aged 16 & over,1050875,663951,631748,32203,386924,63.2,60.1,4.9,36.8
+Feb-Apr,Feb,Apr,2023,North East,Female,All aged 16 & over,1109395,635005,620577,14428,474390,57.2,55.9,2.3,42.8
+Feb-Apr,Feb,Apr,2023,Yorkshire and The Humber,Male,All aged 16 & over,2165858,1435556,1367773,67783,730302,66.3,63.2,4.7,33.7
+Feb-Apr,Feb,Apr,2023,Yorkshire and The Humber,Female,All aged 16 & over,2248744,1282126,1246232,35894,966618,57.0,55.4,2.8,43.0
+Feb-Apr,Feb,Apr,2023,East Midlands,Male,All aged 16 & over,1919499,1325488,1276423,49064,594011,69.1,66.5,3.7,30.9
+Feb-Apr,Feb,Apr,2023,East Midlands,Female,All aged 16 & over,1987200,1111197,1076292,34905,876003,55.9,54.2,3.1,44.1
+Feb-Apr,Feb,Apr,2023,West Midland,Male,All aged 16 & over,2334635,1616190,1531378,84812,718445,69.2,65.6,5.2,30.8
+Feb-Apr,Feb,Apr,2023,West Midland,Female,All aged 16 & over,2405181,1426570,1364238,62332,978611,59.3,56.7,4.4,40.7
+Feb-Apr,Feb,Apr,2023,East of England,Male,All aged 16 & over,2474405,1715281,1643709,71572,759124,69.3,66.4,4.2,30.7
+Feb-Apr,Feb,Apr,2023,East of England,Female,All aged 16 & over,2581885,1571473,1502179,69294,1010412,60.9,58.2,4.4,39.1
+Feb-Apr,Feb,Apr,2023,London,Male,All aged 16 & over,3614155,2731675,2631998,99677,882480,75.6,72.8,3.6,24.4
+Feb-Apr,Feb,Apr,2023,London,Female,All aged 16 & over,3647482,2395719,2266726,128993,1251763,65.7,62.1,5.4,34.3
+Feb-Apr,Feb,Apr,2023,South East,Male,All aged 16 & over,3626316,2504154,2404370,99784,1122162,69.1,66.3,4.0,30.9
+Feb-Apr,Feb,Apr,2023,South East,Female,All aged 16 & over,3786784,2316767,2239675,77092,1470017,61.2,59.1,3.3,38.8
+Feb-Apr,Feb,Apr,2023,South West,Male,All aged 16 & over,2250504,1491962,1443450,48511,758542,66.3,64.1,3.3,33.7
+Feb-Apr,Feb,Apr,2023,South West,Female,All aged 16 & over,2356347,1390211,1349451,40759,966136,59.0,57.3,2.9,41.0
+Feb-Apr,Feb,Apr,2023,England,Male,All aged 16 & over,22314223,15395310,14786648,608662,6918913,69.0,66.3,4.0,31.0
+Feb-Apr,Feb,Apr,2023,England,Female,All aged 16 & over,23112193,13830790,13314883,515907,9281403,59.8,57.6,3.7,40.2
+Feb-Apr,Feb,Apr,2023,Wales,Male,All aged 16 & over,1262561,838374,785505,52869,424187,66.4,62.2,6.3,33.6
+Feb-Apr,Feb,Apr,2023,Wales,Female,All aged 16 & over,1309126,676292,655941,20352,632834,51.7,50.1,3.0,48.3
+Feb-Apr,Feb,Apr,2023,Scotland,Male,All aged 16 & over,2161442,1397553,1352195,45357,763889,64.7,62.6,3.2,35.3
+Feb-Apr,Feb,Apr,2023,Scotland,Female,All aged 16 & over,2348322,1351128,1311286,39842,997194,57.5,55.8,2.9,42.5
+Feb-Apr,Feb,Apr,2023,Northern Ireland,Male,All aged 16 & over,726224,474349,460427,13921,251875,65.3,63.4,2.9,34.7
+Jan-Mar,Feb,Apr,2023,Northern Ireland,Female,All aged 16 & over,759608,430394,422379,8015,329214,56.7,55.6,1.9,43.3
+Jan-Mar,Jan,Mar,2021,North East,Male,All aged 16 & over,1043980,658598,614420,44178,385382,63.1,58.9,6.7,36.9
+Jan-Mar,Jan,Mar,2021,North East,Female,All aged 16 & over,1100209,622993,592880,30114,477216,56.6,53.9,4.8,43.4
+Jan-Mar,Jan,Mar,2021,Yorkshire and The Humber,Male,All aged 16 & over,2150706,1402652,1327077,75575,748054,65.2,61.7,5.4,34.8
+Jan-Mar,Jan,Mar,2021,Yorkshire and The Humber,Female,All aged 16 & over,2233519,1259188,1201822,57367,974331,56.4,53.8,4.6,43.6
+Jan-Mar,Jan,Mar,2021,East Midlands,Male,All aged 16 & over,1904738,1263440,1185178,78262,641298,66.3,62.2,6.2,33.7
+Jan-Mar,Jan,Mar,2021,East Midlands,Female,All aged 16 & over,1972295,1159744,1111876,47868,812551,58.8,56.4,4.1,41.2
+Jan-Mar,Jan,Mar,2021,West Midland,Male,All aged 16 & over,2316594,1536533,1436743,99791,780061,66.3,62.0,6.5,33.7
+Jan-Mar,Jan,Mar,2021,West Midland,Female,All aged 16 & over,2387087,1378805,1299876,78930,1008282,57.8,54.5,5.7,42.2
+Jan-Mar,Jan,Mar,2021,East of England,Male,All aged 16 & over,2454185,1677057,1614568,62490,777128,68.3,65.8,3.7,31.7
+Jan-Mar,Jan,Mar,2021,East of England,Female,All aged 16 & over,2561334,1527181,1463278,63903,1034153,59.6,57.1,4.2,40.4
+Jan-Mar,Jan,Mar,2021,London,Male,All aged 16 & over,3580024,2669015,2493113,175902,911009,74.6,69.6,6.6,25.4
+Jan-Mar,Jan,Mar,2021,London,Female,All aged 16 & over,3616427,2403675,2224121,179553,1212752,66.5,61.5,7.5,33.5
+Jan-Mar,Jan,Mar,2021,South East,Male,All aged 16 & over,3597106,2500938,2396609,104329,1096168,69.5,66.6,4.2,30.5
+Jan-Mar,Jan,Mar,2021,South East,Female,All aged 16 & over,3757597,2241714,2178105,63610,1515883,59.7,58.0,2.8,40.3
+Jan-Mar,Jan,Mar,2021,South West,Male,All aged 16 & over,2232826,1459712,1406129,53584,773114,65.4,63.0,3.7,34.6
+Jan-Mar,Jan,Mar,2021,South West,Female,All aged 16 & over,2338488,1353160,1299782,53378,985328,57.9,55.6,3.9,42.1
+Jan-Mar,Jan,Mar,2021,England,Male,All aged 16 & over,22136643,15016823,14234747,782076,7119820,67.8,64.3,5.2,32.2
+Jan-Mar,Jan,Mar,2021,England,Female,All aged 16 & over,22936000,13654354,12990841,663513,9281646,59.5,56.6,4.9,40.5
+Jan-Mar,Jan,Mar,2021,Wales,Male,All aged 16 & over,1253826,810517,762676,47841,443309,64.6,60.8,5.9,35.4
+Jan-Mar,Jan,Mar,2021,Wales,Female,All aged 16 & over,1300465,733781,712652,21129,566684,56.4,54.8,2.9,43.6
+Jan-Mar,Jan,Mar,2021,Scotland,Male,All aged 16 & over,2146155,1399055,1335926,63129,747100,65.2,62.2,4.5,34.8
+Jan-Mar,Jan,Mar,2021,Scotland,Female,All aged 16 & over,2332203,1368943,1308879,60064,963260,58.7,56.1,4.4,41.3
+Jan-Mar,Jan,Mar,2021,Northern Ireland,Male,All aged 16 & over,720746,441028,420577,20450,279718,61.2,58.4,4.6,38.8
+Jan-Mar,Jan,Mar,2021,Northern Ireland,Female,All aged 16 & over,754301,413568,398398,15170,340733,54.8,52.8,3.7,45.2
+Jan-Mar,Jan,Mar,2022,North East,Male,All aged 16 & over,1046565,657451,621654,35797,389114,62.8,59.4,5.4,37.2
+Jan-Mar,Jan,Mar,2022,North East,Female,All aged 16 & over,1102787,607539,580677,26862,495248,55.1,52.7,4.4,44.9
+Jan-Mar,Jan,Mar,2022,Yorkshire and The Humber,Male,All aged 16 & over,2157220,1410215,1347015,63200,747005,65.4,62.4,4.5,34.6
+Jan-Mar,Jan,Mar,2022,Yorkshire and The Humber,Female,All aged 16 & over,2239914,1248417,1205291,43126,991497,55.7,53.8,3.5,44.3
+Jan-Mar,Jan,Mar,2022,East Midlands,Male,All aged 16 & over,1911878,1231941,1199769,32172,679937,64.4,62.8,2.6,35.6
+Jan-Mar,Jan,Mar,2022,East Midlands,Female,All aged 16 & over,1979243,1179868,1148189,31679,799375,59.6,58.0,2.7,40.4
+Jan-Mar,Jan,Mar,2022,West Midland,Male,All aged 16 & over,2325191,1594114,1526621,67493,731077,68.6,65.7,4.2,31.4
+Jan-Mar,Jan,Mar,2022,West Midland,Female,All aged 16 & over,2395280,1416793,1347188,69605,978487,59.1,56.2,4.9,40.9
+Jan-Mar,Jan,Mar,2022,East of England,Male,All aged 16 & over,2464675,1670942,1612882,58060,793733,67.8,65.4,3.5,32.2
+Jan-Mar,Jan,Mar,2022,East of England,Female,All aged 16 & over,2571514,1533936,1484144,49792,1037578,59.7,57.7,3.2,40.3
+Jan-Mar,Jan,Mar,2022,London,Male,All aged 16 & over,3598397,2724592,2607240,117352,873805,75.7,72.5,4.3,24.3
+Jan-Mar,Jan,Mar,2022,London,Female,All aged 16 & over,3632183,2298149,2178875,119274,1334034,63.3,60.0,5.2,36.7
+Jan-Mar,Jan,Mar,2022,South East,Male,All aged 16 & over,3611804,2478443,2391813,86631,1133361,68.6,66.2,3.5,31.4
+Jan-Mar,Jan,Mar,2022,South East,Female,All aged 16 & over,3771708,2259052,2192800,66252,1512656,59.9,58.1,2.9,40.1
+Jan-Mar,Jan,Mar,2022,South West,Male,All aged 16 & over,2241618,1466175,1421007,45168,775443,65.4,63.4,3.1,34.6
+Jan-Mar,Jan,Mar,2022,South West,Female,All aged 16 & over,2347108,1402569,1365818,36750,944539,59.8,58.2,2.6,40.2
+Jan-Mar,Jan,Mar,2022,England,Male,All aged 16 & over,22222346,15087894,14494599,593295,7134452,67.9,65.2,3.9,32.1
+Jan-Mar,Jan,Mar,2022,England,Female,All aged 16 & over,23016746,13636739,13127547,509192,9380007,59.2,57.0,3.7,40.8
+Jan-Mar,Jan,Mar,2022,Wales,Male,All aged 16 & over,1257606,788739,764852,23887,468867,62.7,60.8,3.0,37.3
+Jan-Mar,Jan,Mar,2022,Wales,Female,All aged 16 & over,1303981,726792,705578,21214,577189,55.7,54.1,2.9,44.3
+Jan-Mar,Jan,Mar,2022,Scotland,Male,All aged 16 & over,2152926,1404698,1343096,61602,748228,65.2,62.4,4.4,34.8
+Jan-Mar,Jan,Mar,2022,Scotland,Female,All aged 16 & over,2338659,1371600,1345074,26526,967059,58.6,57.5,1.9,41.4
+Jan-Mar,Jan,Mar,2022,Northern Ireland,Male,All aged 16 & over,723389,461954,446535,15419,261435,63.9,61.7,3.3,36.1
+Jan-Mar,Jan,Mar,2022,Northern Ireland,Female,All aged 16 & over,756613,412378,404821,7557,344235,54.5,53.5,1.8,45.5
+Jan-Mar,Jan,Mar,2023,North East,Male,All aged 16 & over,1050244,660958,626817,34141,389286,62.9,59.7,5.2,37.1
+Jan-Mar,Jan,Mar,2023,North East,Female,All aged 16 & over,1108526,633699,613082,20617,474827,57.2,55.3,3.3,42.8
+Jan-Mar,Jan,Mar,2023,Yorkshire and The Humber,Male,All aged 16 & over,2164837,1437749,1365853,71896,727088,66.4,63.1,5.0,33.6
+Jan-Mar,Jan,Mar,2023,Yorkshire and The Humber,Female,All aged 16 & over,2247769,1303233,1267695,35538,944536,58.0,56.4,2.7,42.0
+Jan-Mar,Jan,Mar,2023,East Midlands,Male,All aged 16 & over,1918569,1314147,1263256,50891,604422,68.5,65.8,3.9,31.5
+Jan-Mar,Jan,Mar,2023,East Midlands,Female,All aged 16 & over,1986192,1121414,1081413,40001,864778,56.5,54.4,3.6,43.5
+Jan-Mar,Jan,Mar,2023,West Midland,Male,All aged 16 & over,2333494,1593553,1503861,89692,739941,68.3,64.4,5.6,31.7
+Jan-Mar,Jan,Mar,2023,West Midland,Female,All aged 16 & over,2403689,1388748,1326147,62601,1014941,57.8,55.2,4.5,42.2
+Jan-Mar,Jan,Mar,2023,East of England,Male,All aged 16 & over,2473317,1708168,1646947,61220,765149,69.1,66.6,3.6,30.9
+Jan-Mar,Jan,Mar,2023,East of England,Female,All aged 16 & over,2580630,1570658,1499378,71281,1009972,60.9,58.1,4.5,39.1
+Jan-Mar,Jan,Mar,2023,London,Male,All aged 16 & over,3611499,2754692,2652231,102461,856807,76.3,73.4,3.7,23.7
+Jan-Mar,Jan,Mar,2023,London,Female,All aged 16 & over,3645011,2359732,2220993,138739,1285279,64.7,60.9,5.9,35.3
+Jan-Mar,Jan,Mar,2023,South East,Male,All aged 16 & over,3624845,2504725,2398524,106202,1120120,69.1,66.2,4.2,30.9
+Jan-Mar,Jan,Mar,2023,South East,Female,All aged 16 & over,3785217,2324747,2249895,74853,1460470,61.4,59.4,3.2,38.6
+Jan-Mar,Jan,Mar,2023,South West,Male,All aged 16 & over,2249484,1497816,1453207,44608,751668,66.6,64.6,3.0,33.4
+Jan-Mar,Jan,Mar,2023,South West,Female,All aged 16 & over,2355278,1377076,1349703,27373,978202,58.5,57.3,2.0,41.5
+Jan-Mar,Jan,Mar,2023,England,Male,All aged 16 & over,22303071,15387343,14755054,632289,6915728,69.0,66.2,4.1,31.0
+Jan-Mar,Jan,Mar,2023,England,Female,All aged 16 & over,23100324,13777115,13256492,520622,9323209,59.6,57.4,3.8,40.4
+Jan-Mar,Jan,Mar,2023,Wales,Male,All aged 16 & over,1262057,813661,761997,51664,448396,64.5,60.4,6.3,35.5
+Jan-Mar,Jan,Mar,2023,Wales,Female,All aged 16 & over,1308558,679663,663050,16613,628895,51.9,50.7,2.4,48.1
+Jan-Mar,Jan,Mar,2023,Scotland,Male,All aged 16 & over,2160464,1401922,1359456,42466,758542,64.9,62.9,3.0,35.1
+Jan-Mar,Jan,Mar,2023,Scotland,Female,All aged 16 & over,2347003,1366681,1323369,43312,980322,58.2,56.4,3.2,41.8
+Jan-Mar,Jan,Mar,2023,Northern Ireland,Male,All aged 16 & over,725870,472231,456440,15791,253639,65.1,62.9,3.3,34.9
+Jul-Sep,Jan,Mar,2023,Northern Ireland,Female,All aged 16 & over,759262,425934,419245,6688,333328,56.1,55.2,1.6,43.9
+Jul-Sep,Jul,Sep,2021,North East,Male,All aged 16 & over,1046320,648938,611844,37094,397382,62.0,58.5,5.7,38.0
+Jul-Sep,Jul,Sep,2021,North East,Female,All aged 16 & over,1102505,604888,577983,26905,497617,54.9,52.4,4.4,45.1
+Jul-Sep,Jul,Sep,2021,Yorkshire and The Humber,Male,All aged 16 & over,2156709,1415968,1346841,69127,740741,65.7,62.4,4.9,34.3
+Jul-Sep,Jul,Sep,2021,Yorkshire and The Humber,Female,All aged 16 & over,2239380,1251781,1202181,49600,987599,55.9,53.7,4.0,44.1
+Jul-Sep,Jul,Sep,2021,East Midlands,Male,All aged 16 & over,1911462,1245519,1190319,55200,665943,65.2,62.3,4.4,34.8
+Jul-Sep,Jul,Sep,2021,East Midlands,Female,All aged 16 & over,1978763,1168525,1125049,43475,810238,59.1,56.9,3.7,40.9
+Jul-Sep,Jul,Sep,2021,West Midland,Male,All aged 16 & over,2324628,1578883,1508494,70388,745745,67.9,64.9,4.5,32.1
+Jul-Sep,Jul,Sep,2021,West Midland,Female,All aged 16 & over,2394684,1365663,1292666,72997,1029021,57.0,54.0,5.3,43.0
+Jul-Sep,Jul,Sep,2021,East of England,Male,All aged 16 & over,2464048,1696183,1636276,59907,767865,68.8,66.4,3.5,31.2
+Jul-Sep,Jul,Sep,2021,East of England,Female,All aged 16 & over,2570918,1553149,1505051,48097,1017769,60.4,58.5,3.1,39.6
+Jul-Sep,Jul,Sep,2021,London,Male,All aged 16 & over,3597576,2692507,2558992,133515,905069,74.8,71.1,5.0,25.2
+Jul-Sep,Jul,Sep,2021,London,Female,All aged 16 & over,3631345,2384206,2233733,150474,1247139,65.7,61.5,6.3,34.3
+Jul-Sep,Jul,Sep,2021,South East,Male,All aged 16 & over,3610917,2500872,2408889,91982,1110045,69.3,66.7,3.7,30.7
+Jul-Sep,Jul,Sep,2021,South East,Female,All aged 16 & over,3770704,2265612,2176904,88707,1505092,60.1,57.7,3.9,39.9
+Jul-Sep,Jul,Sep,2021,South West,Male,All aged 16 & over,2241179,1506169,1451859,54310,735010,67.2,64.8,3.6,32.8
+Jul-Sep,Jul,Sep,2021,South West,Female,All aged 16 & over,2346554,1384362,1344320,40042,962192,59.0,57.3,2.9,41.0
+Jul-Sep,Jul,Sep,2021,England,Male,All aged 16 & over,22217133,15156011,14493469,662543,7061122,68.2,65.2,4.4,31.8
+Jul-Sep,Jul,Sep,2021,England,Female,All aged 16 & over,23011151,13695114,13115161,579953,9316037,59.5,57.0,4.2,40.5
+Jul-Sep,Jul,Sep,2021,Wales,Male,All aged 16 & over,1257324,816389,787190,29200,440935,64.9,62.6,3.6,35.1
+Jul-Sep,Jul,Sep,2021,Wales,Female,All aged 16 & over,1303678,727975,699243,28732,575703,55.8,53.6,3.9,44.2
+Jul-Sep,Jul,Sep,2021,Scotland,Male,All aged 16 & over,2152436,1412692,1347587,65105,739744,65.6,62.6,4.6,34.4
+Jul-Sep,Jul,Sep,2021,Scotland,Female,All aged 16 & over,2338159,1369174,1320512,48662,968985,58.6,56.5,3.6,41.4
+Jul-Sep,Jul,Sep,2021,Northern Ireland,Male,All aged 16 & over,723199,440629,415387,25242,282570,60.9,57.4,5.7,39.1
+Jul-Sep,Jul,Sep,2021,Northern Ireland,Female,All aged 16 & over,756380,425452,413313,12139,330928,56.2,54.6,2.9,43.8
+Jul-Sep,Jul,Sep,2022,North East,Male,All aged 16 & over,1050132,647149,621429,25719,402983,61.6,59.2,4.0,38.4
+Jul-Sep,Jul,Sep,2022,North East,Female,All aged 16 & over,1106553,609989,582681,27308,496564,55.1,52.7,4.5,44.9
+Jul-Sep,Jul,Sep,2022,Yorkshire and The Humber,Male,All aged 16 & over,2164563,1425255,1366465,58790,739308,65.8,63.1,4.1,34.2
+Jul-Sep,Jul,Sep,2022,Yorkshire and The Humber,Female,All aged 16 & over,2247512,1295565,1241944,53621,951947,57.6,55.3,4.1,42.4
+Jul-Sep,Jul,Sep,2022,East Midlands,Male,All aged 16 & over,1918367,1270010,1221187,48823,648357,66.2,63.7,3.8,33.8
+Jul-Sep,Jul,Sep,2022,East Midlands,Female,All aged 16 & over,1985979,1127617,1093020,34597,858362,56.8,55.0,3.1,43.2
+Jul-Sep,Jul,Sep,2022,West Midland,Male,All aged 16 & over,2333116,1550271,1478082,72189,782845,66.4,63.4,4.7,33.6
+Jul-Sep,Jul,Sep,2022,West Midland,Female,All aged 16 & over,2403404,1399851,1332740,67111,1003553,58.2,55.5,4.8,41.8
+Jul-Sep,Jul,Sep,2022,East of England,Male,All aged 16 & over,2473119,1694335,1650309,44026,778784,68.5,66.7,2.6,31.5
+Jul-Sep,Jul,Sep,2022,East of England,Female,All aged 16 & over,2580349,1558267,1512252,46014,1022082,60.4,58.6,3.0,39.6
+Jul-Sep,Jul,Sep,2022,London,Male,All aged 16 & over,3610756,2698691,2599660,99030,912065,74.7,72.0,3.7,25.3
+Jul-Sep,Jul,Sep,2022,London,Female,All aged 16 & over,3644625,2312509,2200262,112247,1332116,63.4,60.4,4.9,36.6
+Jul-Sep,Jul,Sep,2022,South East,Male,All aged 16 & over,3624073,2474693,2400877,73816,1149380,68.3,66.2,3.0,31.7
+Jul-Sep,Jul,Sep,2022,South East,Female,All aged 16 & over,3784570,2276446,2207127,69319,1508124,60.2,58.3,3.0,39.8
+Jul-Sep,Jul,Sep,2022,South West,Male,All aged 16 & over,2249279,1481418,1437647,43771,767861,65.9,63.9,3.0,34.1
+Jul-Sep,Jul,Sep,2022,South West,Female,All aged 16 & over,2355060,1391766,1364347,27419,963294,59.1,57.9,2.0,40.9
+Jul-Sep,Jul,Sep,2022,England,Male,All aged 16 & over,22298131,15108157,14567799,540357,7189974,67.8,65.3,3.6,32.2
+Jul-Sep,Jul,Sep,2022,England,Female,All aged 16 & over,23095340,13672554,13167712,504842,9422786,59.2,57.0,3.7,40.8
+Jul-Sep,Jul,Sep,2022,Wales,Male,All aged 16 & over,1261952,800758,769335,31423,461194,63.5,61.0,3.9,36.5
+Jul-Sep,Jul,Sep,2022,Wales,Female,All aged 16 & over,1308424,701740,678290,23450,606684,53.6,51.8,3.3,46.4
+Jul-Sep,Jul,Sep,2022,Scotland,Male,All aged 16 & over,2160302,1387553,1328255,59298,772749,64.2,61.5,4.3,35.8
+Jul-Sep,Jul,Sep,2022,Scotland,Female,All aged 16 & over,2346664,1415999,1377039,38960,930665,60.3,58.7,2.8,39.7
+Jul-Sep,Jul,Sep,2022,Northern Ireland,Male,All aged 16 & over,725832,459933,442598,17336,265899,63.4,61.0,3.8,36.6
+Jun-Aug,Jul,Sep,2022,Northern Ireland,Female,All aged 16 & over,759184,417218,408421,8797,341966,55.0,53.8,2.1,45.0
+Jun-Aug,Jun,Aug,2021,North East,Male,All aged 16 & over,1045948,648193,608539,39654,397755,62.0,58.2,6.1,38.0
+Jun-Aug,Jun,Aug,2021,North East,Female,All aged 16 & over,1102129,614216,588112,26103,487913,55.7,53.4,4.2,44.3
+Jun-Aug,Jun,Aug,2021,Yorkshire and The Humber,Male,All aged 16 & over,2155968,1417602,1344878,72723,738366,65.8,62.4,5.1,34.2
+Jun-Aug,Jun,Aug,2021,Yorkshire and The Humber,Female,All aged 16 & over,2238565,1257519,1203388,54131,981046,56.2,53.8,4.3,43.8
+Jun-Aug,Jun,Aug,2021,East Midlands,Male,All aged 16 & over,1910754,1246093,1188982,57111,664661,65.2,62.2,4.6,34.8
+Jun-Aug,Jun,Aug,2021,East Midlands,Female,All aged 16 & over,1978143,1166869,1119425,47445,811274,59.0,56.6,4.1,41.0
+Jun-Aug,Jun,Aug,2021,West Midland,Male,All aged 16 & over,2323844,1557519,1486742,70777,766325,67.0,64.0,4.5,33.0
+Jun-Aug,Jun,Aug,2021,West Midland,Female,All aged 16 & over,2393843,1376244,1303357,72886,1017599,57.5,54.4,5.3,42.5
+Jun-Aug,Jun,Aug,2021,East of England,Male,All aged 16 & over,2463249,1707585,1648911,58674,755664,69.3,66.9,3.4,30.7
+Jun-Aug,Jun,Aug,2021,East of England,Female,All aged 16 & over,2570065,1559573,1503678,55895,1010492,60.7,58.5,3.6,39.3
+Jun-Aug,Jun,Aug,2021,London,Male,All aged 16 & over,3596350,2686663,2536075,150589,909687,74.7,70.5,5.6,25.3
+Jun-Aug,Jun,Aug,2021,London,Female,All aged 16 & over,3630096,2382688,2240891,141797,1247408,65.6,61.7,6.0,34.4
+Jun-Aug,Jun,Aug,2021,South East,Male,All aged 16 & over,3609684,2507920,2403395,104526,1101764,69.5,66.6,4.2,30.5
+Jun-Aug,Jun,Aug,2021,South East,Female,All aged 16 & over,3769464,2258290,2165024,93266,1511174,59.9,57.4,4.1,40.1
+Jun-Aug,Jun,Aug,2021,South West,Male,All aged 16 & over,2240389,1492535,1439918,52617,747854,66.6,64.3,3.5,33.4
+Jun-Aug,Jun,Aug,2021,South West,Female,All aged 16 & over,2345777,1360460,1316597,43862,985317,58.0,56.1,3.2,42.0
+Jun-Aug,Jun,Aug,2021,England,Male,All aged 16 & over,22209502,15123795,14424376,699419,7085707,68.1,64.9,4.6,31.9
+Jun-Aug,Jun,Aug,2021,England,Female,All aged 16 & over,23003385,13675136,13087366,587770,9328249,59.4,56.9,4.3,40.6
+Jun-Aug,Jun,Aug,2021,Wales,Male,All aged 16 & over,1256842,821538,788468,33070,435304,65.4,62.7,4.0,34.6
+Jun-Aug,Jun,Aug,2021,Wales,Female,All aged 16 & over,1303277,732782,703004,29778,570495,56.2,53.9,4.1,43.8
+Jun-Aug,Jun,Aug,2021,Scotland,Male,All aged 16 & over,2151687,1408365,1342189,66176,743322,65.5,62.4,4.7,34.5
+Jun-Aug,Jun,Aug,2021,Scotland,Female,All aged 16 & over,2337298,1363963,1308086,55877,973335,58.4,56.0,4.1,41.6
+Jun-Aug,Jun,Aug,2021,Northern Ireland,Male,All aged 16 & over,722956,446441,420608,25834,276515,61.8,58.2,5.8,38.2
+Jun-Aug,Jun,Aug,2021,Northern Ireland,Female,All aged 16 & over,756233,428140,415171,12970,328093,56.6,54.9,3.0,43.4
+Jun-Aug,Jun,Aug,2022,North East,Male,All aged 16 & over,1049720,645586,619009,26577,404134,61.5,59.0,4.1,38.5
+Jun-Aug,Jun,Aug,2022,North East,Female,All aged 16 & over,1106138,606881,577851,29031,499257,54.9,52.2,4.8,45.1
+Jun-Aug,Jun,Aug,2022,Yorkshire and The Humber,Male,All aged 16 & over,2163776,1422751,1370299,52451,741025,65.8,63.3,3.7,34.2
+Jun-Aug,Jun,Aug,2022,Yorkshire and The Humber,Female,All aged 16 & over,2246698,1289619,1236055,53564,957079,57.4,55.0,4.2,42.6
+Jun-Aug,Jun,Aug,2022,East Midlands,Male,All aged 16 & over,1917640,1256233,1215473,40760,661407,65.5,63.4,3.2,34.5
+Jun-Aug,Jun,Aug,2022,East Midlands,Female,All aged 16 & over,1985225,1129874,1097019,32855,855351,56.9,55.3,2.9,43.1
+Jun-Aug,Jun,Aug,2022,West Midland,Male,All aged 16 & over,2332238,1569927,1494458,75469,762311,67.3,64.1,4.8,32.7
+Jun-Aug,Jun,Aug,2022,West Midland,Female,All aged 16 & over,2402500,1401273,1337600,63674,1001227,58.3,55.7,4.5,41.7
+Jun-Aug,Jun,Aug,2022,East of England,Male,All aged 16 & over,2472125,1696864,1654429,42434,775261,68.6,66.9,2.5,31.4
+Jun-Aug,Jun,Aug,2022,East of England,Female,All aged 16 & over,2579340,1563548,1514368,49180,1015792,60.6,58.7,3.1,39.4
+Jun-Aug,Jun,Aug,2022,London,Male,All aged 16 & over,3609299,2684950,2587937,97013,924349,74.4,71.7,3.6,25.6
+Jun-Aug,Jun,Aug,2022,London,Female,All aged 16 & over,3643166,2307361,2202941,104420,1335805,63.3,60.5,4.5,36.7
+Jun-Aug,Jun,Aug,2022,South East,Male,All aged 16 & over,3622697,2465668,2382174,83494,1157029,68.1,65.8,3.4,31.9
+Jun-Aug,Jun,Aug,2022,South East,Female,All aged 16 & over,3783076,2279003,2212404,66599,1504073,60.2,58.5,2.9,39.8
+Jun-Aug,Jun,Aug,2022,South West,Male,All aged 16 & over,2248427,1471430,1424359,47071,776997,65.4,63.3,3.2,34.6
+Jun-Aug,Jun,Aug,2022,South West,Female,All aged 16 & over,2354184,1392456,1363262,29194,961728,59.1,57.9,2.1,40.9
+Jun-Aug,Jun,Aug,2022,England,Male,All aged 16 & over,22289574,15078419,14550124,528296,7211155,67.6,65.3,3.5,32.4
+Jun-Aug,Jun,Aug,2022,England,Female,All aged 16 & over,23086366,13681840,13189874,491965,9404526,59.3,57.1,3.6,40.7
+Jun-Aug,Jun,Aug,2022,Wales,Male,All aged 16 & over,1261401,797011,769795,27215,464390,63.2,61.0,3.4,36.8
+Jun-Aug,Jun,Aug,2022,Wales,Female,All aged 16 & over,1307942,699506,676874,22632,608436,53.5,51.8,3.2,46.5
+Jun-Aug,Jun,Aug,2022,Scotland,Male,All aged 16 & over,2159451,1404189,1347856,56332,755262,65.0,62.4,4.0,35.0
+Jun-Aug,Jun,Aug,2022,Scotland,Female,All aged 16 & over,2345741,1403523,1368461,35061,942218,59.8,58.3,2.5,40.2
+Jun-Aug,Jun,Aug,2022,Northern Ireland,Male,All aged 16 & over,725590,461264,445513,15751,264326,63.6,61.4,3.4,36.4
+Mar-May,Jun,Aug,2022,Northern Ireland,Female,All aged 16 & over,758936,416288,405562,10726,342648,54.9,53.4,2.6,45.1
+Mar-May,Mar,May,2021,North East,Male,All aged 16 & over,1044131,663889,614887,49002,380242,63.6,58.9,7.4,36.4
+Mar-May,Mar,May,2021,North East,Female,All aged 16 & over,1100289,613804,587871,25933,486485,55.8,53.4,4.2,44.2
+Mar-May,Mar,May,2021,Yorkshire and The Humber,Male,All aged 16 & over,2151517,1417763,1343601,74162,733754,65.9,62.4,5.2,34.1
+Mar-May,Mar,May,2021,Yorkshire and The Humber,Female,All aged 16 & over,2234266,1260985,1198743,62241,973281,56.4,53.7,4.9,43.6
+Mar-May,Mar,May,2021,East Midlands,Male,All aged 16 & over,1906192,1256296,1190761,65534,649896,65.9,62.5,5.2,34.1
+Mar-May,Mar,May,2021,East Midlands,Female,All aged 16 & over,1973559,1156948,1104139,52809,816611,58.6,55.9,4.6,41.4
+Mar-May,Mar,May,2021,West Midland,Male,All aged 16 & over,2318281,1558816,1467715,91102,759465,67.2,63.3,5.8,32.8
+Mar-May,Mar,May,2021,West Midland,Female,All aged 16 & over,2388476,1389776,1314069,75707,998700,58.2,55.0,5.4,41.8
+Mar-May,Mar,May,2021,East of England,Male,All aged 16 & over,2456726,1679087,1612929,66158,777639,68.3,65.7,3.9,31.7
+Mar-May,Mar,May,2021,East of England,Female,All aged 16 & over,2563497,1526921,1465524,61396,1036576,59.6,57.2,4.0,40.4
+Mar-May,Mar,May,2021,London,Male,All aged 16 & over,3585165,2663876,2507437,156439,921289,74.3,69.9,5.9,25.7
+Mar-May,Mar,May,2021,London,Female,All aged 16 & over,3620190,2399581,2225767,173813,1220609,66.3,61.5,7.2,33.7
+Mar-May,Mar,May,2021,South East,Male,All aged 16 & over,3600429,2500175,2387221,112955,1100254,69.4,66.3,4.5,30.6
+Mar-May,Mar,May,2021,South East,Female,All aged 16 & over,3760380,2232643,2148596,84047,1527737,59.4,57.1,3.8,40.6
+Mar-May,Mar,May,2021,South West,Male,All aged 16 & over,2234741,1465496,1416243,49253,769245,65.6,63.4,3.4,34.4
+Mar-May,Mar,May,2021,South West,Female,All aged 16 & over,2340170,1343069,1290476,52593,997101,57.4,55.1,3.9,42.6
+Mar-May,Mar,May,2021,England,Male,All aged 16 & over,22154660,15039538,14294797,744741,7115122,67.9,64.5,5.0,32.1
+Mar-May,Mar,May,2021,England,Female,All aged 16 & over,22950529,13665716,12981767,683950,9284813,59.5,56.6,5.0,40.5
+Mar-May,Mar,May,2021,Wales,Male,All aged 16 & over,1254302,810801,771577,39224,443501,64.6,61.5,4.8,35.4
+Mar-May,Mar,May,2021,Wales,Female,All aged 16 & over,1300787,716014,695766,20248,584773,55.0,53.5,2.8,45.0
+Mar-May,Mar,May,2021,Scotland,Male,All aged 16 & over,2147149,1391725,1321292,70433,755424,64.8,61.5,5.1,35.2
+Mar-May,Mar,May,2021,Scotland,Female,All aged 16 & over,2332796,1366571,1315376,51195,966225,58.6,56.4,3.7,41.4
+Mar-May,Mar,May,2021,Northern Ireland,Male,All aged 16 & over,721269,433331,409888,23444,287938,60.1,56.8,5.4,39.9
+Mar-May,Mar,May,2021,Northern Ireland,Female,All aged 16 & over,754619,412956,400996,11959,341663,54.7,53.1,2.9,45.3
+Mar-May,Mar,May,2022,North East,Male,All aged 16 & over,1047280,653229,615444,37785,394051,62.4,58.8,5.8,37.6
+Mar-May,Mar,May,2022,North East,Female,All aged 16 & over,1103503,613271,586886,26385,490232,55.6,53.2,4.3,44.4
+Mar-May,Mar,May,2022,Yorkshire and The Humber,Male,All aged 16 & over,2158660,1430921,1367224,63696,727739,66.3,63.3,4.5,33.7
+Mar-May,Mar,May,2022,Yorkshire and The Humber,Female,All aged 16 & over,2241399,1289958,1231166,58792,951441,57.6,54.9,4.6,42.4
+Mar-May,Mar,May,2022,East Midlands,Male,All aged 16 & over,1913162,1263210,1232630,30580,649952,66.0,64.4,2.4,34.0
+Mar-May,Mar,May,2022,East Midlands,Female,All aged 16 & over,1980588,1173877,1144013,29865,806711,59.3,57.8,2.5,40.7
+Mar-May,Mar,May,2022,West Midland,Male,All aged 16 & over,2326752,1572296,1502957,69338,754456,67.6,64.6,4.4,32.4
+Mar-May,Mar,May,2022,West Midland,Female,All aged 16 & over,2396828,1404661,1342069,62592,992167,58.6,56.0,4.5,41.4
+Mar-May,Mar,May,2022,East of England,Male,All aged 16 & over,2466288,1690492,1634236,56256,775796,68.5,66.3,3.3,31.5
+Mar-May,Mar,May,2022,East of England,Female,All aged 16 & over,2573286,1553535,1494320,59215,1019751,60.4,58.1,3.8,39.6
+Mar-May,Mar,May,2022,London,Male,All aged 16 & over,3600859,2735761,2614373,121388,865098,76.0,72.6,4.4,24.0
+Mar-May,Mar,May,2022,London,Female,All aged 16 & over,3634672,2321245,2208142,113103,1313427,63.9,60.8,4.9,36.1
+Mar-May,Mar,May,2022,South East,Male,All aged 16 & over,3614220,2468701,2392309,76392,1145519,68.3,66.2,3.1,31.7
+Mar-May,Mar,May,2022,South East,Female,All aged 16 & over,3774167,2267500,2204719,62780,1506667,60.1,58.4,2.8,39.9
+Mar-May,Mar,May,2022,South West,Male,All aged 16 & over,2243151,1491658,1445899,45759,751493,66.5,64.5,3.1,33.5
+Mar-May,Mar,May,2022,South West,Female,All aged 16 & over,2348651,1399887,1366578,33309,948764,59.6,58.2,2.4,40.4
+Mar-May,Mar,May,2022,England,Male,All aged 16 & over,22237253,15198909,14609347,589562,7038344,68.3,65.7,3.9,31.7
+Mar-May,Mar,May,2022,England,Female,All aged 16 & over,23032063,13741880,13225966,515914,9290183,59.7,57.4,3.8,40.3
+Mar-May,Mar,May,2022,Wales,Male,All aged 16 & over,1258445,811691,779070,32621,446754,64.5,61.9,4.0,35.5
+Mar-May,Mar,May,2022,Wales,Female,All aged 16 & over,1304847,717982,692628,25353,586865,55.0,53.1,3.5,45.0
+Mar-May,Mar,May,2022,Scotland,Male,All aged 16 & over,2154391,1411368,1347881,63487,743023,65.5,62.6,4.5,34.5
+Mar-May,Mar,May,2022,Scotland,Female,All aged 16 & over,2340241,1388874,1352983,35890,951367,59.3,57.8,2.6,40.7
+Mar-May,Mar,May,2022,Northern Ireland,Male,All aged 16 & over,723887,463985,450439,13545,259902,64.1,62.2,2.9,35.9
+May-Jul,Mar,May,2022,Northern Ireland,Female,All aged 16 & over,757164,413287,404291,8995,343877,54.6,53.4,2.2,45.4
+May-Jul,May,Jul,2021,North East,Male,All aged 16 & over,1045309,658060,615619,42441,387249,63.0,58.9,6.4,37.0
+May-Jul,May,Jul,2021,North East,Female,All aged 16 & over,1101389,614966,590591,24374,486423,55.8,53.6,4.0,44.2
+May-Jul,May,Jul,2021,Yorkshire and The Humber,Male,All aged 16 & over,2154584,1420539,1347126,73413,734045,65.9,62.5,5.2,34.1
+May-Jul,May,Jul,2021,Yorkshire and The Humber,Female,All aged 16 & over,2237175,1264384,1212192,52192,972791,56.5,54.2,4.1,43.5
+May-Jul,May,Jul,2021,East Midlands,Male,All aged 16 & over,1909530,1245988,1187763,58226,663542,65.3,62.2,4.7,34.7
+May-Jul,May,Jul,2021,East Midlands,Female,All aged 16 & over,1976888,1151456,1103239,48217,825432,58.2,55.8,4.2,41.8
+May-Jul,May,Jul,2021,West Midland,Male,All aged 16 & over,2322326,1562412,1478168,84244,759914,67.3,63.7,5.4,32.7
+May-Jul,May,Jul,2021,West Midland,Female,All aged 16 & over,2392270,1375141,1307170,67971,1017129,57.5,54.6,4.9,42.5
+May-Jul,May,Jul,2021,East of England,Male,All aged 16 & over,2461681,1686902,1623200,63702,774779,68.5,65.9,3.8,31.5
+May-Jul,May,Jul,2021,East of England,Female,All aged 16 & over,2568430,1548044,1492389,55656,1020386,60.3,58.1,3.6,39.7
+May-Jul,May,Jul,2021,London,Male,All aged 16 & over,3594064,2690841,2544666,146175,903223,74.9,70.8,5.4,25.1
+May-Jul,May,Jul,2021,London,Female,All aged 16 & over,3627757,2386145,2225928,160216,1241612,65.8,61.4,6.7,34.2
+May-Jul,May,Jul,2021,South East,Male,All aged 16 & over,3607400,2503855,2391894,111961,1103545,69.4,66.3,4.5,30.6
+May-Jul,May,Jul,2021,South East,Female,All aged 16 & over,3767109,2260374,2176962,83412,1506735,60.0,57.8,3.7,40.0
+May-Jul,May,Jul,2021,South West,Male,All aged 16 & over,2238935,1482733,1433585,49149,756202,66.2,64.0,3.3,33.8
+May-Jul,May,Jul,2021,South West,Female,All aged 16 & over,2344235,1352306,1307993,44313,991929,57.7,55.8,3.3,42.3
+May-Jul,May,Jul,2021,England,Male,All aged 16 & over,22195290,15101640,14382246,719394,7093650,68.0,64.8,4.8,32.0
+May-Jul,May,Jul,2021,England,Female,All aged 16 & over,22988597,13672931,13059936,612996,9315666,59.5,56.8,4.5,40.5
+May-Jul,May,Jul,2021,Wales,Male,All aged 16 & over,1256062,821564,786976,34588,434498,65.4,62.7,4.2,34.6
+May-Jul,May,Jul,2021,Wales,Female,All aged 16 & over,1302352,738664,707387,31278,563688,56.7,54.3,4.2,43.3
+May-Jul,May,Jul,2021,Scotland,Male,All aged 16 & over,2150319,1398441,1334065,64376,751878,65.0,62.0,4.6,35.0
+May-Jul,May,Jul,2021,Scotland,Female,All aged 16 & over,2335849,1360300,1305924,54376,975549,58.2,55.9,4.0,41.8
+May-Jul,May,Jul,2021,Northern Ireland,Male,All aged 16 & over,722501,444106,417203,26903,278395,61.5,57.7,6.1,38.5
+May-Jul,May,Jul,2021,Northern Ireland,Female,All aged 16 & over,755775,428122,415739,12383,327653,56.6,55.0,2.9,43.4
+May-Jul,May,Jul,2022,North East,Male,All aged 16 & over,1049053,651070,618915,32155,397983,62.1,59.0,4.9,37.9
+May-Jul,May,Jul,2022,North East,Female,All aged 16 & over,1105429,606205,579271,26935,499224,54.8,52.4,4.4,45.2
+May-Jul,May,Jul,2022,Yorkshire and The Humber,Male,All aged 16 & over,2162351,1432869,1369938,62931,729482,66.3,63.4,4.4,33.7
+May-Jul,May,Jul,2022,Yorkshire and The Humber,Female,All aged 16 & over,2245278,1281020,1222696,58323,964258,57.1,54.5,4.6,42.9
+May-Jul,May,Jul,2022,East Midlands,Male,All aged 16 & over,1916397,1255717,1221647,34069,660680,65.5,63.7,2.7,34.5
+May-Jul,May,Jul,2022,East Midlands,Female,All aged 16 & over,1983919,1154296,1121649,32647,829623,58.2,56.5,2.8,41.8
+May-Jul,May,Jul,2022,West Midland,Male,All aged 16 & over,2330739,1580293,1512272,68021,750446,67.8,64.9,4.3,32.2
+May-Jul,May,Jul,2022,West Midland,Female,All aged 16 & over,2400942,1406260,1338178,68082,994682,58.6,55.7,4.8,41.4
+May-Jul,May,Jul,2022,East of England,Male,All aged 16 & over,2470496,1695714,1646055,49659,774782,68.6,66.6,2.9,31.4
+May-Jul,May,Jul,2022,East of England,Female,All aged 16 & over,2577651,1544912,1495688,49224,1032739,59.9,58.0,3.2,40.1
+May-Jul,May,Jul,2022,London,Male,All aged 16 & over,3607010,2704702,2594197,110505,902308,75.0,71.9,4.1,25.0
+May-Jul,May,Jul,2022,London,Female,All aged 16 & over,3640858,2303270,2201386,101884,1337588,63.3,60.5,4.4,36.7
+May-Jul,May,Jul,2022,South East,Male,All aged 16 & over,3620375,2467910,2373412,94498,1152465,68.2,65.6,3.8,31.8
+May-Jul,May,Jul,2022,South East,Female,All aged 16 & over,3780661,2269700,2196238,73461,1510961,60.0,58.1,3.2,40.0
+May-Jul,May,Jul,2022,South West,Male,All aged 16 & over,2246989,1474306,1425823,48483,772683,65.6,63.5,3.3,34.4
+May-Jul,May,Jul,2022,South West,Female,All aged 16 & over,2352660,1390668,1361381,29287,961992,59.1,57.9,2.1,40.9
+May-Jul,May,Jul,2022,England,Male,All aged 16 & over,22275174,15138615,14578915,559700,7136559,68.0,65.4,3.7,32.0
+May-Jul,May,Jul,2022,England,Female,All aged 16 & over,23071493,13667534,13162641,504893,9403959,59.2,57.1,3.7,40.8
+May-Jul,May,Jul,2022,Wales,Male,All aged 16 & over,1260604,800223,772804,27419,460381,63.5,61.3,3.4,36.5
+May-Jul,May,Jul,2022,Wales,Female,All aged 16 & over,1307102,699517,678331,21186,607585,53.5,51.9,3.0,46.5
+May-Jul,May,Jul,2022,Scotland,Male,All aged 16 & over,2158071,1399394,1342493,56902,758677,64.8,62.2,4.1,35.2
+May-Jul,May,Jul,2022,Scotland,Female,All aged 16 & over,2344264,1389086,1360781,28305,955178,59.3,58.0,2.0,40.7
+May-Jul,May,Jul,2022,Northern Ireland,Male,All aged 16 & over,725103,462297,446294,16003,262806,63.8,61.5,3.5,36.2
+Nov-Jan,May,Jul,2022,Northern Ireland,Female,All aged 16 & over,758445,413690,404154,9536,344755,54.5,53.3,2.3,45.5
+Nov-Jan,Nov,Jan,2022,North East,Male,All aged 16 & over,1045851,650424,616188,34236,395427,62.2,58.9,5.3,37.8
+Nov-Jan,Nov,Jan,2022,North East,Female,All aged 16 & over,1102035,609836,575003,34833,492199,55.3,52.2,5.7,44.7
+Nov-Jan,Nov,Jan,2022,Yorkshire and The Humber,Male,All aged 16 & over,2155736,1406149,1339418,66731,749587,65.2,62.1,4.7,34.8
+Nov-Jan,Nov,Jan,2022,Yorkshire and The Humber,Female,All aged 16 & over,2238362,1234945,1197497,37447,1003417,55.2,53.5,3.0,44.8
+Nov-Jan,Nov,Jan,2022,East Midlands,Male,All aged 16 & over,1910545,1243191,1198050,45141,667354,65.1,62.7,3.6,34.9
+Nov-Jan,Nov,Jan,2022,East Midlands,Female,All aged 16 & over,1977902,1170731,1142509,28223,807171,59.2,57.8,2.4,40.8
+Nov-Jan,Nov,Jan,2022,West Midland,Male,All aged 16 & over,2323573,1593771,1524867,68904,729802,68.6,65.6,4.3,31.4
+Nov-Jan,Nov,Jan,2022,West Midland,Female,All aged 16 & over,2393610,1403162,1322987,80176,990448,58.6,55.3,5.7,41.4
+Nov-Jan,Nov,Jan,2022,East of England,Male,All aged 16 & over,2462967,1678322,1625196,53126,784645,68.1,66.0,3.2,31.9
+Nov-Jan,Nov,Jan,2022,East of England,Female,All aged 16 & over,2569749,1537446,1491813,45633,1032303,59.8,58.1,3.0,40.2
+Nov-Jan,Nov,Jan,2022,London,Male,All aged 16 & over,3595991,2718894,2600124,118771,877097,75.6,72.3,4.4,24.4
+Nov-Jan,Nov,Jan,2022,London,Female,All aged 16 & over,3629745,2338563,2205838,132725,1291182,64.4,60.8,5.7,35.6
+Nov-Jan,Nov,Jan,2022,South East,Male,All aged 16 & over,3609312,2476553,2368188,108365,1132759,68.6,65.6,4.4,31.4
+Nov-Jan,Nov,Jan,2022,South East,Female,All aged 16 & over,3769070,2252592,2182543,70049,1516478,59.8,57.9,3.1,40.2
+Nov-Jan,Nov,Jan,2022,South West,Male,All aged 16 & over,2240084,1469131,1426917,42214,770953,65.6,63.7,2.9,34.4
+Nov-Jan,Nov,Jan,2022,South West,Female,All aged 16 & over,2345486,1391753,1354250,37503,953733,59.3,57.7,2.7,40.7
+Nov-Jan,Nov,Jan,2022,England,Male,All aged 16 & over,22207075,15086420,14449260,637160,7120655,67.9,65.1,4.2,32.1
+Nov-Jan,Nov,Jan,2022,England,Female,All aged 16 & over,23000944,13644543,13114946,529597,9356401,59.3,57.0,3.9,40.7
+Nov-Jan,Nov,Jan,2022,Wales,Male,All aged 16 & over,1256730,800774,776379,24396,455956,63.7,61.8,3.0,36.3
+Nov-Jan,Nov,Jan,2022,Wales,Female,All aged 16 & over,1303115,720748,698933,21815,582367,55.3,53.6,3.0,44.7
+Nov-Jan,Nov,Jan,2022,Scotland,Male,All aged 16 & over,2151451,1403955,1340967,62987,747496,65.3,62.3,4.5,34.7
+Nov-Jan,Nov,Jan,2022,Scotland,Female,All aged 16 & over,2337081,1364525,1321632,42893,972556,58.4,56.6,3.1,41.6
+Nov-Jan,Nov,Jan,2022,Northern Ireland,Male,All aged 16 & over,722900,445125,426486,18639,277775,61.6,59.0,4.2,38.4
+Nov-Jan,Nov,Jan,2022,Northern Ireland,Female,All aged 16 & over,756093,410349,401441,8909,345744,54.3,53.1,2.2,45.7
+Nov-Jan,Nov,Jan,2023,North East,Male,All aged 16 & over,1049957,648995,618112,30883,400962,61.8,58.9,4.8,38.2
+Nov-Jan,Nov,Jan,2023,North East,Female,All aged 16 & over,1106193,620112,598456,21656,486081,56.1,54.1,3.5,43.9
+Nov-Jan,Nov,Jan,2023,Yorkshire and The Humber,Male,All aged 16 & over,2163416,1428726,1381205,47521,734690,66.0,63.8,3.3,34.0
+Nov-Jan,Nov,Jan,2023,Yorkshire and The Humber,Female,All aged 16 & over,2246385,1275326,1236446,38880,971059,56.8,55.0,3.0,43.2
+Nov-Jan,Nov,Jan,2023,East Midlands,Male,All aged 16 & over,1917398,1291244,1245420,45824,626154,67.3,65.0,3.5,32.7
+Nov-Jan,Nov,Jan,2023,East Midlands,Female,All aged 16 & over,1984941,1112290,1074599,37692,872651,56.0,54.1,3.4,44.0
+Nov-Jan,Nov,Jan,2023,West Midland,Male,All aged 16 & over,2331907,1536679,1463905,72773,795228,65.9,62.8,4.7,34.1
+Nov-Jan,Nov,Jan,2023,West Midland,Female,All aged 16 & over,2402141,1388577,1329126,59452,1013564,57.8,55.3,4.3,42.2
+Nov-Jan,Nov,Jan,2023,East of England,Male,All aged 16 & over,2472027,1715332,1660563,54769,756695,69.4,67.2,3.2,30.6
+Nov-Jan,Nov,Jan,2023,East of England,Female,All aged 16 & over,2578955,1537752,1469387,68365,1041203,59.6,57.0,4.4,40.4
+Nov-Jan,Nov,Jan,2023,London,Male,All aged 16 & over,3608922,2648959,2560173,88786,959963,73.4,70.9,3.4,26.6
+Nov-Jan,Nov,Jan,2023,London,Female,All aged 16 & over,3642676,2341334,2204110,137224,1301342,64.3,60.5,5.9,35.7
+Nov-Jan,Nov,Jan,2023,South East,Male,All aged 16 & over,3622227,2503815,2389300,114516,1118412,69.1,66.0,4.6,30.9
+Nov-Jan,Nov,Jan,2023,South East,Female,All aged 16 & over,3782681,2320683,2250099,70585,1461998,61.4,59.5,3.0,38.6
+Nov-Jan,Nov,Jan,2023,South West,Male,All aged 16 & over,2248169,1495851,1450389,45462,752318,66.5,64.5,3.0,33.5
+Nov-Jan,Nov,Jan,2023,South West,Female,All aged 16 & over,2353924,1411754,1389124,22630,942170,60.0,59.0,1.6,40.0
+Nov-Jan,Nov,Jan,2023,England,Male,All aged 16 & over,22287435,15160835,14589058,571776,7126600,68.0,65.5,3.8,32.0
+Nov-Jan,Nov,Jan,2023,England,Female,All aged 16 & over,23083364,13717728,13199161,518568,9365636,59.4,57.2,3.8,40.6
+Nov-Jan,Nov,Jan,2023,Wales,Male,All aged 16 & over,1261260,808223,774170,34053,453037,64.1,61.4,4.2,35.9
+Nov-Jan,Nov,Jan,2023,Wales,Female,All aged 16 & over,1307755,686092,667633,18458,621663,52.5,51.1,2.7,47.5
+Nov-Jan,Nov,Jan,2023,Scotland,Male,All aged 16 & over,2159387,1419845,1366694,53152,739542,65.8,63.3,3.7,34.2
+Nov-Jan,Nov,Jan,2023,Scotland,Female,All aged 16 & over,2345615,1406295,1371109,35186,939320,60.0,58.5,2.5,40.0
+Nov-Jan,Nov,Jan,2023,Northern Ireland,Male,All aged 16 & over,725450,471339,456161,15178,254111,65.0,62.9,3.2,35.0
+Oct-Dec,Nov,Jan,2023,Northern Ireland,Female,All aged 16 & over,758809,420981,414822,6159,337828,55.5,54.7,1.5,44.5
+Oct-Dec,Oct,Dec,2021,North East,Male,All aged 16 & over,1046061,655142,622157,32985,390919,62.6,59.5,5.0,37.4
+Oct-Dec,Oct,Dec,2021,North East,Female,All aged 16 & over,1102230,605949,568221,37728,496281,55.0,51.6,6.2,45.0
+Oct-Dec,Oct,Dec,2021,Yorkshire and The Humber,Male,All aged 16 & over,2156173,1412722,1349963,62759,743451,65.5,62.6,4.4,34.5
+Oct-Dec,Oct,Dec,2021,Yorkshire and The Humber,Female,All aged 16 & over,2238775,1239071,1201749,37322,999704,55.3,53.7,3.0,44.7
+Oct-Dec,Oct,Dec,2021,East Midlands,Male,All aged 16 & over,1910955,1232810,1185004,47807,678145,64.5,62.0,3.9,35.5
+Oct-Dec,Oct,Dec,2021,East Midlands,Female,All aged 16 & over,1978279,1168910,1135808,33103,809369,59.1,57.4,2.8,40.9
+Oct-Dec,Oct,Dec,2021,West Midland,Male,All aged 16 & over,2324016,1586547,1517429,69118,737469,68.3,65.3,4.4,31.7
+Oct-Dec,Oct,Dec,2021,West Midland,Female,All aged 16 & over,2394090,1391738,1315222,76516,1002352,58.1,54.9,5.5,41.9
+Oct-Dec,Oct,Dec,2021,East of England,Male,All aged 16 & over,2463445,1680310,1629159,51151,783135,68.2,66.1,3.0,31.8
+Oct-Dec,Oct,Dec,2021,East of England,Female,All aged 16 & over,2570238,1549208,1502253,46956,1021030,60.3,58.4,3.0,39.7
+Oct-Dec,Oct,Dec,2021,London,Male,All aged 16 & over,3596683,2719981,2595264,124717,876702,75.6,72.2,4.6,24.4
+Oct-Dec,Oct,Dec,2021,London,Female,All aged 16 & over,3630400,2364518,2228722,135796,1265882,65.1,61.4,5.7,34.9
+Oct-Dec,Oct,Dec,2021,South East,Male,All aged 16 & over,3610029,2479200,2374914,104285,1130829,68.7,65.8,4.2,31.3
+Oct-Dec,Oct,Dec,2021,South East,Female,All aged 16 & over,3769715,2256434,2176633,79801,1513281,59.9,57.7,3.5,40.1
+Oct-Dec,Oct,Dec,2021,South West,Male,All aged 16 & over,2240526,1466692,1424780,41912,773834,65.5,63.6,2.9,34.5
+Oct-Dec,Oct,Dec,2021,South West,Female,All aged 16 & over,2345882,1398665,1360168,38497,947217,59.6,58.0,2.8,40.4
+Oct-Dec,Oct,Dec,2021,England,Male,All aged 16 & over,22211441,15100163,14462866,637297,7111278,68.0,65.1,4.2,32.0
+Oct-Dec,Oct,Dec,2021,England,Female,All aged 16 & over,23005151,13686690,13138351,548340,9318461,59.5,57.1,4.0,40.5
+Oct-Dec,Oct,Dec,2021,Wales,Male,All aged 16 & over,1256986,800945,778677,22268,456041,63.7,61.9,2.8,36.3
+Oct-Dec,Oct,Dec,2021,Wales,Female,All aged 16 & over,1303323,724830,700133,24697,578493,55.6,53.7,3.4,44.4
+Oct-Dec,Oct,Dec,2021,Scotland,Male,All aged 16 & over,2151899,1406169,1342920,63250,745730,65.3,62.4,4.5,34.7
+Oct-Dec,Oct,Dec,2021,Scotland,Female,All aged 16 & over,2337533,1360132,1310984,49148,977401,58.2,56.1,3.6,41.8
+Oct-Dec,Oct,Dec,2021,Northern Ireland,Male,All aged 16 & over,723003,446380,428324,18056,276623,61.7,59.2,4.0,38.3
+Oct-Dec,Oct,Dec,2021,Northern Ireland,Female,All aged 16 & over,756240,414702,405130,9572,341538,54.8,53.6,2.3,45.2
+Oct-Dec,Oct,Dec,2022,North East,Male,All aged 16 & over,1049793,637198,604941,32257,412595,60.7,57.6,5.1,39.3
+Oct-Dec,Oct,Dec,2022,North East,Female,All aged 16 & over,1106149,618639,594814,23825,487510,55.9,53.8,3.9,44.1
+Oct-Dec,Oct,Dec,2022,Yorkshire and The Humber,Male,All aged 16 & over,2163877,1415286,1359482,55804,748591,65.4,62.8,3.9,34.6
+Oct-Dec,Oct,Dec,2022,Yorkshire and The Humber,Female,All aged 16 & over,2246763,1279627,1228554,51072,967136,57.0,54.7,4.0,43.0
+Oct-Dec,Oct,Dec,2022,East Midlands,Male,All aged 16 & over,1917766,1284766,1243158,41608,633000,67.0,64.8,3.2,33.0
+Oct-Dec,Oct,Dec,2022,East Midlands,Female,All aged 16 & over,1985368,1112014,1075141,36872,873354,56.0,54.2,3.3,44.0
+Oct-Dec,Oct,Dec,2022,West Midland,Male,All aged 16 & over,2332309,1537124,1470050,67075,795185,65.9,63.0,4.4,34.1
+Oct-Dec,Oct,Dec,2022,West Midland,Female,All aged 16 & over,2402602,1408296,1344445,63851,994306,58.6,56.0,4.5,41.4
+Oct-Dec,Oct,Dec,2022,East of England,Male,All aged 16 & over,2472288,1714650,1661698,52952,757638,69.4,67.2,3.1,30.6
+Oct-Dec,Oct,Dec,2022,East of England,Female,All aged 16 & over,2579463,1528428,1468052,60376,1051035,59.3,56.9,4.0,40.7
+Oct-Dec,Oct,Dec,2022,London,Male,All aged 16 & over,3609474,2659490,2562936,96554,949984,73.7,71.0,3.6,26.3
+Oct-Dec,Oct,Dec,2022,London,Female,All aged 16 & over,3643408,2357804,2227477,130326,1285604,64.7,61.1,5.5,35.3
+Oct-Dec,Oct,Dec,2022,South East,Male,All aged 16 & over,3622945,2491273,2375633,115641,1131672,68.8,65.6,4.6,31.2
+Oct-Dec,Oct,Dec,2022,South East,Female,All aged 16 & over,3783277,2308269,2230057,78212,1475008,61.0,58.9,3.4,39.0
+Oct-Dec,Oct,Dec,2022,South West,Male,All aged 16 & over,2248562,1512056,1469594,42462,736506,67.2,65.4,2.8,32.8
+Oct-Dec,Oct,Dec,2022,South West,Female,All aged 16 & over,2354326,1404919,1386223,18696,949407,59.7,58.9,1.3,40.3
+Oct-Dec,Oct,Dec,2022,England,Male,All aged 16 & over,22290786,15132303,14556440,575863,7158483,67.9,65.3,3.8,32.1
+Oct-Dec,Oct,Dec,2022,England,Female,All aged 16 & over,23087543,13734292,13207519,526773,9353251,59.5,57.2,3.8,40.5
+Oct-Dec,Oct,Dec,2022,Wales,Male,All aged 16 & over,1261494,805295,772428,32867,456199,63.8,61.2,4.1,36.2
+Oct-Dec,Oct,Dec,2022,Wales,Female,All aged 16 & over,1308003,682143,662752,19391,625860,52.2,50.7,2.8,47.8
+Oct-Dec,Oct,Dec,2022,Scotland,Male,All aged 16 & over,2159573,1422419,1366773,55645,737154,65.9,63.3,3.9,34.1
+Oct-Dec,Oct,Dec,2022,Scotland,Female,All aged 16 & over,2345894,1412912,1375637,37275,932982,60.2,58.6,2.6,39.8
+Oct-Dec,Oct,Dec,2022,Northern Ireland,Male,All aged 16 & over,725583,471193,454910,16284,254390,64.9,62.7,3.5,35.1
+Sep-Nov,Oct,Dec,2022,Northern Ireland,Female,All aged 16 & over,758970,422754,416921,5833,336216,55.7,54.9,1.4,44.3
+Sep-Nov,Sep,Nov,2021,North East,Male,All aged 16 & over,1046336,656630,620250,36380,389706,62.8,59.3,5.5,37.2
+Sep-Nov,Sep,Nov,2021,North East,Female,All aged 16 & over,1102510,604619,568959,35660,497891,54.8,51.6,5.9,45.2
+Sep-Nov,Sep,Nov,2021,Yorkshire and The Humber,Male,All aged 16 & over,2156688,1410162,1348442,61720,746526,65.4,62.5,4.4,34.6
+Sep-Nov,Sep,Nov,2021,Yorkshire and The Humber,Female,All aged 16 & over,2239341,1241750,1204098,37652,997591,55.5,53.8,3.0,44.5
+Sep-Nov,Sep,Nov,2021,East Midlands,Male,All aged 16 & over,1911415,1222099,1175490,46609,689316,63.9,61.5,3.8,36.1
+Sep-Nov,Sep,Nov,2021,East Midlands,Female,All aged 16 & over,1978721,1166169,1129028,37142,812552,58.9,57.1,3.2,41.1
+Sep-Nov,Sep,Nov,2021,West Midland,Male,All aged 16 & over,2324593,1589394,1521512,67882,735199,68.4,65.5,4.3,31.6
+Sep-Nov,Sep,Nov,2021,West Midland,Female,All aged 16 & over,2394632,1375566,1305955,69612,1019066,57.4,54.5,5.1,42.6
+Sep-Nov,Sep,Nov,2021,East of England,Male,All aged 16 & over,2464046,1682941,1635541,47400,781105,68.3,66.4,2.8,31.7
+Sep-Nov,Sep,Nov,2021,East of England,Female,All aged 16 & over,2570861,1550954,1509524,41430,1019907,60.3,58.7,2.7,39.7
+Sep-Nov,Sep,Nov,2021,London,Male,All aged 16 & over,3597532,2699321,2568712,130609,898211,75.0,71.4,4.8,25.0
+Sep-Nov,Sep,Nov,2021,London,Female,All aged 16 & over,3631319,2369737,2230561,139176,1261582,65.3,61.4,5.9,34.7
+Sep-Nov,Sep,Nov,2021,South East,Male,All aged 16 & over,3610926,2487777,2377590,110187,1123149,68.9,65.8,4.4,31.1
+Sep-Nov,Sep,Nov,2021,South East,Female,All aged 16 & over,3770718,2257279,2171198,86081,1513439,59.9,57.6,3.8,40.1
+Sep-Nov,Sep,Nov,2021,South West,Male,All aged 16 & over,2241109,1477051,1429528,47522,764058,65.9,63.8,3.2,34.1
+Sep-Nov,Sep,Nov,2021,South West,Female,All aged 16 & over,2346488,1398764,1361823,36941,947724,59.6,58.0,2.6,40.4
+Sep-Nov,Sep,Nov,2021,England,Male,All aged 16 & over,22216846,15100371,14449811,650560,7116475,68.0,65.0,4.3,32.0
+Sep-Nov,Sep,Nov,2021,England,Female,All aged 16 & over,23010840,13679026,13130077,548949,9331814,59.4,57.1,4.0,40.6
+Sep-Nov,Sep,Nov,2021,Wales,Male,All aged 16 & over,1257314,811987,789655,22332,445327,64.6,62.8,2.8,35.4
+Sep-Nov,Sep,Nov,2021,Wales,Female,All aged 16 & over,1303641,716423,687275,29148,587218,55.0,52.7,4.1,45.0
+Sep-Nov,Sep,Nov,2021,Scotland,Male,All aged 16 & over,2152433,1414611,1353949,60662,737822,65.7,62.9,4.3,34.3
+Sep-Nov,Sep,Nov,2021,Scotland,Female,All aged 16 & over,2338113,1363245,1323140,40105,974868,58.3,56.6,2.9,41.7
+Sep-Nov,Sep,Nov,2021,Northern Ireland,Male,All aged 16 & over,723169,440778,421446,19331,282391,61.0,58.3,4.4,39.0
+Sep-Nov,Sep,Nov,2021,Northern Ireland,Female,All aged 16 & over,756412,417354,406044,11310,339058,55.2,53.7,2.7,44.8
+Sep-Nov,Sep,Nov,2022,North East,Male,All aged 16 & over,1050037,649682,617048,32634,400355,61.9,58.8,5.0,38.1
+Sep-Nov,Sep,Nov,2022,North East,Female,All aged 16 & over,1106472,614523,587797,26726,491949,55.5,53.1,4.3,44.5
+Sep-Nov,Sep,Nov,2022,Yorkshire and The Humber,Male,All aged 16 & over,2164439,1428405,1367000,61405,736034,66.0,63.2,4.3,34.0
+Sep-Nov,Sep,Nov,2022,Yorkshire and The Humber,Female,All aged 16 & over,2247419,1281987,1230773,51214,965432,57.0,54.8,4.0,43.0
+Sep-Nov,Sep,Nov,2022,East Midlands,Male,All aged 16 & over,1918245,1286500,1241607,44893,631745,67.1,64.7,3.5,32.9
+Sep-Nov,Sep,Nov,2022,East Midlands,Female,All aged 16 & over,1985876,1128242,1090589,37653,857634,56.8,54.9,3.3,43.2
+Sep-Nov,Sep,Nov,2022,West Midland,Male,All aged 16 & over,2332969,1541555,1469123,72432,791414,66.1,63.0,4.7,33.9
+Sep-Nov,Sep,Nov,2022,West Midland,Female,All aged 16 & over,2403246,1402997,1348640,54357,1000249,58.4,56.1,3.9,41.6
+Sep-Nov,Sep,Nov,2022,East of England,Male,All aged 16 & over,2472897,1708962,1659400,49562,763935,69.1,67.1,2.9,30.9
+Sep-Nov,Sep,Nov,2022,East of England,Female,All aged 16 & over,2580183,1526509,1469858,56651,1053674,59.2,57.0,3.7,40.8
+Sep-Nov,Sep,Nov,2022,London,Male,All aged 16 & over,3610504,2659406,2567156,92251,951098,73.7,71.1,3.5,26.3
+Sep-Nov,Sep,Nov,2022,London,Female,All aged 16 & over,3644402,2340015,2217071,122944,1304387,64.2,60.8,5.3,35.8
+Sep-Nov,Sep,Nov,2022,South East,Male,All aged 16 & over,3623912,2474890,2374642,100248,1149022,68.3,65.5,4.1,31.7
+Sep-Nov,Sep,Nov,2022,South East,Female,All aged 16 & over,3784253,2291756,2216488,75267,1492497,60.6,58.6,3.3,39.4
+Sep-Nov,Sep,Nov,2022,South West,Male,All aged 16 & over,2249151,1496134,1452917,43217,753017,66.5,64.6,2.9,33.5
+Sep-Nov,Sep,Nov,2022,South West,Female,All aged 16 & over,2354946,1387458,1369123,18335,967488,58.9,58.1,1.3,41.1
+Sep-Nov,Sep,Nov,2022,England,Male,All aged 16 & over,22296703,15135011,14560110,574901,7161692,67.9,65.3,3.8,32.1
+Sep-Nov,Sep,Nov,2022,England,Female,All aged 16 & over,23093793,13680752,13179568,501184,9413041,59.2,57.1,3.7,40.8
+Sep-Nov,Sep,Nov,2022,Wales,Male,All aged 16 & over,1261830,803220,773549,29671,458610,63.7,61.3,3.7,36.3
+Sep-Nov,Sep,Nov,2022,Wales,Female,All aged 16 & over,1308388,698708,677187,21522,609680,53.4,51.8,3.1,46.6
+Sep-Nov,Sep,Nov,2022,Scotland,Male,All aged 16 & over,2160130,1406640,1350250,56390,753490,65.1,62.5,4.0,34.9
+Sep-Nov,Sep,Nov,2022,Scotland,Female,All aged 16 & over,2346520,1410403,1374491,35912,936117,60.1,58.6,2.5,39.9
+Sep-Nov,Sep,Nov,2022,Northern Ireland,Male,All aged 16 & over,725795,470857,452674,18183,254938,64.9,62.4,3.9,35.1
+Apr-Jun,Sep,Nov,2022,Northern Ireland,Female,All aged 16 & over,759160,419490,413041,6449,339670,55.3,54.4,1.5,44.7
+Apr-Jun,Apr,Jun,2021,North East,Male,All aged 16 to 64,800845,631595,585426,46169,169250,78.9,73.1,7.3,21.1
+Apr-Jun,Apr,Jun,2021,North East,Female,All aged 16 to 64,821389,596681,573055,23626,224708,72.6,69.8,4.0,27.4
+Apr-Jun,Apr,Jun,2021,Yorkshire and The Humber,Male,All aged 16 to 64,1677590,1358344,1286976,71368,319246,81.0,76.7,5.3,19.0
+Apr-Jun,Apr,Jun,2021,Yorkshire and The Humber,Female,All aged 16 to 64,1688896,1224215,1164975,59240,464681,72.5,69.0,4.8,27.5
+Apr-Jun,Apr,Jun,2021,East Midlands,Male,All aged 16 to 64,1464383,1194929,1138569,56360,269454,81.6,77.8,4.7,18.4
+Apr-Jun,Apr,Jun,2021,East Midlands,Female,All aged 16 to 64,1478854,1121025,1074413,46612,357829,75.8,72.7,4.2,24.2
+Apr-Jun,Apr,Jun,2021,West Midland,Male,All aged 16 to 64,1809786,1492744,1407000,85744,317042,82.5,77.7,5.7,17.5
+Apr-Jun,Apr,Jun,2021,West Midland,Female,All aged 16 to 64,1806348,1351516,1287672,63844,454832,74.8,71.3,4.7,25.2
+Apr-Jun,Apr,Jun,2021,East of England,Male,All aged 16 to 64,1880758,1603537,1538581,64956,277221,85.3,81.8,4.1,14.7
+Apr-Jun,Apr,Jun,2021,East of England,Female,All aged 16 to 64,1903194,1477422,1421786,55636,425772,77.6,74.7,3.8,22.4
+Apr-Jun,Apr,Jun,2021,London,Male,All aged 16 to 64,3094487,2585570,2435549,150021,508917,83.6,78.7,5.8,16.4
+Apr-Jun,Apr,Jun,2021,London,Female,All aged 16 to 64,3030271,2305622,2146235,159387,724649,76.1,70.8,6.9,23.9
+Apr-Jun,Apr,Jun,2021,South East,Male,All aged 16 to 64,2776610,2389249,2272531,116718,387361,86.0,81.8,4.9,14.0
+Apr-Jun,Apr,Jun,2021,South East,Female,All aged 16 to 64,2806181,2166174,2077684,88490,640007,77.2,74.0,4.1,22.8
+Apr-Jun,Apr,Jun,2021,South West,Male,All aged 16 to 64,1655918,1382491,1333400,49092,273427,83.5,80.5,3.6,16.5
+Apr-Jun,Apr,Jun,2021,South West,Female,All aged 16 to 64,1678733,1287357,1240663,46694,391376,76.7,73.9,3.6,23.3
+Apr-Jun,Apr,Jun,2021,England,Male,All aged 16 to 64,17385617,14398222,13676550,721672,2987395,82.8,78.7,5.0,17.2
+Apr-Jun,Apr,Jun,2021,England,Female,All aged 16 to 64,17465714,13211254,12585984,625270,4254460,75.6,72.1,4.7,24.4
+Apr-Jun,Apr,Jun,2021,Wales,Male,All aged 16 to 64,948590,769870,733118,36753,178720,81.2,77.3,4.8,18.8
+Apr-Jun,Apr,Jun,2021,Wales,Female,All aged 16 to 64,953093,701329,675822,25507,251764,73.6,70.9,3.6,26.4
+Apr-Jun,Apr,Jun,2021,Scotland,Male,All aged 16 to 64,1673759,1339087,1271853,67234,334672,80.0,76.0,5.0,20.0
+Apr-Jun,Apr,Jun,2021,Scotland,Female,All aged 16 to 64,1752166,1322246,1272283,49963,429920,75.5,72.6,3.8,24.5
+Apr-Jun,Apr,Jun,2021,Northern Ireland,Male,All aged 16 to 64,575936,422821,398450,24371,153115,73.4,69.2,5.8,26.6
+Apr-Jun,Apr,Jun,2021,Northern Ireland,Female,All aged 16 to 64,587681,414005,401073,12932,173676,70.4,68.2,3.1,29.6
+Apr-Jun,Apr,Jun,2022,North East,Male,All aged 16 to 64,803169,632074,597405,34669,171095,78.7,74.4,5.5,21.3
+Apr-Jun,Apr,Jun,2022,North East,Female,All aged 16 to 64,823732,590260,563710,26550,233472,71.7,68.4,4.5,28.3
+Apr-Jun,Apr,Jun,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1682867,1373876,1309267,64610,308991,81.6,77.8,4.7,18.4
+Apr-Jun,Apr,Jun,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1694192,1259546,1203209,56337,434646,74.3,71.0,4.5,25.7
+Apr-Jun,Apr,Jun,2022,East Midlands,Male,All aged 16 to 64,1469161,1188341,1165924,22417,280820,80.9,79.4,1.9,19.1
+Apr-Jun,Apr,Jun,2022,East Midlands,Female,All aged 16 to 64,1483662,1119200,1084730,34469,364462,75.4,73.1,3.1,24.6
+Apr-Jun,Apr,Jun,2022,West Midland,Male,All aged 16 to 64,1815957,1505840,1434524,71316,310117,82.9,79.0,4.7,17.1
+Apr-Jun,Apr,Jun,2022,West Midland,Female,All aged 16 to 64,1812480,1349984,1281698,68286,462496,74.5,70.7,5.1,25.5
+Apr-Jun,Apr,Jun,2022,East of England,Male,All aged 16 to 64,1887270,1597882,1550644,47238,289388,84.7,82.2,3.0,15.3
+Apr-Jun,Apr,Jun,2022,East of England,Female,All aged 16 to 64,1909743,1481727,1427406,54322,428016,77.6,74.7,3.7,22.4
+Apr-Jun,Apr,Jun,2022,London,Male,All aged 16 to 64,3106250,2593467,2476130,117338,512783,83.5,79.7,4.5,16.5
+Apr-Jun,Apr,Jun,2022,London,Female,All aged 16 to 64,3041144,2244033,2130044,113990,797111,73.8,70.0,5.1,26.2
+Apr-Jun,Apr,Jun,2022,South East,Male,All aged 16 to 64,2786091,2358802,2260822,97980,427289,84.7,81.1,4.2,15.3
+Apr-Jun,Apr,Jun,2022,South East,Female,All aged 16 to 64,2815593,2177879,2110804,67075,637714,77.4,75.0,3.1,22.6
+Apr-Jun,Apr,Jun,2022,South West,Male,All aged 16 to 64,1661381,1378899,1331080,47819,282482,83.0,80.1,3.5,17.0
+Apr-Jun,Apr,Jun,2022,South West,Female,All aged 16 to 64,1684247,1313599,1283787,29812,370648,78.0,76.2,2.3,22.0
+Apr-Jun,Apr,Jun,2022,England,Male,All aged 16 to 64,17444367,14436543,13853219,583323,3007824,82.8,79.4,4.0,17.2
+Apr-Jun,Apr,Jun,2022,England,Female,All aged 16 to 64,17523654,13193290,12678263,515028,4330364,75.3,72.3,3.9,24.7
+Apr-Jun,Apr,Jun,2022,Wales,Male,All aged 16 to 64,951621,762018,731965,30053,189603,80.1,76.9,3.9,19.9
+Apr-Jun,Apr,Jun,2022,Wales,Female,All aged 16 to 64,956012,680766,655493,25273,275246,71.2,68.6,3.7,28.8
+Apr-Jun,Apr,Jun,2022,Scotland,Male,All aged 16 to 64,1678955,1345493,1285305,60187,333462,80.1,76.6,4.5,19.9
+Apr-Jun,Apr,Jun,2022,Scotland,Female,All aged 16 to 64,1757503,1333449,1306904,26544,424054,75.9,74.4,2.0,24.1
+Apr-Jun,Apr,Jun,2022,Northern Ireland,Male,All aged 16 to 64,577715,437569,423988,13582,140146,75.7,73.4,3.1,24.3
+Aug-Oct,Apr,Jun,2022,Northern Ireland,Female,All aged 16 to 64,589426,399194,389254,9940,190232,67.7,66.0,2.5,32.3
+Aug-Oct,Aug,Oct,2021,North East,Male,All aged 16 to 64,802396,621448,585841,35607,180948,77.4,73.0,5.7,22.6
+Aug-Oct,Aug,Oct,2021,North East,Female,All aged 16 to 64,822980,587267,556652,30615,235713,71.4,67.6,5.2,28.6
+Aug-Oct,Aug,Oct,2021,Yorkshire and The Humber,Male,All aged 16 to 64,1681242,1347381,1288548,58833,333861,80.1,76.6,4.4,19.9
+Aug-Oct,Aug,Oct,2021,Yorkshire and The Humber,Female,All aged 16 to 64,1692571,1214044,1168835,45209,478527,71.7,69.1,3.7,28.3
+Aug-Oct,Aug,Oct,2021,East Midlands,Male,All aged 16 to 64,1467789,1180995,1130044,50951,286794,80.5,77.0,4.3,19.5
+Aug-Oct,Aug,Oct,2021,East Midlands,Female,All aged 16 to 64,1482259,1141855,1094827,47028,340404,77.0,73.9,4.1,23.0
+Aug-Oct,Aug,Oct,2021,West Midland,Male,All aged 16 to 64,1814257,1514805,1449297,65509,299452,83.5,79.9,4.3,16.5
+Aug-Oct,Aug,Oct,2021,West Midland,Female,All aged 16 to 64,1810707,1331855,1260000,71854,478852,73.6,69.6,5.4,26.4
+Aug-Oct,Aug,Oct,2021,East of England,Male,All aged 16 to 64,1885465,1612431,1560703,51728,273034,85.5,82.8,3.2,14.5
+Aug-Oct,Aug,Oct,2021,East of England,Female,All aged 16 to 64,1907885,1486392,1441250,45142,421493,77.9,75.5,3.0,22.1
+Aug-Oct,Aug,Oct,2021,London,Male,All aged 16 to 64,3103257,2601946,2472327,129620,501311,83.8,79.7,5.0,16.2
+Aug-Oct,Aug,Oct,2021,London,Female,All aged 16 to 64,3038230,2292820,2162597,130223,745410,75.5,71.2,5.7,24.5
+Aug-Oct,Aug,Oct,2021,South East,Male,All aged 16 to 64,2783345,2388190,2294015,94175,395155,85.8,82.4,3.9,14.2
+Aug-Oct,Aug,Oct,2021,South East,Female,All aged 16 to 64,2812971,2175340,2081674,93666,637631,77.3,74.0,4.3,22.7
+Aug-Oct,Aug,Oct,2021,South West,Male,All aged 16 to 64,1659894,1387598,1337975,49623,272296,83.6,80.6,3.6,16.4
+Aug-Oct,Aug,Oct,2021,South West,Female,All aged 16 to 64,1682684,1310126,1275596,34530,372558,77.9,75.8,2.6,22.1
+Aug-Oct,Aug,Oct,2021,England,Male,All aged 16 to 64,17427732,14454692,13824410,630282,2973040,82.9,79.3,4.4,17.1
+Aug-Oct,Aug,Oct,2021,England,Female,All aged 16 to 64,17507015,13208760,12650193,558568,4298255,75.4,72.3,4.2,24.6
+Aug-Oct,Aug,Oct,2021,Wales,Male,All aged 16 to 64,950720,771680,746543,25137,179040,81.2,78.5,3.3,18.8
+Aug-Oct,Aug,Oct,2021,Wales,Female,All aged 16 to 64,955107,690574,661273,29302,264533,72.3,69.2,4.2,27.7
+Aug-Oct,Aug,Oct,2021,Scotland,Male,All aged 16 to 64,1677320,1345311,1280378,64933,332009,80.2,76.3,4.8,19.8
+Aug-Oct,Aug,Oct,2021,Scotland,Female,All aged 16 to 64,1755823,1324746,1279328,45418,431077,75.4,72.9,3.4,24.6
+Aug-Oct,Aug,Oct,2021,Northern Ireland,Male,All aged 16 to 64,577162,421821,399465,22356,155341,73.1,69.2,5.3,26.9
+Aug-Oct,Aug,Oct,2021,Northern Ireland,Female,All aged 16 to 64,588929,409712,397896,11815,179217,69.6,67.6,2.9,30.4
+Aug-Oct,Aug,Oct,2022,North East,Male,All aged 16 to 64,805274,623818,598242,25576,181456,77.5,74.3,4.1,22.5
+Aug-Oct,Aug,Oct,2022,North East,Female,All aged 16 to 64,825917,596430,563533,32897,229487,72.2,68.2,5.5,27.8
+Aug-Oct,Aug,Oct,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1687265,1371511,1310420,61091,315754,81.3,77.7,4.5,18.7
+Aug-Oct,Aug,Oct,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1698630,1262091,1215843,46248,436539,74.3,71.6,3.7,25.7
+Aug-Oct,Aug,Oct,2022,East Midlands,Male,All aged 16 to 64,1472995,1218386,1178386,40000,254609,82.7,80.0,3.3,17.3
+Aug-Oct,Aug,Oct,2022,East Midlands,Female,All aged 16 to 64,1487517,1079657,1039780,39878,407860,72.6,69.9,3.7,27.4
+Aug-Oct,Aug,Oct,2022,West Midland,Male,All aged 16 to 64,1820711,1477707,1402734,74973,343004,81.2,77.0,5.1,18.8
+Aug-Oct,Aug,Oct,2022,West Midland,Female,All aged 16 to 64,1817145,1340221,1275877,64345,476924,73.8,70.2,4.8,26.2
+Aug-Oct,Aug,Oct,2022,East of England,Male,All aged 16 to 64,1892187,1615854,1571767,44087,276333,85.4,83.1,2.7,14.6
+Aug-Oct,Aug,Oct,2022,East of England,Female,All aged 16 to 64,1914695,1484180,1441777,42403,430515,77.5,75.3,2.9,22.5
+Aug-Oct,Aug,Oct,2022,London,Male,All aged 16 to 64,3114350,2614347,2516499,97849,500003,83.9,80.8,3.7,16.1
+Aug-Oct,Aug,Oct,2022,London,Female,All aged 16 to 64,3049062,2271680,2158860,112820,777382,74.5,70.8,5.0,25.5
+Aug-Oct,Aug,Oct,2022,South East,Male,All aged 16 to 64,2793285,2344719,2259288,85431,448566,83.9,80.9,3.6,16.1
+Aug-Oct,Aug,Oct,2022,South East,Female,All aged 16 to 64,2822927,2186026,2110021,76005,636901,77.4,74.7,3.5,22.6
+Aug-Oct,Aug,Oct,2022,South West,Male,All aged 16 to 64,1665770,1390073,1354043,36030,275697,83.4,81.3,2.6,16.6
+Aug-Oct,Aug,Oct,2022,South West,Female,All aged 16 to 64,1688656,1323617,1303337,20280,365039,78.4,77.2,1.5,21.6
+Aug-Oct,Aug,Oct,2022,England,Male,All aged 16 to 64,17489956,14449596,13899154,550442,3040360,82.6,79.5,3.8,17.4
+Aug-Oct,Aug,Oct,2022,England,Female,All aged 16 to 64,17569334,13203972,12705417,498555,4365362,75.2,72.3,3.8,24.8
+Aug-Oct,Aug,Oct,2022,Wales,Male,All aged 16 to 64,954094,765670,733270,32401,188424,80.3,76.9,4.2,19.7
+Aug-Oct,Aug,Oct,2022,Wales,Female,All aged 16 to 64,958530,667594,647865,19728,290936,69.6,67.6,3.0,30.4
+Aug-Oct,Aug,Oct,2022,Scotland,Male,All aged 16 to 64,1683308,1341039,1285327,55712,342269,79.7,76.4,4.2,20.3
+Aug-Oct,Aug,Oct,2022,Scotland,Female,All aged 16 to 64,1762085,1366291,1331308,34983,395794,77.5,75.6,2.6,22.5
+Aug-Oct,Aug,Oct,2022,Northern Ireland,Male,All aged 16 to 64,579255,452420,434637,17782,126835,78.1,75.0,3.9,21.9
+Dec-Feb,Aug,Oct,2022,Northern Ireland,Female,All aged 16 to 64,590997,405788,399447,6341,185209,68.7,67.6,1.6,31.3
+Dec-Feb,Dec,Feb,2022,North East,Male,All aged 16 to 64,802036,621270,586655,34614,180766,77.5,73.1,5.6,22.5
+Dec-Feb,Dec,Feb,2022,North East,Female,All aged 16 to 64,822617,585072,554679,30393,237545,71.1,67.4,5.2,28.9
+Dec-Feb,Dec,Feb,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1680467,1352968,1281406,71561,327499,80.5,76.3,5.3,19.5
+Dec-Feb,Dec,Feb,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1691739,1199766,1160698,39067,491973,70.9,68.6,3.3,29.1
+Dec-Feb,Dec,Feb,2022,East Midlands,Male,All aged 16 to 64,1467092,1176109,1140521,35589,290983,80.2,77.7,3.0,19.8
+Dec-Feb,Dec,Feb,2022,East Midlands,Female,All aged 16 to 64,1481595,1133559,1103187,30371,348036,76.5,74.5,2.7,23.5
+Dec-Feb,Dec,Feb,2022,West Midland,Male,All aged 16 to 64,1813413,1523888,1458865,65023,289525,84.0,80.4,4.3,16.0
+Dec-Feb,Dec,Feb,2022,West Midland,Female,All aged 16 to 64,1809846,1355946,1275943,80003,453900,74.9,70.5,5.9,25.1
+Dec-Feb,Dec,Feb,2022,East of England,Male,All aged 16 to 64,1884581,1588445,1537244,51201,296136,84.3,81.6,3.2,15.7
+Dec-Feb,Dec,Feb,2022,East of England,Female,All aged 16 to 64,1907010,1480303,1433204,47099,426707,77.6,75.2,3.2,22.4
+Dec-Feb,Dec,Feb,2022,London,Male,All aged 16 to 64,3101804,2625473,2514615,110858,476331,84.6,81.1,4.2,15.4
+Dec-Feb,Dec,Feb,2022,London,Female,All aged 16 to 64,3036743,2255717,2134249,121469,781026,74.3,70.3,5.4,25.7
+Dec-Feb,Dec,Feb,2022,South East,Male,All aged 16 to 64,2782054,2361984,2272545,89438,420070,84.9,81.7,3.8,15.1
+Dec-Feb,Dec,Feb,2022,South East,Female,All aged 16 to 64,2811587,2165000,2096017,68983,646587,77.0,74.5,3.2,23.0
+Dec-Feb,Dec,Feb,2022,South West,Male,All aged 16 to 64,1659042,1377421,1332745,44676,281621,83.0,80.3,3.2,17.0
+Dec-Feb,Dec,Feb,2022,South West,Female,All aged 16 to 64,1681875,1332908,1298725,34183,348967,79.3,77.2,2.6,20.7
+Dec-Feb,Dec,Feb,2022,England,Male,All aged 16 to 64,17419539,14419033,13829884,589149,3000506,82.8,79.4,4.1,17.2
+Dec-Feb,Dec,Feb,2022,England,Female,All aged 16 to 64,17498630,13154638,12638013,516625,4343992,75.2,72.2,3.9,24.8
+Dec-Feb,Dec,Feb,2022,Wales,Male,All aged 16 to 64,950240,756986,732508,24477,193254,79.7,77.1,3.2,20.3
+Dec-Feb,Dec,Feb,2022,Wales,Female,All aged 16 to 64,954628,700146,680961,19185,254482,73.3,71.3,2.7,26.7
+Dec-Feb,Dec,Feb,2022,Scotland,Male,All aged 16 to 64,1676569,1343204,1277483,65721,333365,80.1,76.2,4.9,19.9
+Dec-Feb,Dec,Feb,2022,Scotland,Female,All aged 16 to 64,1755025,1320354,1290843,29511,434671,75.2,73.6,2.2,24.8
+Dec-Feb,Dec,Feb,2022,Northern Ireland,Male,All aged 16 to 64,576914,434038,415516,18522,142876,75.2,72.0,4.3,24.8
+Dec-Feb,Dec,Feb,2022,Northern Ireland,Female,All aged 16 to 64,588638,399923,392659,7264,188715,67.9,66.7,1.8,32.1
+Dec-Feb,Dec,Feb,2023,North East,Male,All aged 16 to 64,804936,627171,595935,31236,177765,77.9,74.0,5.0,22.1
+Dec-Feb,Dec,Feb,2023,North East,Female,All aged 16 to 64,825548,618919,596009,22910,206629,75.0,72.2,3.7,25.0
+Dec-Feb,Dec,Feb,2023,Yorkshire and The Humber,Male,All aged 16 to 64,1686565,1373948,1310421,63527,312617,81.5,77.7,4.6,18.5
+Dec-Feb,Dec,Feb,2023,Yorkshire and The Humber,Female,All aged 16 to 64,1697891,1247155,1216102,31053,450736,73.5,71.6,2.5,26.5
+Dec-Feb,Dec,Feb,2023,East Midlands,Male,All aged 16 to 64,1472413,1238002,1191669,46333,234411,84.1,80.9,3.7,15.9
+Dec-Feb,Dec,Feb,2023,East Midlands,Female,All aged 16 to 64,1486943,1073107,1034432,38675,413836,72.2,69.6,3.6,27.8
+Dec-Feb,Dec,Feb,2023,West Midland,Male,All aged 16 to 64,1819949,1480082,1411199,68883,339867,81.3,77.5,4.7,18.7
+Dec-Feb,Dec,Feb,2023,West Midland,Female,All aged 16 to 64,1816416,1330151,1269712,60439,486265,73.2,69.9,4.5,26.8
+Dec-Feb,Dec,Feb,2023,East of England,Male,All aged 16 to 64,1891447,1623412,1566475,56937,268035,85.8,82.8,3.5,14.2
+Dec-Feb,Dec,Feb,2023,East of England,Female,All aged 16 to 64,1914014,1488595,1416876,71720,425419,77.8,74.0,4.8,22.2
+Dec-Feb,Dec,Feb,2023,London,Male,All aged 16 to 64,3112994,2552391,2456794,95597,560603,82.0,78.9,3.7,18.0
+Dec-Feb,Dec,Feb,2023,London,Female,All aged 16 to 64,3047746,2298305,2160499,137806,749441,75.4,70.9,6.0,24.6
+Dec-Feb,Dec,Feb,2023,South East,Male,All aged 16 to 64,2792164,2387427,2278350,109077,404737,85.5,81.6,4.6,14.5
+Dec-Feb,Dec,Feb,2023,South East,Female,All aged 16 to 64,2821749,2234535,2154773,79762,587214,79.2,76.4,3.6,20.8
+Dec-Feb,Dec,Feb,2023,South West,Male,All aged 16 to 64,1665073,1405170,1365189,39981,259903,84.4,82.0,2.8,15.6
+Dec-Feb,Dec,Feb,2023,South West,Female,All aged 16 to 64,1687961,1324785,1299562,25223,363176,78.5,77.0,1.9,21.5
+Dec-Feb,Dec,Feb,2023,England,Male,All aged 16 to 64,17482619,14521169,13934372,586797,2961450,83.1,79.7,4.0,16.9
+Dec-Feb,Dec,Feb,2023,England,Female,All aged 16 to 64,17562028,13272152,12748384,523768,4289876,75.6,72.6,3.9,24.4
+Dec-Feb,Dec,Feb,2023,Wales,Male,All aged 16 to 64,953683,776095,740542,35554,177588,81.4,77.7,4.6,18.6
+Dec-Feb,Dec,Feb,2023,Wales,Female,All aged 16 to 64,958102,660053,643215,16838,298049,68.9,67.1,2.6,31.1
+Dec-Feb,Dec,Feb,2023,Scotland,Male,All aged 16 to 64,1682611,1353390,1312583,40807,329221,80.4,78.0,3.0,19.6
+Dec-Feb,Dec,Feb,2023,Scotland,Female,All aged 16 to 64,1761362,1332272,1293404,38868,429090,75.6,73.4,2.9,24.4
+Dec-Feb,Dec,Feb,2023,Northern Ireland,Male,All aged 16 to 64,578981,451840,436724,15115,127141,78.0,75.4,3.3,22.0
+Feb-Apr,Dec,Feb,2023,Northern Ireland,Female,All aged 16 to 64,590794,411220,404772,6448,179574,69.6,68.5,1.6,30.4
+Feb-Apr,Feb,Apr,2021,North East,Male,All aged 16 to 64,801295,640104,586331,53772,161191,79.9,73.2,8.4,20.1
+Feb-Apr,Feb,Apr,2021,North East,Female,All aged 16 to 64,821802,599622,574435,25187,222180,73.0,69.9,4.2,27.0
+Feb-Apr,Feb,Apr,2021,Yorkshire and The Humber,Male,All aged 16 to 64,1677764,1350792,1279761,71032,326972,80.5,76.3,5.3,19.5
+Feb-Apr,Feb,Apr,2021,Yorkshire and The Humber,Female,All aged 16 to 64,1689122,1227220,1164823,62397,461902,72.7,69.0,5.1,27.3
+Feb-Apr,Feb,Apr,2021,East Midlands,Male,All aged 16 to 64,1463993,1201253,1132825,68429,262740,82.1,77.4,5.7,17.9
+Feb-Apr,Feb,Apr,2021,East Midlands,Female,All aged 16 to 64,1478577,1124312,1075214,49098,354265,76.0,72.7,4.4,24.0
+Feb-Apr,Feb,Apr,2021,West Midland,Male,All aged 16 to 64,1808957,1478343,1384269,94074,330614,81.7,76.5,6.4,18.3
+Feb-Apr,Feb,Apr,2021,West Midland,Female,All aged 16 to 64,1805701,1339052,1260074,78978,466649,74.2,69.8,5.9,25.8
+Feb-Apr,Feb,Apr,2021,East of England,Male,All aged 16 to 64,1879649,1595223,1532913,62311,284426,84.9,81.6,3.9,15.1
+Feb-Apr,Feb,Apr,2021,East of England,Female,All aged 16 to 64,1902260,1466012,1405700,60313,436248,77.1,73.9,4.1,22.9
+Feb-Apr,Feb,Apr,2021,London,Male,All aged 16 to 64,3090769,2564292,2401705,162587,526477,83.0,77.7,6.3,17.0
+Feb-Apr,Feb,Apr,2021,London,Female,All aged 16 to 64,3027866,2328357,2155929,172428,699509,76.9,71.2,7.4,23.1
+Feb-Apr,Feb,Apr,2021,South East,Male,All aged 16 to 64,2775487,2377857,2273414,104442,397630,85.7,81.9,4.4,14.3
+Feb-Apr,Feb,Apr,2021,South East,Female,All aged 16 to 64,2805275,2175005,2099933,75072,630270,77.5,74.9,3.5,22.5
+Feb-Apr,Feb,Apr,2021,South West,Male,All aged 16 to 64,1655470,1370806,1324874,45932,284664,82.8,80.0,3.4,17.2
+Feb-Apr,Feb,Apr,2021,South West,Female,All aged 16 to 64,1678303,1278136,1227064,51072,400167,76.2,73.1,4.0,23.8
+Feb-Apr,Feb,Apr,2021,England,Male,All aged 16 to 64,17378855,14341084,13594270,746814,3037771,82.5,78.2,5.2,17.5
+Feb-Apr,Feb,Apr,2021,England,Female,All aged 16 to 64,17461078,13205238,12544577,660661,4255840,75.6,71.8,5.0,24.4
+Feb-Apr,Feb,Apr,2021,Wales,Male,All aged 16 to 64,948638,766325,721188,45137,182313,80.8,76.0,5.9,19.2
+Feb-Apr,Feb,Apr,2021,Wales,Female,All aged 16 to 64,953317,701841,683146,18695,251476,73.6,71.7,2.7,26.4
+Feb-Apr,Feb,Apr,2021,Scotland,Male,All aged 16 to 64,1674013,1330314,1265372,64943,343699,79.5,75.6,4.9,20.5
+Feb-Apr,Feb,Apr,2021,Scotland,Female,All aged 16 to 64,1752575,1320645,1267457,53188,431930,75.4,72.3,4.0,24.6
+Feb-Apr,Feb,Apr,2021,Northern Ireland,Male,All aged 16 to 64,575906,422410,404275,18135,153496,73.3,70.2,4.3,26.7
+Feb-Apr,Feb,Apr,2021,Northern Ireland,Female,All aged 16 to 64,587749,403692,391599,12093,184057,68.7,66.6,3.0,31.3
+Feb-Apr,Feb,Apr,2022,North East,Male,All aged 16 to 64,802524,625145,585153,39992,177379,77.9,72.9,6.4,22.1
+Feb-Apr,Feb,Apr,2022,North East,Female,All aged 16 to 64,823092,597051,572971,24080,226041,72.5,69.6,4.0,27.5
+Feb-Apr,Feb,Apr,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1681460,1360929,1297692,63236,320531,80.9,77.2,4.6,19.1
+Feb-Apr,Feb,Apr,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1692853,1223826,1164576,59250,469027,72.3,68.8,4.8,27.7
+Feb-Apr,Feb,Apr,2022,East Midlands,Male,All aged 16 to 64,1467985,1182213,1150870,31344,285772,80.5,78.4,2.7,19.5
+Feb-Apr,Feb,Apr,2022,East Midlands,Female,All aged 16 to 64,1482542,1112113,1081006,31108,370429,75.0,72.9,2.8,25.0
+Feb-Apr,Feb,Apr,2022,West Midland,Male,All aged 16 to 64,1814541,1520420,1458510,61910,294121,83.8,80.4,4.1,16.2
+Feb-Apr,Feb,Apr,2022,West Midland,Female,All aged 16 to 64,1810985,1360029,1291717,68312,450956,75.1,71.3,5.0,24.9
+Feb-Apr,Feb,Apr,2022,East of England,Male,All aged 16 to 64,1885762,1584662,1530531,54130,301100,84.0,81.2,3.4,16.0
+Feb-Apr,Feb,Apr,2022,East of England,Female,All aged 16 to 64,1908167,1480375,1420698,59677,427792,77.6,74.5,4.0,22.4
+Feb-Apr,Feb,Apr,2022,London,Male,All aged 16 to 64,3103700,2619609,2497249,122359,484091,84.4,80.5,4.7,15.6
+Feb-Apr,Feb,Apr,2022,London,Female,All aged 16 to 64,3038677,2240145,2118310,121835,798532,73.7,69.7,5.4,26.3
+Feb-Apr,Feb,Apr,2022,South East,Male,All aged 16 to 64,2783795,2362514,2283744,78770,421281,84.9,82.0,3.3,15.1
+Feb-Apr,Feb,Apr,2022,South East,Female,All aged 16 to 64,2813342,2176467,2112062,64406,636875,77.4,75.1,3.0,22.6
+Feb-Apr,Feb,Apr,2022,South West,Male,All aged 16 to 64,1660104,1388914,1341910,47003,271190,83.7,80.8,3.4,16.3
+Feb-Apr,Feb,Apr,2022,South West,Female,All aged 16 to 64,1682887,1341982,1308553,33429,340905,79.7,77.8,2.5,20.3
+Feb-Apr,Feb,Apr,2022,England,Male,All aged 16 to 64,17430289,14449732,13862679,587053,2980557,82.9,79.5,4.1,17.1
+Feb-Apr,Feb,Apr,2022,England,Female,All aged 16 to 64,17509544,13193698,12668614,525084,4315846,75.4,72.4,4.0,24.6
+Feb-Apr,Feb,Apr,2022,Wales,Male,All aged 16 to 64,950827,755215,729187,26028,195612,79.4,76.7,3.4,20.6
+Feb-Apr,Feb,Apr,2022,Wales,Female,All aged 16 to 64,955263,706972,680818,26154,248291,74.0,71.3,3.7,26.0
+Feb-Apr,Feb,Apr,2022,Scotland,Male,All aged 16 to 64,1677546,1348912,1290172,58740,328634,80.4,76.9,4.4,19.6
+Feb-Apr,Feb,Apr,2022,Scotland,Female,All aged 16 to 64,1756067,1332517,1302825,29692,423550,75.9,74.2,2.2,24.1
+Feb-Apr,Feb,Apr,2022,Northern Ireland,Male,All aged 16 to 64,577247,437461,423991,13471,139786,75.8,73.5,3.1,24.2
+Feb-Apr,Feb,Apr,2022,Northern Ireland,Female,All aged 16 to 64,589009,404243,395038,9205,184766,68.6,67.1,2.3,31.4
+Feb-Apr,Feb,Apr,2023,North East,Male,All aged 16 to 64,805548,642214,607809,34405,163334,79.7,75.5,5.4,20.3
+Feb-Apr,Feb,Apr,2023,North East,Female,All aged 16 to 64,826337,620047,606178,13869,206290,75.0,73.4,2.2,25.0
+Feb-Apr,Feb,Apr,2023,Yorkshire and The Humber,Male,All aged 16 to 64,1687822,1379593,1312439,67154,308229,81.7,77.8,4.9,18.3
+Feb-Apr,Feb,Apr,2023,Yorkshire and The Humber,Female,All aged 16 to 64,1699179,1240862,1206058,34803,458317,73.0,71.0,2.8,27.0
+Feb-Apr,Feb,Apr,2023,East Midlands,Male,All aged 16 to 64,1473485,1253066,1205225,47841,220419,85.0,81.8,3.8,15.0
+Feb-Apr,Feb,Apr,2023,East Midlands,Female,All aged 16 to 64,1488091,1073223,1038553,34669,414868,72.1,69.8,3.2,27.9
+Feb-Apr,Feb,Apr,2023,West Midland,Male,All aged 16 to 64,1821317,1521856,1439028,82828,299461,83.6,79.0,5.4,16.4
+Feb-Apr,Feb,Apr,2023,West Midland,Female,All aged 16 to 64,1817770,1370956,1310326,60630,446814,75.4,72.1,4.4,24.6
+Feb-Apr,Feb,Apr,2023,East of England,Male,All aged 16 to 64,1892839,1625905,1558571,67335,266934,85.9,82.3,4.1,14.1
+Feb-Apr,Feb,Apr,2023,East of England,Female,All aged 16 to 64,1915480,1497077,1429278,67799,418403,78.2,74.6,4.5,21.8
+Feb-Apr,Feb,Apr,2023,London,Male,All aged 16 to 64,3115369,2585301,2490161,95141,530068,83.0,79.9,3.7,17.0
+Feb-Apr,Feb,Apr,2023,London,Female,All aged 16 to 64,3050339,2304366,2173997,130368,745973,75.5,71.3,5.7,24.5
+Feb-Apr,Feb,Apr,2023,South East,Male,All aged 16 to 64,2794245,2368279,2269432,98847,425966,84.8,81.2,4.2,15.2
+Feb-Apr,Feb,Apr,2023,South East,Female,All aged 16 to 64,2823915,2221295,2145832,75463,602620,78.7,76.0,3.4,21.3
+Feb-Apr,Feb,Apr,2023,South West,Male,All aged 16 to 64,1666331,1397225,1348829,48396,269106,83.9,80.9,3.5,16.1
+Feb-Apr,Feb,Apr,2023,South West,Female,All aged 16 to 64,1689230,1322110,1282676,39434,367120,78.3,75.9,3.0,21.7
+Feb-Apr,Feb,Apr,2023,England,Male,All aged 16 to 64,17495755,14603537,14012406,591132,2892218,83.5,80.1,4.0,16.5
+Feb-Apr,Feb,Apr,2023,England,Female,All aged 16 to 64,17575904,13308782,12800054,508728,4267122,75.7,72.8,3.8,24.3
+Feb-Apr,Feb,Apr,2023,Wales,Male,All aged 16 to 64,954400,792697,739753,52944,161703,83.1,77.5,6.7,16.9
+Feb-Apr,Feb,Apr,2023,Wales,Female,All aged 16 to 64,958832,654334,634374,19960,304498,68.2,66.2,3.1,31.8
+Feb-Apr,Feb,Apr,2023,Scotland,Male,All aged 16 to 64,1683880,1348057,1303645,44411,335823,80.1,77.4,3.3,19.9
+Feb-Apr,Feb,Apr,2023,Scotland,Female,All aged 16 to 64,1762700,1308476,1268819,39657,454224,74.2,72.0,3.0,25.8
+Feb-Apr,Feb,Apr,2023,Northern Ireland,Male,All aged 16 to 64,579428,453818,440249,13569,125610,78.3,76.0,3.0,21.7
+Jan-Mar,Feb,Apr,2023,Northern Ireland,Female,All aged 16 to 64,591244,414811,406742,8069,176433,70.2,68.8,1.9,29.8
+Jan-Mar,Jan,Mar,2021,North East,Male,All aged 16 to 64,801709,638512,592449,46063,163197,79.6,73.9,7.2,20.4
+Jan-Mar,Jan,Mar,2021,North East,Female,All aged 16 to 64,822218,605496,575793,29703,216722,73.6,70.0,4.9,26.4
+Jan-Mar,Jan,Mar,2021,Yorkshire and The Humber,Male,All aged 16 to 64,1678260,1345980,1271270,74710,332280,80.2,75.7,5.6,19.8
+Jan-Mar,Jan,Mar,2021,Yorkshire and The Humber,Female,All aged 16 to 64,1689543,1220540,1164286,56254,469003,72.2,68.9,4.6,27.8
+Jan-Mar,Jan,Mar,2021,East Midlands,Male,All aged 16 to 64,1464184,1206192,1129645,76547,257992,82.4,77.2,6.3,17.6
+Jan-Mar,Jan,Mar,2021,East Midlands,Female,All aged 16 to 64,1478740,1117476,1069786,47691,361264,75.6,72.3,4.3,24.4
+Jan-Mar,Jan,Mar,2021,West Midland,Male,All aged 16 to 64,1808952,1478942,1384014,94928,330010,81.8,76.5,6.4,18.2
+Jan-Mar,Jan,Mar,2021,West Midland,Female,All aged 16 to 64,1805804,1330950,1251726,79225,474854,73.7,69.3,6.0,26.3
+Jan-Mar,Jan,Mar,2021,East of England,Male,All aged 16 to 64,1879542,1593609,1532084,61525,285933,84.8,81.5,3.9,15.2
+Jan-Mar,Jan,Mar,2021,East of England,Female,All aged 16 to 64,1902268,1474978,1412110,62869,427290,77.5,74.2,4.3,22.5
+Jan-Mar,Jan,Mar,2021,London,Male,All aged 16 to 64,3089628,2570190,2397845,172345,519438,83.2,77.6,6.7,16.8
+Jan-Mar,Jan,Mar,2021,London,Female,All aged 16 to 64,3027274,2336032,2160776,175256,691242,77.2,71.4,7.5,22.8
+Jan-Mar,Jan,Mar,2021,South East,Male,All aged 16 to 64,2775437,2375239,2276192,99047,400198,85.6,82.0,4.2,14.4
+Jan-Mar,Jan,Mar,2021,South East,Female,All aged 16 to 64,2805457,2155641,2092774,62867,649816,76.8,74.6,2.9,23.2
+Jan-Mar,Jan,Mar,2021,South West,Male,All aged 16 to 64,1655528,1376183,1322924,53260,279345,83.1,79.9,3.9,16.9
+Jan-Mar,Jan,Mar,2021,South West,Female,All aged 16 to 64,1678442,1289078,1236706,52371,389364,76.8,73.7,4.1,23.2
+Jan-Mar,Jan,Mar,2021,England,Male,All aged 16 to 64,17379292,14358955,13594673,764282,3020337,82.6,78.2,5.3,17.4
+Jan-Mar,Jan,Mar,2021,England,Female,All aged 16 to 64,17462577,13187810,12533733,654076,4274767,75.5,71.8,5.0,24.5
+Jan-Mar,Jan,Mar,2021,Wales,Male,All aged 16 to 64,948851,767244,721119,46125,181607,80.9,76.0,6.0,19.1
+Jan-Mar,Jan,Mar,2021,Wales,Female,All aged 16 to 64,953611,704195,683388,20807,249416,73.8,71.7,3.0,26.2
+Jan-Mar,Jan,Mar,2021,Scotland,Male,All aged 16 to 64,1674519,1340340,1278134,62206,334179,80.0,76.3,4.6,20.0
+Jan-Mar,Jan,Mar,2021,Scotland,Female,All aged 16 to 64,1753213,1322826,1263728,59098,430387,75.5,72.1,4.5,24.5
+Jan-Mar,Jan,Mar,2021,Northern Ireland,Male,All aged 16 to 64,576008,423956,404077,19879,152052,73.6,70.2,4.7,26.4
+Jan-Mar,Jan,Mar,2021,Northern Ireland,Female,All aged 16 to 64,587909,400268,385820,14448,187641,68.1,65.6,3.6,31.9
+Jan-Mar,Jan,Mar,2022,North East,Male,All aged 16 to 64,802366,627900,591235,36665,174466,78.3,73.7,5.8,21.7
+Jan-Mar,Jan,Mar,2022,North East,Female,All aged 16 to 64,822928,588225,561840,26385,234703,71.5,68.3,4.5,28.5
+Jan-Mar,Jan,Mar,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1681158,1359476,1297276,62200,321682,80.9,77.2,4.6,19.1
+Jan-Mar,Jan,Mar,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1692494,1213508,1170158,43350,478986,71.7,69.1,3.6,28.3
+Jan-Mar,Jan,Mar,2022,East Midlands,Male,All aged 16 to 64,1467732,1174413,1143668,30746,293319,80.0,77.9,2.6,20.0
+Jan-Mar,Jan,Mar,2022,East Midlands,Female,All aged 16 to 64,1482193,1132576,1101461,31115,349617,76.4,74.3,2.7,23.6
+Jan-Mar,Jan,Mar,2022,West Midland,Male,All aged 16 to 64,1814167,1524465,1462058,62407,289702,84.0,80.6,4.1,16.0
+Jan-Mar,Jan,Mar,2022,West Midland,Female,All aged 16 to 64,1810637,1366223,1296861,69362,444414,75.5,71.6,5.1,24.5
+Jan-Mar,Jan,Mar,2022,East of England,Male,All aged 16 to 64,1885391,1582706,1526845,55861,302685,83.9,81.0,3.5,16.1
+Jan-Mar,Jan,Mar,2022,East of England,Female,All aged 16 to 64,1907793,1478666,1429246,49420,429127,77.5,74.9,3.3,22.5
+Jan-Mar,Jan,Mar,2022,London,Male,All aged 16 to 64,3103101,2628826,2512027,116800,474275,84.7,81.0,4.4,15.3
+Jan-Mar,Jan,Mar,2022,London,Female,All aged 16 to 64,3038063,2221031,2106790,114242,817032,73.1,69.3,5.1,26.9
+Jan-Mar,Jan,Mar,2022,South East,Male,All aged 16 to 64,2783263,2365316,2280166,85149,417947,85.0,81.9,3.6,15.0
+Jan-Mar,Jan,Mar,2022,South East,Female,All aged 16 to 64,2812819,2170332,2104394,65939,642487,77.2,74.8,3.0,22.8
+Jan-Mar,Jan,Mar,2022,South West,Male,All aged 16 to 64,1659747,1379990,1335958,44032,279757,83.1,80.5,3.2,16.9
+Jan-Mar,Jan,Mar,2022,South West,Female,All aged 16 to 64,1682615,1344400,1308931,35469,338215,79.9,77.8,2.6,20.1
+Jan-Mar,Jan,Mar,2022,England,Male,All aged 16 to 64,17426958,14432935,13851189,581747,2994023,82.8,79.5,4.0,17.2
+Jan-Mar,Jan,Mar,2022,England,Female,All aged 16 to 64,17506122,13157225,12657801,499425,4348897,75.2,72.3,3.8,24.8
+Jan-Mar,Jan,Mar,2022,Wales,Male,All aged 16 to 64,950653,754608,731486,23122,196045,79.4,76.9,3.1,20.6
+Jan-Mar,Jan,Mar,2022,Wales,Female,All aged 16 to 64,955052,702226,681672,20554,252826,73.5,71.4,2.9,26.5
+Jan-Mar,Jan,Mar,2022,Scotland,Male,All aged 16 to 64,1677242,1351947,1290407,61540,325295,80.6,76.9,4.6,19.4
+Jan-Mar,Jan,Mar,2022,Scotland,Female,All aged 16 to 64,1755741,1328693,1302651,26042,427048,75.7,74.2,2.0,24.3
+Jan-Mar,Jan,Mar,2022,Northern Ireland,Male,All aged 16 to 64,577172,444392,429196,15196,132780,77.0,74.4,3.4,23.0
+Jan-Mar,Jan,Mar,2022,Northern Ireland,Female,All aged 16 to 64,588891,401217,393656,7561,187674,68.1,66.8,1.9,31.9
+Jan-Mar,Jan,Mar,2023,North East,Male,All aged 16 to 64,805189,640385,604791,35594,164804,79.5,75.1,5.6,20.5
+Jan-Mar,Jan,Mar,2023,North East,Female,All aged 16 to 64,826179,617426,597122,20303,208753,74.7,72.3,3.3,25.3
+Jan-Mar,Jan,Mar,2023,Yorkshire and The Humber,Male,All aged 16 to 64,1687118,1375616,1304057,71559,311502,81.5,77.3,5.2,18.5
+Jan-Mar,Jan,Mar,2023,Yorkshire and The Humber,Female,All aged 16 to 64,1698446,1259739,1226891,32848,438707,74.2,72.2,2.6,25.8
+Jan-Mar,Jan,Mar,2023,East Midlands,Male,All aged 16 to 64,1472852,1245353,1194075,51278,227499,84.6,81.1,4.1,15.4
+Jan-Mar,Jan,Mar,2023,East Midlands,Female,All aged 16 to 64,1487421,1082691,1042578,40114,404730,72.8,70.1,3.7,27.2
+Jan-Mar,Jan,Mar,2023,West Midland,Male,All aged 16 to 64,1820543,1506148,1422643,83504,314395,82.7,78.1,5.5,17.3
+Jan-Mar,Jan,Mar,2023,West Midland,Female,All aged 16 to 64,1816988,1336415,1274911,61504,480573,73.6,70.2,4.6,26.4
+Jan-Mar,Jan,Mar,2023,East of England,Male,All aged 16 to 64,1891994,1618749,1561213,57536,273245,85.6,82.5,3.6,14.4
+Jan-Mar,Jan,Mar,2023,East of England,Female,All aged 16 to 64,1914561,1506266,1434418,71848,408295,78.7,74.9,4.8,21.3
+Jan-Mar,Jan,Mar,2023,London,Male,All aged 16 to 64,3114024,2599324,2500731,98593,514700,83.5,80.3,3.8,16.5
+Jan-Mar,Jan,Mar,2023,London,Female,All aged 16 to 64,3048801,2278520,2143273,135247,770281,74.7,70.3,5.9,25.3
+Jan-Mar,Jan,Mar,2023,South East,Male,All aged 16 to 64,2793077,2378566,2272735,105831,414511,85.2,81.4,4.4,14.8
+Jan-Mar,Jan,Mar,2023,South East,Female,All aged 16 to 64,2822641,2228749,2154126,74623,593892,79.0,76.3,3.3,21.0
+Jan-Mar,Jan,Mar,2023,South West,Male,All aged 16 to 64,1665582,1402198,1358097,44101,263384,84.2,81.5,3.1,15.8
+Jan-Mar,Jan,Mar,2023,South West,Female,All aged 16 to 64,1688470,1311415,1284501,26914,377055,77.7,76.1,2.1,22.3
+Jan-Mar,Jan,Mar,2023,England,Male,All aged 16 to 64,17488207,14599995,13986796,613199,2888212,83.5,80.0,4.2,16.5
+Jan-Mar,Jan,Mar,2023,England,Female,All aged 16 to 64,17568081,13273873,12760128,513745,4294208,75.6,72.6,3.9,24.4
+Jan-Mar,Jan,Mar,2023,Wales,Male,All aged 16 to 64,954011,779264,727465,51799,174747,81.7,76.3,6.6,18.3
+Jan-Mar,Jan,Mar,2023,Wales,Female,All aged 16 to 64,958413,656509,640516,15992,301904,68.5,66.8,2.4,31.5
+Jan-Mar,Jan,Mar,2023,Scotland,Male,All aged 16 to 64,1683136,1353975,1312614,41361,329161,80.4,78.0,3.1,19.6
+Jan-Mar,Jan,Mar,2023,Scotland,Female,All aged 16 to 64,1761930,1325497,1282699,42798,436433,75.2,72.8,3.2,24.8
+Jan-Mar,Jan,Mar,2023,Northern Ireland,Male,All aged 16 to 64,579144,452944,437545,15399,126200,78.2,75.6,3.4,21.8
+Jul-Sep,Jan,Mar,2023,Northern Ireland,Female,All aged 16 to 64,590955,411466,404793,6673,179489,69.6,68.5,1.6,30.4
+Jul-Sep,Jul,Sep,2021,North East,Male,All aged 16 to 64,802173,622181,585401,36780,179992,77.6,73.0,5.9,22.4
+Jul-Sep,Jul,Sep,2021,North East,Female,All aged 16 to 64,822748,588926,562690,26236,233822,71.6,68.4,4.5,28.4
+Jul-Sep,Jul,Sep,2021,Yorkshire and The Humber,Male,All aged 16 to 64,1680784,1346382,1280566,65816,334402,80.1,76.2,4.9,19.9
+Jul-Sep,Jul,Sep,2021,Yorkshire and The Humber,Female,All aged 16 to 64,1692099,1212491,1162736,49755,479608,71.7,68.7,4.1,28.3
+Jul-Sep,Jul,Sep,2021,East Midlands,Male,All aged 16 to 64,1467391,1193596,1140728,52869,273795,81.3,77.7,4.4,18.7
+Jul-Sep,Jul,Sep,2021,East Midlands,Female,All aged 16 to 64,1481845,1128216,1085380,42836,353629,76.1,73.2,3.8,23.9
+Jul-Sep,Jul,Sep,2021,West Midland,Male,All aged 16 to 64,1813747,1514545,1445816,68729,299202,83.5,79.7,4.5,16.5
+Jul-Sep,Jul,Sep,2021,West Midland,Female,All aged 16 to 64,1810178,1320183,1247454,72729,489995,72.9,68.9,5.5,27.1
+Jul-Sep,Jul,Sep,2021,East of England,Male,All aged 16 to 64,1884906,1615493,1560122,55371,269413,85.7,82.8,3.4,14.3
+Jul-Sep,Jul,Sep,2021,East of England,Female,All aged 16 to 64,1907361,1484266,1437350,46915,423095,77.8,75.4,3.2,22.2
+Jul-Sep,Jul,Sep,2021,London,Male,All aged 16 to 64,3102379,2581701,2451849,129852,520678,83.2,79.0,5.0,16.8
+Jul-Sep,Jul,Sep,2021,London,Female,All aged 16 to 64,3037355,2306031,2161858,144173,731324,75.9,71.2,6.3,24.1
+Jul-Sep,Jul,Sep,2021,South East,Male,All aged 16 to 64,2782635,2378961,2288567,90394,403674,85.5,82.2,3.8,14.5
+Jul-Sep,Jul,Sep,2021,South East,Female,All aged 16 to 64,2812118,2178985,2091332,87652,633133,77.5,74.4,4.0,22.5
+Jul-Sep,Jul,Sep,2021,South West,Male,All aged 16 to 64,1659432,1406190,1353197,52993,253242,84.7,81.5,3.8,15.3
+Jul-Sep,Jul,Sep,2021,South West,Female,All aged 16 to 64,1682190,1317356,1276749,40607,364834,78.3,75.9,3.1,21.7
+Jul-Sep,Jul,Sep,2021,England,Male,All aged 16 to 64,17422939,14451978,13810365,641613,2970961,82.9,79.3,4.4,17.1
+Jul-Sep,Jul,Sep,2021,England,Female,All aged 16 to 64,17501938,13207297,12637118,570179,4294641,75.5,72.2,4.3,24.5
+Jul-Sep,Jul,Sep,2021,Wales,Male,All aged 16 to 64,950430,764879,736095,28784,185551,80.5,77.4,3.8,19.5
+Jul-Sep,Jul,Sep,2021,Wales,Female,All aged 16 to 64,954835,696923,668490,28433,257912,73.0,70.0,4.1,27.0
+Jul-Sep,Jul,Sep,2021,Scotland,Male,All aged 16 to 64,1676852,1347408,1284292,63116,329444,80.4,76.6,4.7,19.6
+Jul-Sep,Jul,Sep,2021,Scotland,Female,All aged 16 to 64,1755371,1328275,1280482,47793,427096,75.7,72.9,3.6,24.3
+Jul-Sep,Jul,Sep,2021,Northern Ireland,Male,All aged 16 to 64,577009,418297,393376,24921,158712,72.5,68.2,6.0,27.5
+Jul-Sep,Jul,Sep,2021,Northern Ireland,Female,All aged 16 to 64,588699,412498,400341,12157,176201,70.1,68.0,2.9,29.9
+Jul-Sep,Jul,Sep,2022,North East,Male,All aged 16 to 64,805109,625867,601855,24011,179242,77.7,74.8,3.8,22.3
+Jul-Sep,Jul,Sep,2022,North East,Female,All aged 16 to 64,825747,594282,567530,26752,231465,72.0,68.7,4.5,28.0
+Jul-Sep,Jul,Sep,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1686878,1370513,1310890,59623,316365,81.2,77.7,4.4,18.8
+Jul-Sep,Jul,Sep,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1698242,1267544,1214874,52670,430698,74.6,71.5,4.2,25.4
+Jul-Sep,Jul,Sep,2022,East Midlands,Male,All aged 16 to 64,1472685,1206855,1159688,47167,265830,81.9,78.7,3.9,18.1
+Jul-Sep,Jul,Sep,2022,East Midlands,Female,All aged 16 to 64,1487246,1082859,1048553,34307,404387,72.8,70.5,3.2,27.2
+Jul-Sep,Jul,Sep,2022,West Midland,Male,All aged 16 to 64,1820379,1488848,1416920,71928,331531,81.8,77.8,4.8,18.2
+Jul-Sep,Jul,Sep,2022,West Midland,Female,All aged 16 to 64,1816793,1342969,1277852,65116,473824,73.9,70.3,4.8,26.1
+Jul-Sep,Jul,Sep,2022,East of England,Male,All aged 16 to 64,1891866,1610446,1567400,43046,281420,85.1,82.8,2.7,14.9
+Jul-Sep,Jul,Sep,2022,East of England,Female,All aged 16 to 64,1914363,1488998,1443984,45015,425365,77.8,75.4,3.0,22.2
+Jul-Sep,Jul,Sep,2022,London,Male,All aged 16 to 64,3113753,2606229,2509753,96476,507524,83.7,80.6,3.7,16.3
+Jul-Sep,Jul,Sep,2022,London,Female,All aged 16 to 64,3048465,2236554,2129070,107485,811911,73.4,69.8,4.8,26.6
+Jul-Sep,Jul,Sep,2022,South East,Male,All aged 16 to 64,2792741,2347447,2274877,72569,445294,84.1,81.5,3.1,15.9
+Jul-Sep,Jul,Sep,2022,South East,Female,All aged 16 to 64,2822420,2180514,2113526,66988,641906,77.3,74.9,3.1,22.7
+Jul-Sep,Jul,Sep,2022,South West,Male,All aged 16 to 64,1665412,1391467,1348273,43194,273945,83.6,81.0,3.1,16.4
+Jul-Sep,Jul,Sep,2022,South West,Female,All aged 16 to 64,1688322,1326770,1299713,27057,361552,78.6,77.0,2.0,21.4
+Jul-Sep,Jul,Sep,2022,England,Male,All aged 16 to 64,17486421,14436208,13905355,530853,3050213,82.6,79.5,3.7,17.4
+Jul-Sep,Jul,Sep,2022,England,Female,All aged 16 to 64,17566002,13171482,12680535,490948,4394520,75.0,72.2,3.7,25.0
+Jul-Sep,Jul,Sep,2022,Wales,Male,All aged 16 to 64,953927,760395,730938,29458,193532,79.7,76.6,3.9,20.3
+Jul-Sep,Jul,Sep,2022,Wales,Female,All aged 16 to 64,958316,675514,652562,22952,282802,70.5,68.1,3.4,29.5
+Jul-Sep,Jul,Sep,2022,Scotland,Male,All aged 16 to 64,1682987,1327831,1268691,59140,355156,78.9,75.4,4.5,21.1
+Jul-Sep,Jul,Sep,2022,Scotland,Female,All aged 16 to 64,1761767,1363747,1325135,38612,398020,77.4,75.2,2.8,22.6
+Jul-Sep,Jul,Sep,2022,Northern Ireland,Male,All aged 16 to 64,579108,441126,423922,17204,137982,76.2,73.2,3.9,23.8
+Jun-Aug,Jul,Sep,2022,Northern Ireland,Female,All aged 16 to 64,590898,404572,395759,8813,186326,68.5,67.0,2.2,31.5
+Jun-Aug,Jun,Aug,2021,North East,Male,All aged 16 to 64,801903,624945,583559,41387,176958,77.9,72.8,6.6,22.1
+Jun-Aug,Jun,Aug,2021,North East,Female,All aged 16 to 64,822437,598771,573564,25206,223666,72.8,69.7,4.2,27.2
+Jun-Aug,Jun,Aug,2021,Yorkshire and The Humber,Male,All aged 16 to 64,1680200,1354868,1285641,69228,325332,80.6,76.5,5.1,19.4
+Jun-Aug,Jun,Aug,2021,Yorkshire and The Humber,Female,All aged 16 to 64,1691479,1216855,1163545,53309,474624,71.9,68.8,4.4,28.1
+Jun-Aug,Jun,Aug,2021,East Midlands,Male,All aged 16 to 64,1466850,1191517,1135808,55709,275333,81.2,77.4,4.7,18.8
+Jun-Aug,Jun,Aug,2021,East Midlands,Female,All aged 16 to 64,1481377,1130388,1083153,47235,350989,76.3,73.1,4.2,23.7
+Jun-Aug,Jun,Aug,2021,West Midland,Male,All aged 16 to 64,1813128,1505584,1434383,71201,307544,83.0,79.1,4.7,17.0
+Jun-Aug,Jun,Aug,2021,West Midland,Female,All aged 16 to 64,1809585,1338618,1266274,72343,470967,74.0,70.0,5.4,26.0
+Jun-Aug,Jun,Aug,2021,East of England,Male,All aged 16 to 64,1884322,1618211,1564601,53610,266111,85.9,83.0,3.3,14.1
+Jun-Aug,Jun,Aug,2021,East of England,Female,All aged 16 to 64,1906729,1493177,1438072,55105,413552,78.3,75.4,3.7,21.7
+Jun-Aug,Jun,Aug,2021,London,Male,All aged 16 to 64,3101341,2578986,2433942,145044,522355,83.2,78.5,5.6,16.8
+Jun-Aug,Jun,Aug,2021,London,Female,All aged 16 to 64,3036313,2308758,2169360,139399,727555,76.0,71.4,6.0,24.0
+Jun-Aug,Jun,Aug,2021,South East,Male,All aged 16 to 64,2781630,2385998,2283856,102142,395632,85.8,82.1,4.3,14.2
+Jun-Aug,Jun,Aug,2021,South East,Female,All aged 16 to 64,2811143,2178310,2086419,91891,632833,77.5,74.2,4.2,22.5
+Jun-Aug,Jun,Aug,2021,South West,Male,All aged 16 to 64,1658841,1390250,1339431,50819,268591,83.8,80.7,3.7,16.2
+Jun-Aug,Jun,Aug,2021,South West,Female,All aged 16 to 64,1681660,1302483,1259058,43425,379177,77.5,74.9,3.3,22.5
+Jun-Aug,Jun,Aug,2021,England,Male,All aged 16 to 64,17416910,14436282,13757100,679182,2980628,82.9,79.0,4.7,17.1
+Jun-Aug,Jun,Aug,2021,England,Female,All aged 16 to 64,17496005,13220694,12641135,579559,4275311,75.6,72.3,4.4,24.4
+Jun-Aug,Jun,Aug,2021,Wales,Male,All aged 16 to 64,950062,770770,738063,32707,179292,81.1,77.7,4.2,18.9
+Jun-Aug,Jun,Aug,2021,Wales,Female,All aged 16 to 64,954549,701528,671718,29810,253021,73.5,70.4,4.2,26.5
+Jun-Aug,Jun,Aug,2021,Scotland,Male,All aged 16 to 64,1676271,1344362,1279394,64968,331909,80.2,76.3,4.8,19.8
+Jun-Aug,Jun,Aug,2021,Scotland,Female,All aged 16 to 64,1754714,1324524,1268894,55630,430190,75.5,72.3,4.2,24.5
+Jun-Aug,Jun,Aug,2021,Northern Ireland,Male,All aged 16 to 64,576823,427301,401842,25460,149522,74.1,69.7,6.0,25.9
+Jun-Aug,Jun,Aug,2021,Northern Ireland,Female,All aged 16 to 64,588615,415532,402542,12989,173083,70.6,68.4,3.1,29.4
+Jun-Aug,Jun,Aug,2022,North East,Male,All aged 16 to 64,804794,625900,599194,26706,178894,77.8,74.5,4.3,22.2
+Jun-Aug,Jun,Aug,2022,North East,Female,All aged 16 to 64,825432,589194,561022,28172,236238,71.4,68.0,4.8,28.6
+Jun-Aug,Jun,Aug,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1686277,1361465,1309661,51804,324812,80.7,77.7,3.8,19.3
+Jun-Aug,Jun,Aug,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1697624,1258449,1206558,51890,439175,74.1,71.1,4.1,25.9
+Jun-Aug,Jun,Aug,2022,East Midlands,Male,All aged 16 to 64,1472148,1200114,1160863,39251,272034,81.5,78.9,3.3,18.5
+Jun-Aug,Jun,Aug,2022,East Midlands,Female,All aged 16 to 64,1486671,1088887,1056863,32025,397784,73.2,71.1,2.9,26.8
+Jun-Aug,Jun,Aug,2022,West Midland,Male,All aged 16 to 64,1819679,1505921,1427989,77932,313758,82.8,78.5,5.2,17.2
+Jun-Aug,Jun,Aug,2022,West Midland,Female,All aged 16 to 64,1816108,1346326,1284105,62221,469782,74.1,70.7,4.6,25.9
+Jun-Aug,Jun,Aug,2022,East of England,Male,All aged 16 to 64,1891085,1608262,1566805,41457,282823,85.0,82.9,2.6,15.0
+Jun-Aug,Jun,Aug,2022,East of England,Female,All aged 16 to 64,1913615,1491623,1444364,47259,421992,77.9,75.5,3.2,22.1
+Jun-Aug,Jun,Aug,2022,London,Male,All aged 16 to 64,3112487,2593563,2499326,94238,518924,83.3,80.3,3.6,16.7
+Jun-Aug,Jun,Aug,2022,London,Female,All aged 16 to 64,3047253,2232472,2126738,105734,814781,73.3,69.8,4.7,26.7
+Jun-Aug,Jun,Aug,2022,South East,Male,All aged 16 to 64,2791701,2340540,2262109,78430,451161,83.8,81.0,3.4,16.2
+Jun-Aug,Jun,Aug,2022,South East,Female,All aged 16 to 64,2821314,2192753,2128127,64626,628561,77.7,75.4,2.9,22.3
+Jun-Aug,Jun,Aug,2022,South West,Male,All aged 16 to 64,1664789,1381214,1334853,46362,283575,83.0,80.2,3.4,17.0
+Jun-Aug,Jun,Aug,2022,South West,Female,All aged 16 to 64,1687656,1330055,1301808,28247,357601,78.8,77.1,2.1,21.2
+Jun-Aug,Jun,Aug,2022,England,Male,All aged 16 to 64,17479722,14399074,13881545,517528,3080648,82.4,79.4,3.6,17.6
+Jun-Aug,Jun,Aug,2022,England,Female,All aged 16 to 64,17559073,13191669,12710754,480915,4367404,75.1,72.4,3.6,24.9
+Jun-Aug,Jun,Aug,2022,Wales,Male,All aged 16 to 64,953505,753472,727410,26062,200033,79.0,76.3,3.5,21.0
+Jun-Aug,Jun,Aug,2022,Wales,Female,All aged 16 to 64,957961,674060,651411,22650,283901,70.4,68.0,3.4,29.6
+Jun-Aug,Jun,Aug,2022,Scotland,Male,All aged 16 to 64,1682328,1347196,1291121,56075,335132,80.1,76.7,4.2,19.9
+Jun-Aug,Jun,Aug,2022,Scotland,Female,All aged 16 to 64,1761069,1354032,1319290,34742,407037,76.9,74.9,2.6,23.1
+Jun-Aug,Jun,Aug,2022,Northern Ireland,Male,All aged 16 to 64,578909,440317,424707,15610,138592,76.1,73.4,3.5,23.9
+Mar-May,Jun,Aug,2022,Northern Ireland,Female,All aged 16 to 64,590703,404049,393293,10756,186654,68.4,66.6,2.7,31.6
+Mar-May,Mar,May,2021,North East,Male,All aged 16 to 64,801159,637993,592150,45843,163166,79.6,73.9,7.2,20.4
+Mar-May,Mar,May,2021,North East,Female,All aged 16 to 64,821673,597515,571780,25735,224158,72.7,69.6,4.3,27.3
+Mar-May,Mar,May,2021,Yorkshire and The Humber,Male,All aged 16 to 64,1677820,1360497,1288579,71918,317323,81.1,76.8,5.3,18.9
+Mar-May,Mar,May,2021,Yorkshire and The Humber,Female,All aged 16 to 64,1689141,1221982,1160880,61102,467159,72.3,68.7,5.0,27.7
+Mar-May,Mar,May,2021,East Midlands,Male,All aged 16 to 64,1464316,1196989,1132892,64098,267327,81.7,77.4,5.4,18.3
+Mar-May,Mar,May,2021,East Midlands,Female,All aged 16 to 64,1478791,1119197,1067112,52085,359594,75.7,72.2,4.7,24.3
+Mar-May,Mar,May,2021,West Midland,Male,All aged 16 to 64,1809524,1502443,1409290,93153,307081,83.0,77.9,6.2,17.0
+Mar-May,Mar,May,2021,West Midland,Female,All aged 16 to 64,1806182,1342683,1267739,74944,463499,74.3,70.2,5.6,25.7
+Mar-May,Mar,May,2021,East of England,Male,All aged 16 to 64,1880390,1599101,1534402,64699,281289,85.0,81.6,4.0,15.0
+Mar-May,Mar,May,2021,East of England,Female,All aged 16 to 64,1902857,1471378,1411752,59626,431479,77.3,74.2,4.1,22.7
+Mar-May,Mar,May,2021,London,Male,All aged 16 to 64,3092877,2567180,2413150,154031,525697,83.0,78.0,6.0,17.0
+Mar-May,Mar,May,2021,London,Female,All aged 16 to 64,3029246,2319731,2154108,165623,709515,76.6,71.1,7.1,23.4
+Mar-May,Mar,May,2021,South East,Male,All aged 16 to 64,2776307,2383187,2273233,109953,393120,85.8,81.9,4.6,14.2
+Mar-May,Mar,May,2021,South East,Female,All aged 16 to 64,2805988,2148446,2065540,82907,657542,76.6,73.6,3.9,23.4
+Mar-May,Mar,May,2021,South West,Male,All aged 16 to 64,1655776,1381032,1332934,48099,274744,83.4,80.5,3.5,16.6
+Mar-May,Mar,May,2021,South West,Female,All aged 16 to 64,1678653,1286964,1236162,50802,391689,76.7,73.6,3.9,23.3
+Mar-May,Mar,May,2021,England,Male,All aged 16 to 64,17383668,14381763,13652808,728954,3001905,82.7,78.5,5.1,17.3
+Mar-May,Mar,May,2021,England,Female,All aged 16 to 64,17464736,13196099,12529855,666244,4268637,75.6,71.7,5.0,24.4
+Mar-May,Mar,May,2021,Wales,Male,All aged 16 to 64,948681,766429,728041,38388,182252,80.8,76.7,5.0,19.2
+Mar-May,Mar,May,2021,Wales,Female,All aged 16 to 64,953300,691843,671930,19913,261457,72.6,70.5,2.9,27.4
+Mar-May,Mar,May,2021,Scotland,Male,All aged 16 to 64,1674024,1332330,1263638,68692,341694,79.6,75.5,5.2,20.4
+Mar-May,Mar,May,2021,Scotland,Female,All aged 16 to 64,1752498,1321819,1271799,50020,430679,75.4,72.6,3.8,24.6
+Mar-May,Mar,May,2021,Northern Ireland,Male,All aged 16 to 64,575951,418749,395197,23551,157202,72.7,68.6,5.6,27.3
+Mar-May,Mar,May,2021,Northern Ireland,Female,All aged 16 to 64,587741,400831,389181,11650,186910,68.2,66.2,2.9,31.8
+Mar-May,Mar,May,2022,North East,Male,All aged 16 to 64,802909,627362,592622,34740,175547,78.1,73.8,5.5,21.9
+Mar-May,Mar,May,2022,North East,Female,All aged 16 to 64,823465,595426,569978,25448,228039,72.3,69.2,4.3,27.7
+Mar-May,Mar,May,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1682280,1374535,1311879,62656,307745,81.7,78.0,4.6,18.3
+Mar-May,Mar,May,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1693622,1257700,1200270,57430,435922,74.3,70.9,4.6,25.7
+Mar-May,Mar,May,2022,East Midlands,Male,All aged 16 to 64,1468730,1202578,1173899,28679,266152,81.9,79.9,2.4,18.1
+Mar-May,Mar,May,2022,East Midlands,Female,All aged 16 to 64,1483227,1122495,1093670,28824,360732,75.7,73.7,2.6,24.3
+Mar-May,Mar,May,2022,West Midland,Male,All aged 16 to 64,1815406,1501180,1430597,70583,314226,82.7,78.8,4.7,17.3
+Mar-May,Mar,May,2022,West Midland,Female,All aged 16 to 64,1811821,1354567,1292773,61794,457254,74.8,71.4,4.6,25.2
+Mar-May,Mar,May,2022,East of England,Male,All aged 16 to 64,1886637,1600167,1546794,53373,286470,84.8,82.0,3.3,15.2
+Mar-May,Mar,May,2022,East of England,Female,All aged 16 to 64,1909119,1482591,1425830,56761,426528,77.7,74.7,3.8,22.3
+Mar-May,Mar,May,2022,London,Male,All aged 16 to 64,3105181,2623203,2503729,119474,481978,84.5,80.6,4.6,15.5
+Mar-May,Mar,May,2022,London,Female,All aged 16 to 64,3040144,2247790,2130174,117616,792354,73.9,70.1,5.2,26.1
+Mar-May,Mar,May,2022,South East,Male,All aged 16 to 64,2785127,2352465,2276613,75852,432662,84.5,81.7,3.2,15.5
+Mar-May,Mar,May,2022,South East,Female,All aged 16 to 64,2814661,2177445,2117129,60316,637216,77.4,75.2,2.8,22.6
+Mar-May,Mar,May,2022,South West,Male,All aged 16 to 64,1660885,1389388,1344292,45097,271497,83.7,80.9,3.2,16.3
+Mar-May,Mar,May,2022,South West,Female,All aged 16 to 64,1683712,1338305,1307292,31013,345407,79.5,77.6,2.3,20.5
+Mar-May,Mar,May,2022,England,Male,All aged 16 to 64,17438636,14481869,13903136,578733,2956767,83.0,79.7,4.0,17.0
+Mar-May,Mar,May,2022,England,Female,All aged 16 to 64,17517825,13247533,12741441,506092,4270292,75.6,72.7,3.8,24.4
+Mar-May,Mar,May,2022,Wales,Male,All aged 16 to 64,951271,768972,738110,30862,182299,80.8,77.6,4.0,19.2
+Mar-May,Mar,May,2022,Wales,Female,All aged 16 to 64,955696,691847,667172,24675,263849,72.4,69.8,3.6,27.6
+Mar-May,Mar,May,2022,Scotland,Male,All aged 16 to 64,1678379,1352871,1290608,62263,325508,80.6,76.9,4.6,19.4
+Mar-May,Mar,May,2022,Scotland,Female,All aged 16 to 64,1756921,1334762,1300370,34391,422159,76.0,74.0,2.6,24.0
+Mar-May,Mar,May,2022,Northern Ireland,Male,All aged 16 to 64,577558,440144,426660,13484,137414,76.2,73.9,3.1,23.8
+May-Jul,Mar,May,2022,Northern Ireland,Female,All aged 16 to 64,589328,399796,391003,8793,189532,67.8,66.3,2.2,32.2
+May-Jul,May,Jul,2021,North East,Male,All aged 16 to 64,801405,631302,591567,39736,170103,78.8,73.8,6.3,21.2
+May-Jul,May,Jul,2021,North East,Female,All aged 16 to 64,821928,597982,574644,23338,223946,72.8,69.9,3.9,27.2
+May-Jul,May,Jul,2021,Yorkshire and The Humber,Male,All aged 16 to 64,1679095,1363043,1291454,71589,316052,81.2,76.9,5.3,18.8
+May-Jul,May,Jul,2021,Yorkshire and The Humber,Female,All aged 16 to 64,1690414,1225463,1173812,51652,464951,72.5,69.4,4.2,27.5
+May-Jul,May,Jul,2021,East Midlands,Male,All aged 16 to 64,1465929,1192849,1135416,57433,273080,81.4,77.5,4.8,18.6
+May-Jul,May,Jul,2021,East Midlands,Female,All aged 16 to 64,1480412,1119857,1072218,47639,360555,75.6,72.4,4.3,24.4
+May-Jul,May,Jul,2021,West Midland,Male,All aged 16 to 64,1811929,1504138,1419797,84340,307791,83.0,78.4,5.6,17.0
+May-Jul,May,Jul,2021,West Midland,Female,All aged 16 to 64,1808371,1333519,1266160,67359,474852,73.7,70.0,5.1,26.3
+May-Jul,May,Jul,2021,East of England,Male,All aged 16 to 64,1883108,1609456,1548456,61000,273652,85.5,82.2,3.8,14.5
+May-Jul,May,Jul,2021,East of England,Female,All aged 16 to 64,1905514,1487669,1434647,53022,417845,78.1,75.3,3.6,21.9
+May-Jul,May,Jul,2021,London,Male,All aged 16 to 64,3099338,2583774,2441723,142051,515564,83.4,78.8,5.5,16.6
+May-Jul,May,Jul,2021,London,Female,All aged 16 to 64,3034367,2305861,2154513,151348,728506,76.0,71.0,6.6,24.0
+May-Jul,May,Jul,2021,South East,Male,All aged 16 to 64,2779863,2384218,2274295,109923,395645,85.8,81.8,4.6,14.2
+May-Jul,May,Jul,2021,South East,Female,All aged 16 to 64,2809400,2169194,2086265,82930,640206,77.2,74.3,3.8,22.8
+May-Jul,May,Jul,2021,South West,Male,All aged 16 to 64,1657779,1389120,1340510,48610,268659,83.8,80.9,3.5,16.2
+May-Jul,May,Jul,2021,South West,Female,All aged 16 to 64,1680521,1298286,1254861,43425,382235,77.3,74.7,3.3,22.7
+May-Jul,May,Jul,2021,England,Male,All aged 16 to 64,17405723,14433486,13729812,703674,2972237,82.9,78.9,4.9,17.1
+May-Jul,May,Jul,2021,England,Female,All aged 16 to 64,17484723,13206623,12610166,596457,4278100,75.5,72.1,4.5,24.5
+May-Jul,May,Jul,2021,Wales,Male,All aged 16 to 64,949491,773718,739229,34488,175773,81.5,77.9,4.5,18.5
+May-Jul,May,Jul,2021,Wales,Female,All aged 16 to 64,953860,709704,678386,31318,244156,74.4,71.1,4.4,25.6
+May-Jul,May,Jul,2021,Scotland,Male,All aged 16 to 64,1675210,1338124,1274045,64080,337086,79.9,76.1,4.8,20.1
+May-Jul,May,Jul,2021,Scotland,Female,All aged 16 to 64,1753654,1321480,1267483,53997,432174,75.4,72.3,4.1,24.6
+May-Jul,May,Jul,2021,Northern Ireland,Male,All aged 16 to 64,576463,424264,397722,26542,152199,73.6,69.0,6.3,26.4
+May-Jul,May,Jul,2021,Northern Ireland,Female,All aged 16 to 64,588264,415022,402607,12415,173242,70.6,68.4,3.0,29.4
+May-Jul,May,Jul,2022,North East,Male,All aged 16 to 64,804283,628753,600509,28244,175530,78.2,74.7,4.5,21.8
+May-Jul,May,Jul,2022,North East,Female,All aged 16 to 64,824915,588136,561566,26571,236779,71.3,68.1,4.5,28.7
+May-Jul,May,Jul,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1685172,1365682,1303566,62116,319490,81.0,77.4,4.5,19.0
+May-Jul,May,Jul,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1696550,1251057,1195107,55950,445493,73.7,70.4,4.5,26.3
+May-Jul,May,Jul,2022,East Midlands,Male,All aged 16 to 64,1471188,1200815,1167271,33544,270373,81.6,79.3,2.8,18.4
+May-Jul,May,Jul,2022,East Midlands,Female,All aged 16 to 64,1485699,1108677,1076600,32077,377022,74.6,72.5,2.9,25.4
+May-Jul,May,Jul,2022,West Midland,Male,All aged 16 to 64,1818495,1512278,1443931,68347,306217,83.2,79.4,4.5,16.8
+May-Jul,May,Jul,2022,West Midland,Female,All aged 16 to 64,1814922,1359186,1292048,67138,455736,74.9,71.2,4.9,25.1
+May-Jul,May,Jul,2022,East of England,Male,All aged 16 to 64,1889837,1603172,1555855,47318,286665,84.8,82.3,3.0,15.2
+May-Jul,May,Jul,2022,East of England,Female,All aged 16 to 64,1912365,1480213,1433198,47014,432152,77.4,74.9,3.2,22.6
+May-Jul,May,Jul,2022,London,Male,All aged 16 to 64,3110521,2590379,2480658,109721,520142,83.3,79.8,4.2,16.7
+May-Jul,May,Jul,2022,London,Female,All aged 16 to 64,3045304,2230417,2124450,105968,814887,73.2,69.8,4.8,26.8
+May-Jul,May,Jul,2022,South East,Male,All aged 16 to 64,2789877,2345295,2254332,90963,444582,84.1,80.8,3.9,15.9
+May-Jul,May,Jul,2022,South East,Female,All aged 16 to 64,2819506,2183063,2111676,71387,636443,77.4,74.9,3.3,22.6
+May-Jul,May,Jul,2022,South West,Male,All aged 16 to 64,1663721,1374100,1326019,48081,289621,82.6,79.7,3.5,17.4
+May-Jul,May,Jul,2022,South West,Female,All aged 16 to 64,1686597,1323200,1296045,27155,363397,78.5,76.8,2.1,21.5
+May-Jul,May,Jul,2022,England,Male,All aged 16 to 64,17468392,14413025,13865528,547498,3055367,82.5,79.4,3.8,17.5
+May-Jul,May,Jul,2022,England,Female,All aged 16 to 64,17547812,13179844,12685032,494811,4367968,75.1,72.3,3.8,24.9
+May-Jul,May,Jul,2022,Wales,Male,All aged 16 to 64,952917,753141,728035,25107,199776,79.0,76.4,3.3,21.0
+May-Jul,May,Jul,2022,Wales,Female,All aged 16 to 64,957357,668626,647976,20650,288731,69.8,67.7,3.1,30.2
+May-Jul,May,Jul,2022,Scotland,Male,All aged 16 to 64,1681252,1339406,1284134,55272,341846,79.7,76.4,4.1,20.3
+May-Jul,May,Jul,2022,Scotland,Female,All aged 16 to 64,1759945,1332084,1304331,27754,427861,75.7,74.1,2.1,24.3
+May-Jul,May,Jul,2022,Northern Ireland,Male,All aged 16 to 64,578536,438044,422154,15890,140492,75.7,73.0,3.6,24.3
+Nov-Jan,May,Jul,2022,Northern Ireland,Female,All aged 16 to 64,590315,400898,391404,9495,189417,67.9,66.3,2.4,32.1
+Nov-Jan,Nov,Jan,2022,North East,Male,All aged 16 to 64,801822,626255,591246,35008,175567,78.1,73.7,5.6,21.9
+Nov-Jan,Nov,Jan,2022,North East,Female,All aged 16 to 64,822362,590757,557304,33453,231605,71.8,67.8,5.7,28.2
+Nov-Jan,Nov,Jan,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1680030,1349492,1283949,65543,330538,80.3,76.4,4.9,19.7
+Nov-Jan,Nov,Jan,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1691344,1195443,1158129,37314,495901,70.7,68.5,3.1,29.3
+Nov-Jan,Nov,Jan,2022,East Midlands,Male,All aged 16 to 64,1466716,1180671,1138292,42378,286045,80.5,77.6,3.6,19.5
+Nov-Jan,Nov,Jan,2022,East Midlands,Female,All aged 16 to 64,1481202,1129745,1101446,28299,351457,76.3,74.4,2.5,23.7
+Nov-Jan,Nov,Jan,2022,West Midland,Male,All aged 16 to 64,1812917,1524868,1459254,65614,288049,84.1,80.5,4.3,15.9
+Nov-Jan,Nov,Jan,2022,West Midland,Female,All aged 16 to 64,1809376,1360278,1281865,78413,449098,75.2,70.8,5.8,24.8
+Nov-Jan,Nov,Jan,2022,East of England,Male,All aged 16 to 64,1884082,1597781,1547387,50394,286301,84.8,82.1,3.2,15.2
+Nov-Jan,Nov,Jan,2022,East of England,Female,All aged 16 to 64,1906466,1482408,1438452,43956,424058,77.8,75.5,3.0,22.2
+Nov-Jan,Nov,Jan,2022,London,Male,All aged 16 to 64,3101008,2626940,2507605,119335,474068,84.7,80.9,4.5,15.3
+Nov-Jan,Nov,Jan,2022,London,Female,All aged 16 to 64,3036025,2268014,2137972,130042,768011,74.7,70.4,5.7,25.3
+Nov-Jan,Nov,Jan,2022,South East,Male,All aged 16 to 64,2781370,2355998,2251913,104085,425372,84.7,81.0,4.4,15.3
+Nov-Jan,Nov,Jan,2022,South East,Female,All aged 16 to 64,2810890,2161271,2091875,69396,649619,76.9,74.4,3.2,23.1
+Nov-Jan,Nov,Jan,2022,South West,Male,All aged 16 to 64,1658633,1378290,1337282,41008,280343,83.1,80.6,3.0,16.9
+Nov-Jan,Nov,Jan,2022,South West,Female,All aged 16 to 64,1681454,1330791,1293478,37314,350663,79.1,76.9,2.8,20.9
+Nov-Jan,Nov,Jan,2022,England,Male,All aged 16 to 64,17415054,14421863,13802253,619610,2993191,82.8,79.3,4.3,17.2
+Nov-Jan,Nov,Jan,2022,England,Female,All aged 16 to 64,17494181,13179375,12660156,519219,4314806,75.3,72.4,3.9,24.7
+Nov-Jan,Nov,Jan,2022,Wales,Male,All aged 16 to 64,949979,764525,740326,24200,185454,80.5,77.9,3.2,19.5
+Nov-Jan,Nov,Jan,2022,Wales,Female,All aged 16 to 64,954420,697671,675887,21784,256749,73.1,70.8,3.1,26.9
+Nov-Jan,Nov,Jan,2022,Scotland,Male,All aged 16 to 64,1676110,1341309,1278655,62654,334801,80.0,76.3,4.7,20.0
+Nov-Jan,Nov,Jan,2022,Scotland,Female,All aged 16 to 64,1754558,1320143,1277678,42465,434415,75.2,72.8,3.2,24.8
+Nov-Jan,Nov,Jan,2022,Northern Ireland,Male,All aged 16 to 64,576783,428893,410517,18376,147890,74.4,71.2,4.3,25.6
+Nov-Jan,Nov,Jan,2022,Northern Ireland,Female,All aged 16 to 64,588478,399488,390585,8903,188990,67.9,66.4,2.2,32.1
+Nov-Jan,Nov,Jan,2023,North East,Male,All aged 16 to 64,804696,622144,591097,31048,182552,77.3,73.5,5.0,22.7
+Nov-Jan,Nov,Jan,2023,North East,Female,All aged 16 to 64,825301,601288,579934,21354,224013,72.9,70.3,3.6,27.1
+Nov-Jan,Nov,Jan,2023,Yorkshire and The Humber,Male,All aged 16 to 64,1686003,1375390,1328406,46983,310613,81.6,78.8,3.4,18.4
+Nov-Jan,Nov,Jan,2023,Yorkshire and The Humber,Female,All aged 16 to 64,1697368,1237895,1200824,37071,459473,72.9,70.7,3.0,27.1
+Nov-Jan,Nov,Jan,2023,East Midlands,Male,All aged 16 to 64,1471963,1226979,1182825,44154,244984,83.4,80.4,3.6,16.6
+Nov-Jan,Nov,Jan,2023,East Midlands,Female,All aged 16 to 64,1486469,1070737,1032651,38086,415732,72.0,69.5,3.6,28.0
+Nov-Jan,Nov,Jan,2023,West Midland,Male,All aged 16 to 64,1819427,1475009,1405319,69690,344418,81.1,77.2,4.7,18.9
+Nov-Jan,Nov,Jan,2023,West Midland,Female,All aged 16 to 64,1815857,1341864,1283603,58261,473993,73.9,70.7,4.3,26.1
+Nov-Jan,Nov,Jan,2023,East of England,Male,All aged 16 to 64,1890781,1623960,1571764,52197,266821,85.9,83.1,3.2,14.1
+Nov-Jan,Nov,Jan,2023,East of England,Female,All aged 16 to 64,1913312,1475409,1406115,69295,437903,77.1,73.5,4.7,22.9
+Nov-Jan,Nov,Jan,2023,London,Male,All aged 16 to 64,3112089,2540384,2453285,87099,571705,81.6,78.8,3.4,18.4
+Nov-Jan,Nov,Jan,2023,London,Female,All aged 16 to 64,3046857,2270499,2140306,130194,776358,74.5,70.2,5.7,25.5
+Nov-Jan,Nov,Jan,2023,South East,Male,All aged 16 to 64,2791345,2381740,2268940,112800,409605,85.3,81.3,4.7,14.7
+Nov-Jan,Nov,Jan,2023,South East,Female,All aged 16 to 64,2820980,2222185,2150822,71363,598795,78.8,76.2,3.2,21.2
+Nov-Jan,Nov,Jan,2023,South West,Male,All aged 16 to 64,1664564,1404480,1360302,44177,260084,84.4,81.7,3.1,15.6
+Nov-Jan,Nov,Jan,2023,South West,Female,All aged 16 to 64,1687440,1342230,1319199,23031,345210,79.5,78.2,1.7,20.5
+Nov-Jan,Nov,Jan,2023,England,Male,All aged 16 to 64,17477300,14463920,13906280,557640,3013380,82.8,79.6,3.9,17.2
+Nov-Jan,Nov,Jan,2023,England,Female,All aged 16 to 64,17556663,13220389,12709748,510641,4336274,75.3,72.4,3.9,24.7
+Nov-Jan,Nov,Jan,2023,Wales,Male,All aged 16 to 64,953398,774212,740322,33890,179186,81.2,77.7,4.4,18.8
+Nov-Jan,Nov,Jan,2023,Wales,Female,All aged 16 to 64,957821,660573,642143,18430,297248,69.0,67.0,2.8,31.0
+Nov-Jan,Nov,Jan,2023,Scotland,Male,All aged 16 to 64,1682099,1363493,1311732,51761,318606,81.1,78.0,3.8,18.9
+Nov-Jan,Nov,Jan,2023,Scotland,Female,All aged 16 to 64,1760881,1356010,1321353,34657,404871,77.0,75.0,2.6,23.0
+Nov-Jan,Nov,Jan,2023,Northern Ireland,Male,All aged 16 to 64,578819,452187,437243,14943,126632,78.1,75.5,3.3,21.9
+Oct-Dec,Nov,Jan,2023,Northern Ireland,Female,All aged 16 to 64,590601,408762,402614,6148,181839,69.2,68.2,1.5,30.8
+Oct-Dec,Oct,Dec,2021,North East,Male,All aged 16 to 64,801990,634037,602112,31926,167953,79.1,75.1,5.0,20.9
+Oct-Dec,Oct,Dec,2021,North East,Female,All aged 16 to 64,822512,588748,551819,36929,233764,71.6,67.1,6.3,28.4
+Oct-Dec,Oct,Dec,2021,Yorkshire and The Humber,Male,All aged 16 to 64,1680354,1351667,1291020,60646,328687,80.4,76.8,4.5,19.6
+Oct-Dec,Oct,Dec,2021,Yorkshire and The Humber,Female,All aged 16 to 64,1691626,1202096,1165035,37061,489530,71.1,68.9,3.1,28.9
+Oct-Dec,Oct,Dec,2021,East Midlands,Male,All aged 16 to 64,1467012,1173695,1128759,44936,293317,80.0,76.9,3.8,20.0
+Oct-Dec,Oct,Dec,2021,East Midlands,Female,All aged 16 to 64,1481479,1129048,1096046,33002,352431,76.2,74.0,2.9,23.8
+Oct-Dec,Oct,Dec,2021,West Midland,Male,All aged 16 to 64,1813270,1518970,1452505,66465,294300,83.8,80.1,4.4,16.2
+Oct-Dec,Oct,Dec,2021,West Midland,Female,All aged 16 to 64,1809726,1344662,1269253,75409,465064,74.3,70.1,5.6,25.7
+Oct-Dec,Oct,Dec,2021,East of England,Male,All aged 16 to 64,1884467,1599994,1550254,49740,284473,84.9,82.3,3.1,15.1
+Oct-Dec,Oct,Dec,2021,East of England,Female,All aged 16 to 64,1906866,1490317,1445326,44991,416549,78.2,75.8,3.0,21.8
+Oct-Dec,Oct,Dec,2021,London,Male,All aged 16 to 64,3101619,2624897,2500201,124696,476722,84.6,80.6,4.8,15.4
+Oct-Dec,Oct,Dec,2021,London,Female,All aged 16 to 64,3036579,2294041,2160150,133890,742538,75.5,71.1,5.8,24.5
+Oct-Dec,Oct,Dec,2021,South East,Male,All aged 16 to 64,2781924,2357287,2258625,98661,424637,84.7,81.2,4.2,15.3
+Oct-Dec,Oct,Dec,2021,South East,Female,All aged 16 to 64,2811355,2164468,2085125,79343,646887,77.0,74.2,3.7,23.0
+Oct-Dec,Oct,Dec,2021,South West,Male,All aged 16 to 64,1658959,1378437,1337090,41348,280522,83.1,80.6,3.0,16.9
+Oct-Dec,Oct,Dec,2021,South West,Female,All aged 16 to 64,1681723,1335322,1297258,38064,346401,79.4,77.1,2.9,20.6
+Oct-Dec,Oct,Dec,2021,England,Male,All aged 16 to 64,17418516,14434481,13817531,616951,2984035,82.9,79.3,4.3,17.1
+Oct-Dec,Oct,Dec,2021,England,Female,All aged 16 to 64,17497326,13216748,12676571,540178,4280578,75.5,72.4,4.1,24.5
+Oct-Dec,Oct,Dec,2021,Wales,Male,All aged 16 to 64,950180,762032,740217,21815,188148,80.2,77.9,2.9,19.8
+Oct-Dec,Oct,Dec,2021,Wales,Female,All aged 16 to 64,954564,700837,676516,24321,253727,73.4,70.9,3.5,26.6
+Oct-Dec,Oct,Dec,2021,Scotland,Male,All aged 16 to 64,1676437,1340331,1277595,62736,336106,80.0,76.2,4.7,20.0
+Oct-Dec,Oct,Dec,2021,Scotland,Female,All aged 16 to 64,1754898,1316477,1267490,48986,438421,75.0,72.2,3.7,25.0
+Oct-Dec,Oct,Dec,2021,Northern Ireland,Male,All aged 16 to 64,576863,426296,408464,17832,150567,73.9,70.8,4.2,26.1
+Oct-Dec,Oct,Dec,2021,Northern Ireland,Female,All aged 16 to 64,588602,402627,393093,9535,185975,68.4,66.8,2.4,31.6
+Oct-Dec,Oct,Dec,2022,North East,Male,All aged 16 to 64,804862,611916,580754,31162,192946,76.0,72.2,5.1,24.0
+Oct-Dec,Oct,Dec,2022,North East,Female,All aged 16 to 64,825453,600074,576118,23956,225379,72.7,69.8,4.0,27.3
+Oct-Dec,Oct,Dec,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1686361,1358295,1304199,54096,328066,80.5,77.3,4.0,19.5
+Oct-Dec,Oct,Dec,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1697676,1245828,1195858,49970,451848,73.4,70.4,4.0,26.6
+Oct-Dec,Oct,Dec,2022,East Midlands,Male,All aged 16 to 64,1472234,1218523,1178614,39909,253711,82.8,80.1,3.3,17.2
+Oct-Dec,Oct,Dec,2022,East Midlands,Female,All aged 16 to 64,1486771,1067592,1030470,37122,419179,71.8,69.3,3.5,28.2
+Oct-Dec,Oct,Dec,2022,West Midland,Male,All aged 16 to 64,1819729,1482194,1415605,66590,337535,81.5,77.8,4.5,18.5
+Oct-Dec,Oct,Dec,2022,West Midland,Female,All aged 16 to 64,1816191,1357035,1294559,62476,459156,74.7,71.3,4.6,25.3
+Oct-Dec,Oct,Dec,2022,East of England,Male,All aged 16 to 64,1891206,1618566,1568783,49783,272640,85.6,83.0,3.1,14.4
+Oct-Dec,Oct,Dec,2022,East of England,Female,All aged 16 to 64,1913723,1463837,1402729,61107,449886,76.5,73.3,4.2,23.5
+Oct-Dec,Oct,Dec,2022,London,Male,All aged 16 to 64,3112633,2557089,2463486,93604,555544,82.2,79.1,3.7,17.8
+Oct-Dec,Oct,Dec,2022,London,Female,All aged 16 to 64,3047449,2285896,2161050,124845,761553,75.0,70.9,5.5,25.0
+Oct-Dec,Oct,Dec,2022,South East,Male,All aged 16 to 64,2791851,2370894,2257410,113484,420957,84.9,80.9,4.8,15.1
+Oct-Dec,Oct,Dec,2022,South East,Female,All aged 16 to 64,2821455,2210102,2131374,78728,611353,78.3,75.5,3.6,21.7
+Oct-Dec,Oct,Dec,2022,South West,Male,All aged 16 to 64,1664904,1411714,1370650,41064,253190,84.8,82.3,2.9,15.2
+Oct-Dec,Oct,Dec,2022,South West,Female,All aged 16 to 64,1687803,1338813,1320152,18661,348990,79.3,78.2,1.4,20.7
+Oct-Dec,Oct,Dec,2022,England,Male,All aged 16 to 64,17480648,14433356,13873311,560045,3047292,82.6,79.4,3.9,17.4
+Oct-Dec,Oct,Dec,2022,England,Female,All aged 16 to 64,17560065,13232204,12712696,519508,4327861,75.4,72.4,3.9,24.6
+Oct-Dec,Oct,Dec,2022,Wales,Male,All aged 16 to 64,953587,769973,737146,32827,183614,80.7,77.3,4.3,19.3
+Oct-Dec,Oct,Dec,2022,Wales,Female,All aged 16 to 64,958014,654818,635420,19398,303196,68.4,66.3,3.0,31.6
+Oct-Dec,Oct,Dec,2022,Scotland,Male,All aged 16 to 64,1682424,1358857,1305255,53603,323567,80.8,77.6,3.9,19.2
+Oct-Dec,Oct,Dec,2022,Scotland,Female,All aged 16 to 64,1761163,1367851,1331938,35913,393312,77.7,75.6,2.6,22.3
+Oct-Dec,Oct,Dec,2022,Northern Ireland,Male,All aged 16 to 64,578913,452698,436618,16080,126215,78.2,75.4,3.6,21.8
+Sep-Nov,Oct,Dec,2022,Northern Ireland,Female,All aged 16 to 64,590735,409770,403935,5835,180965,69.4,68.4,1.4,30.6
+Sep-Nov,Sep,Nov,2021,North East,Male,All aged 16 to 64,802207,630283,594189,36094,171924,78.6,74.1,5.7,21.4
+Sep-Nov,Sep,Nov,2021,North East,Female,All aged 16 to 64,822742,587333,552205,35127,235409,71.4,67.1,6.0,28.6
+Sep-Nov,Sep,Nov,2021,Yorkshire and The Humber,Male,All aged 16 to 64,1680753,1347387,1287425,59962,333366,80.2,76.6,4.5,19.8
+Sep-Nov,Sep,Nov,2021,Yorkshire and The Humber,Female,All aged 16 to 64,1692058,1203189,1164956,38234,488869,71.1,68.8,3.2,28.9
+Sep-Nov,Sep,Nov,2021,East Midlands,Male,All aged 16 to 64,1467372,1172808,1129684,43124,294564,79.9,77.0,3.7,20.1
+Sep-Nov,Sep,Nov,2021,East Midlands,Female,All aged 16 to 64,1481805,1128278,1091418,36860,353527,76.1,73.7,3.3,23.9
+Sep-Nov,Sep,Nov,2021,West Midland,Male,All aged 16 to 64,1813710,1520568,1454983,65584,293142,83.8,80.2,4.3,16.2
+Sep-Nov,Sep,Nov,2021,West Midland,Female,All aged 16 to 64,1810158,1330607,1261748,68859,479551,73.5,69.7,5.2,26.5
+Sep-Nov,Sep,Nov,2021,East of England,Male,All aged 16 to 64,1884923,1608318,1560436,47882,276605,85.3,82.8,3.0,14.7
+Sep-Nov,Sep,Nov,2021,East of England,Female,All aged 16 to 64,1907304,1489421,1448334,41087,417883,78.1,75.9,2.8,21.9
+Sep-Nov,Sep,Nov,2021,London,Male,All aged 16 to 64,3102375,2608192,2479669,128523,494183,84.1,79.9,4.9,15.9
+Sep-Nov,Sep,Nov,2021,London,Female,All aged 16 to 64,3037355,2294532,2162633,131900,742823,75.5,71.2,5.7,24.5
+Sep-Nov,Sep,Nov,2021,South East,Male,All aged 16 to 64,2782592,2369055,2263658,105397,413537,85.1,81.4,4.4,14.9
+Sep-Nov,Sep,Nov,2021,South East,Female,All aged 16 to 64,2812080,2164627,2078697,85930,647453,77.0,73.9,4.0,23.0
+Sep-Nov,Sep,Nov,2021,South West,Male,All aged 16 to 64,1659390,1384018,1337355,46663,275372,83.4,80.6,3.4,16.6
+Sep-Nov,Sep,Nov,2021,South West,Female,All aged 16 to 64,1682129,1332016,1294988,37028,350113,79.2,77.0,2.8,20.8
+Sep-Nov,Sep,Nov,2021,England,Male,All aged 16 to 64,17422725,14439390,13807864,631526,2983335,82.9,79.3,4.4,17.1
+Sep-Nov,Sep,Nov,2021,England,Female,All aged 16 to 64,17501633,13198138,12658105,540033,4303495,75.4,72.3,4.1,24.6
+Sep-Nov,Sep,Nov,2021,Wales,Male,All aged 16 to 64,950405,769011,747282,21729,181394,80.9,78.6,2.8,19.1
+Sep-Nov,Sep,Nov,2021,Wales,Female,All aged 16 to 64,954820,691658,663218,28440,263162,72.4,69.5,4.1,27.6
+Sep-Nov,Sep,Nov,2021,Scotland,Male,All aged 16 to 64,1676862,1350422,1291227,59195,326440,80.5,77.0,4.4,19.5
+Sep-Nov,Sep,Nov,2021,Scotland,Female,All aged 16 to 64,1755343,1322257,1282723,39534,433086,75.3,73.1,3.0,24.7
+Sep-Nov,Sep,Nov,2021,Northern Ireland,Male,All aged 16 to 64,576986,419146,400141,19005,157840,72.6,69.4,4.5,27.4
+Sep-Nov,Sep,Nov,2021,Northern Ireland,Female,All aged 16 to 64,588755,404373,393060,11313,184382,68.7,66.8,2.8,31.3
+Sep-Nov,Sep,Nov,2022,North East,Male,All aged 16 to 64,805042,626363,594160,32203,178679,77.8,73.8,5.1,22.2
+Sep-Nov,Sep,Nov,2022,North East,Female,All aged 16 to 64,825696,599396,572255,27142,226300,72.6,69.3,4.5,27.4
+Sep-Nov,Sep,Nov,2022,Yorkshire and The Humber,Male,All aged 16 to 64,1686799,1373101,1312932,60169,313698,81.4,77.8,4.4,18.6
+Sep-Nov,Sep,Nov,2022,Yorkshire and The Humber,Female,All aged 16 to 64,1698187,1251153,1200772,50381,447034,73.7,70.7,4.0,26.3
+Sep-Nov,Sep,Nov,2022,East Midlands,Male,All aged 16 to 64,1472616,1217544,1174553,42992,255072,82.7,79.8,3.5,17.3
+Sep-Nov,Sep,Nov,2022,East Midlands,Female,All aged 16 to 64,1487186,1081277,1042835,38442,405909,72.7,70.1,3.6,27.3
+Sep-Nov,Sep,Nov,2022,West Midland,Male,All aged 16 to 64,1820253,1484262,1412101,72162,335991,81.5,77.6,4.9,18.5
+Sep-Nov,Sep,Nov,2022,West Midland,Female,All aged 16 to 64,1816668,1351321,1297410,53911,465347,74.4,71.4,4.0,25.6
+Sep-Nov,Sep,Nov,2022,East of England,Male,All aged 16 to 64,1891685,1615274,1567747,47527,276411,85.4,82.9,2.9,14.6
+Sep-Nov,Sep,Nov,2022,East of England,Female,All aged 16 to 64,1914208,1463605,1405312,58293,450603,76.5,73.4,4.0,23.5
+Sep-Nov,Sep,Nov,2022,London,Male,All aged 16 to 64,3113534,2565293,2478497,86797,548241,82.4,79.6,3.4,17.6
+Sep-Nov,Sep,Nov,2022,London,Female,All aged 16 to 64,3048281,2267698,2156377,111321,780583,74.4,70.7,4.9,25.6
+Sep-Nov,Sep,Nov,2022,South East,Male,All aged 16 to 64,2792581,2348641,2250649,97992,443940,84.1,80.6,4.2,15.9
+Sep-Nov,Sep,Nov,2022,South East,Female,All aged 16 to 64,2822197,2191850,2116974,74876,630347,77.7,75.0,3.4,22.3
+Sep-Nov,Sep,Nov,2022,South West,Male,All aged 16 to 64,1665332,1395281,1353874,41407,270051,83.8,81.3,3.0,16.2
+Sep-Nov,Sep,Nov,2022,South West,Female,All aged 16 to 64,1688211,1325600,1306992,18608,362611,78.5,77.4,1.4,21.5
+Sep-Nov,Sep,Nov,2022,England,Male,All aged 16 to 64,17485299,14444948,13887523,557425,3040351,82.6,79.4,3.9,17.4
+Sep-Nov,Sep,Nov,2022,England,Female,All aged 16 to 64,17564775,13186143,12695152,490991,4378632,75.1,72.3,3.7,24.9
+Sep-Nov,Sep,Nov,2022,Wales,Male,All aged 16 to 64,953842,764508,735644,28863,189334,80.2,77.1,3.8,19.8
+Sep-Nov,Sep,Nov,2022,Wales,Female,All aged 16 to 64,958295,666689,645771,20918,291606,69.6,67.4,3.1,30.4
+Sep-Nov,Sep,Nov,2022,Scotland,Male,All aged 16 to 64,1682871,1348775,1293251,55525,334096,80.1,76.8,4.1,19.9
+Sep-Nov,Sep,Nov,2022,Scotland,Female,All aged 16 to 64,1761662,1362377,1327782,34595,399285,77.3,75.4,2.5,22.7
+Sep-Nov,Sep,Nov,2022,Northern Ireland,Male,All aged 16 to 64,579087,452120,434132,17987,126967,78.1,75.0,4.0,21.9
+Sep-Nov,Sep,Nov,2022,Northern Ireland,Female,All aged 16 to 64,590886,406613,400165,6449,184273,68.8,67.7,1.6,31.2

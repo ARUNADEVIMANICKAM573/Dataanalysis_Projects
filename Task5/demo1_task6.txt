@@ -1,0 +1,89 @@
+
+SELECT * FROM HALElifeExpectancyAtBirth;
+select * from HALeWHOregionLifeExpectancyAtBirth;
+select * from lifeExpectancyAtBirth;
+select * from WHOregionLifeExpectancyAtBirth;
+select * from HALElifeExpectancyAtBirth inner join HALeWHOregionLifeExpectancyAtBirth 
+on HALElifeExpectancyAtBirth.Location=HALeWHOregionLifeExpectancyAtBirth.Location;
+select DISTINCT location as country,count(dim1) as Count_Gender from HALElifeExpectancyAtBirth group by dim1,period
+union all
+select DISTINCT location as country,count(dim1) as Count_Gender from HALeWHOregionLifeExpectancyAtBirth group by dim1,period
+union all
+select DISTINCT location as country,count(dim1) as Count_Gender from lifeExpectancyAtBirth group by dim1,period
+union all 
+select DISTINCT location as country,count(dim1) as Count_Gender from WHOregionLifeExpectancyAtBirth group by dim1,period;
+
+select DISTINCT location as country,count(dim1) as Count_Gender from HALElifeExpectancyAtBirth group by dim1,period
+union 
+select DISTINCT location as country,count(dim1) as Count_Gender from HALeWHOregionLifeExpectancyAtBirth group by dim1,period
+union 
+select DISTINCT location as country,count(dim1) as Count_Gender from lifeExpectancyAtBirth group by dim1,period
+union  
+select DISTINCT location as country,count(dim1) as Count_Gender from WHOregionLifeExpectancyAtBirth group by dim1,period;
+
+select DISTINCT location as country,count(dim1) as Count_Gender from HALElifeExpectancyAtBirth group by dim1,period;
+select period from HALElifeExpectancyAtBirth group by period;
+
+select period, count(dim1),
+case when dim1='Male' then 'Male'
+     when dim1='Female' then 'Female' 
+end     
+from HALElifeExpectancyAtBirth group by period;
+
+select period, count(
+case when dim1='Male' then 1 end) Male,
+count(case when dim1='Female' then 1 end) Female 
+from HALElifeExpectancyAtBirth group by period;
+
+select period, count(
+case when dim1='Male' then 1 end) Male,
+count(case when dim1='Female' then 1 end) Female 
+from HALElifeExpectancyAtBirth group by period
+UNION
+select period, count(
+case when dim1='Male' then 1 end) Male,
+count(case when dim1='Female' then 1 end) Female 
+from HALeWHOregionLifeExpectancyAtBirth group by period; 
+
+select period, count(
+case when dim1='Male' then 1 end) Male,
+count(case when dim1='Female' then 1 end) Female 
+from HALeWHOregionLifeExpectancyAtBirth, HALeWHOregionLifeExpectancyAtBirth group by period;
+
+select count(case when p.dim1='Male' then 1 end) Male,
+       count(case when p.dim1='Female' then 1 end) Female,
+       count(case when p1.dim1='Male' then 1 end) Male,
+       count(case when p1.dim1='Female' then 1 end) Female,
+       count(case when p2.dim1='Male' then 1 end) Male,
+       count(case when p2.dim1='Female' then 1 end) Female,
+       count(case when p3.dim1='Male' then 1 end) Male,
+       count(case when p3.dim1='Female' then 1 end) Female
+       from HALElifeExpectancyAtBirth p, HALeWHOregionLifeExpectancyAtBirth p1, lifeExpectancyAtBirth p2, WHOregionLifeExpectancyAtBirth p3
+       group by p.period;
+       
+       select count(case when p.dim1='Male' then 1 end), count(case when p1.dim1='Male' then 1 end) from HALElifeExpectancyAtBirth p, HALeWHOregionLifeExpectancyAtBirth p1
+       group by p.period;
+       
+    select DISTINCT(peroid),sum(male) from (
+    select period,count(case when p.dim1='Male' then 1 end) Male from HALElifeExpectancyAtBirth p group by period
+    union all
+    select period,count(case when p1.dim1='Male' then 1 end) Male from HALeWHOregionLifeExpectancyAtBirth p1 group by p1.period);
+    
+   
+  select distinct(p.Period), count(case when p.dim1='Male' then 1 end), count(case when p1.dim1='Male' then 1 end) Male 
+    from HALElifeExpectancyAtBirth p, HALeWHOregionLifeExpectancyAtBirth p1 group by p.period;
+    
+  
+   select distinct(p.Period), count(case when p.dim1='Male' and p1.dim1='Male' and p2.dim1='Male' and p3.dim1='Male' then 1 end) Male 
+    from HALElifeExpectancyAtBirth p, HALeWHOregionLifeExpectancyAtBirth p1, lifeExpectancyAtBirth p2, WHOregionLifeExpectancyAtBirth p3 group by p.period;
+    
+    select DISTINCT(period), count(dim1) from HALElifeExpectancyAtBirth where dim1='Male' GROUP by period;
+    
+    select * from HALElifeExpectancyAtBirth,HALeWHOregionLifeExpectancyAtBirth,lifeExpectancyAtBirth,WHOregionLifeExpectancyAtBirth;
+    
+    
+    select sum(dim1) from HALeWHOregionLifeExpectancyAtBirth p, HALeWHOregionLifeExpectancyAtBirth p1, lifeExpectancyAtBirth p2,
+    WHOregionLifeExpectancyAtBirth p3 where period in (
+     select DISTINCT(period),count(case when p.dim1='Male' then 1 end) Male from HALElifeExpectancyAtBirth p group by period
+    union all
+    select DISTINCT(period),count(case when p1.dim1='Male' then 1 end) Male  group by p1.period) group by period;

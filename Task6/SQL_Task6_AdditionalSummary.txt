@@ -1,0 +1,30 @@
+
+Q1. Minimum Hale Expectency per Location
+
+Answer:
+select Location, min(hale_expectency) as Min_Hale_Expectency from 
+HALeWHOregionLifeExpectancyAtBirth group by location;
+
+Q2. Maximum Hale Expectency per Year
+
+Answer:
+select Location, min(hale_expectency) as Min_Hale_Expectency from 
+HALeWHOregionLifeExpectancyAtBirth group by location;
+
+Q3: The country has Maximum percentage of Hale life expectancy, first_tooltip and its year
+
+select p.period, p.location,max(p.percentage_of_hale_in_life_expectancy)FROM
+HALeWHOregionLifeExpectancyAtBirth p;
+
+Q4: Second highest country has maximum percentage of Hale life expectancy and its year
+
+select period, location, max(percentage_of_hale_in_life_expectancy) from HALeWHOregionLifeExpectancyAtBirth
+where percentage_of_hale_in_life_expectancy <
+(select max(percentage_of_hale_in_life_expectancy) FROM
+HALeWHOregionLifeExpectancyAtBirth);
+
+Q5: Maximum percentage of Hale expectancy, Hale expectancy and life expetancy per location and year
+Answer:
+
+select location,period, max(percentage_of_hale_in_life_expectancy), max(hale_expectency),
+max(life_expectany) from HALeWHOregionLifeExpectancyAtBirth group by location order by period ASC;

@@ -1,0 +1,43 @@
+a. Total count of Male and Female per year
+Answer:
+select year,sum(Male), sum(Female) FROM
+(
+select DISTINCT(period) as year, count(
+case when dim1='Male' then 1 end) Male,
+count(case when dim1='Female' then 1 end) Female 
+from HALElifeExpectancyAtBirth group by period
+UNION
+select DISTINCT(period) as year, count(
+case when dim1='Male' then 1 end) Male,
+count(case when dim1='Female' then 1 end) Female 
+from lifeExpectancyAtBirth group by period
+union 
+select DISTINCT(period) as year, count(
+case when dim1='Male' then 1 end) Male,
+count(case when dim1='Female' then 1 end) Female 
+from WHOregionLifeExpectancyAtBirth group by period) group by year;
+
+b. Total count of Male and Female per Location
+Answer:
+select country,sum(Male), sum(Female) FROM
+(
+select location as country, count(
+case when dim1='Male' then 1 end) Male,
+count(case when dim1='Female' then 1 end) Female 
+from HALElifeExpectancyAtBirth group by location
+UNION all
+select location as country, count(
+case when dim1='Male' then 1 end) Male,
+count(case when dim1='Female' then 1 end) Female 
+from lifeExpectancyAtBirth group by location
+union all
+select location as country, count(
+case when dim1='Male' then 1 end) Male,
+count(case when dim1='Female' then 1 end) Female 
+from WHOregionLifeExpectancyAtBirth group by location) group by country;
+
+c.Average of Hale and Life Expectancy per Location
+
+select location, round(avg(hale_expectency),2) as Average_Hale_Expectency, 
+round(avg(life_expectany),2) as Average_Life_Expectency 
+from HALeWHOregionLifeExpectancyAtBirth group by location;

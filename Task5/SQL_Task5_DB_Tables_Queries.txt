@@ -1,0 +1,185 @@
+Task1. Connect to your database server and print its version
+
+select @@VERSION
+Microsoft SQL Server 2019 (RTM) - 15.0.2000.5 (X64)   Sep 24 2019 13:48:23   Copyright (C) 2019 Microsoft Corporation  Developer Edition (64-bit) on Windows 10 Pro 10.0 <X64> (Build 19044: ) 
+----------------------------------------------------------------------------
+i.Database Creation: 
+
+create database dbHospital
+use dbHospital
+---------------------------------------------------------------------------
+ii.Table Creation:
+
+create table tblHospitalDetail
+(
+Hospital_Id int primary key,
+Hospital_Name nvarchar(50),
+Bed_Count int
+)
+go
+
+iii. create table tblDoctorDetail
+(
+Doctor_Id int primary key,
+Doctor_Name nvarchar(50),
+Hospital_Code int constraint fk_tblHospitalDetail_HospitalId foreign key references tblHospitalDetail(Hospital_Id),
+joining_Date date,
+Specialty nvarchar(50),
+Salary int,
+Experience int
+)
+go
+---------------------------------------------------------------------------------
+Task2:
+
+insert into tblHospitalDetail values(1,'Alpha Hospital',300)
+insert into tblHospitalDetail values(2,'National Services Scotland',450)
+insert into tblHospitalDetail values(3,'NMC Health PLC',250)
+insert into tblHospitalDetail values(4,'Guy's and St Thomas NHS Foundation Trust'',300)
+insert into tblHospitalDetail values(5,'Barts Health NHS Trust',400)
+insert into tblHospitalDetail values(6,'Sheffield Teaching Hospital NHS Foundation Trust',350)
+insert into tblHospitalDetail values(7,'University College London NHS Foundation Trust',1500)
+insert into tblHospitalDetail values(8,'Spire Healthcare Limited',1300)
+insert into tblHospitalDetail values(9,'The NewcasteUponTyne Hospitals',1100)
+insert into tblHospitalDetail values(10,'BMI Healthcare Limited',1100)
+insert into tblHospitalDetail values(11,'Royal Free London NHS Foundation Trust',900)
+insert into tblHospitalDetail values(12,'Nuffield Health',450)
+insert into tblHospitalDetail values(13,'University Hospitals Birmingham',450)
+insert into tblHospitalDetail values(14,'Cambridge University Hospital NHS Foundation Trust',900)
+insert into tblHospitalDetail values(15,'University Hospitals of North Midlands NHS Trust',1000)
+insert into tblHospitalDetail values(16,'Kirklees Council',1000)
+insert into tblHospitalDetail values(17,'Heart of England Foundation Trust',1200)
+insert into tblHospitalDetail values(18,'SOUTHAMPTON HOSPITAL CHARITY',1100)
+insert into tblHospitalDetail values(19,'Northumbria Healthcare NHS Foundation Trust',400)
+insert into tblHospitalDetail values(20,'Royal Liverpool & Broadgreen Uni_Hospitals',350)
+insert into tblHospitalDetail values(21,'NORTH BRISTOL NHS TRUST',300)
+insert into tblHospitalDetail values(22,'University Hospitals Bristol NHS',400)
+insert into tblHospitalDetail values(23,'EAST KENT HOSPITALS UNIVERSITY NHS',400)
+insert into tblHospitalDetail values(24,'Chelsea & Westminster Healthcare NHS Trust',400)
+insert into tblHospitalDetail values(25,'NORFOLK AND NORWICH UNI_HOSPITALS NHS',1300)
+insert into tblHospitalDetail values(26,'RAMSAY HEALTH CARE UK OPERATIONS LIMITED',1500)
+insert into tblHospitalDetail values(27,'YORK AND SCARBOROUGH HOSPITALS NHS',1500)
+insert into tblHospitalDetail values(28,'CYGNET HEALTH UK LIMITED',1300)
+insert into tblHospitalDetail values(29,'Gloucestershire Hospitals Nhs Foundation Trust',1500)
+insert into tblHospitalDetail values(30,'ISS MEDICLEAN LIMITED',1200)
+insert into tblHospitalDetail values(31,'LANCASHIRE TEACHING HOSPITALS NHS FOUNDATION TRUST',750)
+insert into tblHospitalDetail values(32,'Northeast London Foundation Trust',750)
+insert into tblHospitalDetail values(33,'DONCASTER AND BASSETLAW  NHS ',900)
+insert into tblHospitalDetail values(34,'Royal Devon & Exeter NHS Foundation Trust',1300)
+insert into tblHospitalDetail values(35,'Essex Partnership University NHS Foundation Trust',1000)
+insert into tblHospitalDetail values(36,'Centre for Forensic Mental Health',900)
+insert into tblHospitalDetail values(37,'CALDERDALE AND HUDDERSFIELD NHS FOUNDATION TRUST',900)
+insert into tblHospitalDetail values(38,'TAMESIDE METROPOLITAN BOROUGH COUNCIL',800)
+insert into tblHospitalDetail values(39,'West Park Hospital',500)
+insert into tblHospitalDetail values(40,'Lancashire Care NHS Foundation Trust',700)
+insert into tblHospitalDetail values(41,'Salford Royal',900)
+insert into tblHospitalDetail values(42,'Oxfordshire Mental Healthcare N H S Trust',900)
+insert into tblHospitalDetail values(43,'NORTHERN LINCOLNSHIRE AND GOOLE NHS',1000)
+insert into tblHospitalDetail values(44,'CUMBRIA, NORTHUMBERLAND, TYNE AND WEAR NHS',1300)
+insert into tblHospitalDetail values(45,'SOUTHERN HEALTH NHS FOUNDATION TRUST',500)
+insert into tblHospitalDetail values(46,'Royal United Hospitals Bath Nhs Foundation Trust',300)
+insert into tblHospitalDetail values(47,'Leicestershire Partnership NHS Trust',400)
+insert into tblHospitalDetail values(47,'NORTH TEES AND HARTLEPOOL NHS FOUNDATION TRUST',300)
+insert into tblHospitalDetail values(49,'Pennine Care N H S Foundation Trust',1000)
+insert into tblHospitalDetail values(50,'Glanrhyd Hospital',1300)
+
+-----------------------------------------------------------------
+
+insert into tblDoctorDetail(Doctor_Id, Doctor_Name, Hospital_Code, Joining_Date,Specialty, Salary) 
+values
+(101,'Oliver',1,'12-05-2010','Family Medicine',4300),
+(102,'Jack',2,'12-05-2011','General Surgery',4300),
+(103,'Harry',3,'10-03-2009','Emergency',6300),
+(104,'Jacob',4,'12-05-2010','Dermatology',4300),
+(105,'Charlie',1,'10-06-2010','Clinical Immunology',5300),
+(106,'Thomas',2,'12-05-2010','Cardiology',6300),
+(107,'George',3,'12-05-2010','Neurology',4300),
+(108,'Oscar',5,'12-05-2010','Family Medicine',4300),
+(109,'James',7,'12-05-2010','Family Medicine',4300),
+(110,'William',10,'12-05-2011','Family Medicine',4300)
+(111,'Noah',1,'12-05-2020','Family Medicine',4300,),
+(112,'Alfie',2,'12-05-2021','General Surgery',4300),
+(113,'Joshua',3,'10-03-2019','Emergency',6300),
+(114,'Muhammad',4,'12-05-2020','Dermatology',4300),
+(115,'Henry',11,'10-06-2020','Clinical Immunology',5300),
+(116,'Leo',2,'12-05-2020','Cardiology',6300),
+(117,'Archie',13,'12-05-2020','Neurology',4300),
+(118,'Ethan',5,'12-05-2020','Family Medicine',4300),
+(119,'Joseph',7,'12-05-2020','Family Medicine',4300),
+(120,'Freddie',10,'12-05-2021','Family Medicine',4300)
+(121,'Samuel',1,'12-05-2018','Family Medicine',4300),
+(122,'Alexander',2,'12-05-2017','General Surgery',4300),
+(123,'Logan',3,'10-03-2018','Emergency',6300),
+(124,'Daniel',4,'12-05-2018','Dermatology',4300),
+(125,'Isaac',11,'10-06-2017','Clinical Immunology',5300),
+(126,'Max',2,'12-05-2021','Cardiology',6300),
+(127,'Mohammed',13,'12-05-2021','Neurology',4300),
+(128,'Benjamin',5,'12-05-2021','Family Medicine',4300),
+(129,'Mason',7,'12-05-2018','Family Medicine',4300),
+(130,'Mary',10,'12-05-2017','Family Medicine',4300)
+(131,'Lucas',11,'12-05-2018','Family Medicine',4300),
+(132,'Edward',12,'12-05-2017','General Surgery',4300),
+(133,'Harrison',13,'10-03-2018','Emergency',6300),
+(134,'Jake',14,'12-05-2018','Dermatology',4300),
+(135,'Dylan',11,'10-06-2017','Clinical Immunology',5300),
+(136,'Riley',12,'12-05-2021','Cardiology',6300),
+(137,'Finley',13,'12-05-2021','Neurology',4300),
+(138,'Theo',5,'12-05-2021','Family Medicine',4300),
+(139,'Sebastian',17,'12-05-2018','Family Medicine',4300),
+(140,'Adam',10,'12-05-2017','Family Medicine',4300)
+(141,'Lucas',11,'12-05-2008','Family Medicine',7300),
+(142,'Edward',12,'12-05-2007','General Surgery',7300),
+(143,'Harrison',13,'10-03-2088','Emergency',8300),
+(144,'Jake',14,'12-05-2008','Dermatology',6300),
+(145,'Dylan',11,'10-06-2007','Clinical Immunology',5300),
+(146,'Riley',12,'12-05-2021','Cardiology',6300),
+(147,'Finley',18,'12-05-2021','Neurology',6300),
+(148,'Theo',5,'12-05-2021','Family Medicine',4300),
+(149,'Sebastian',17,'12-05-2008','Family Medicine',7300),
+(150,'Adam',10,'12-05-2007','Family Medicine',7300)
+--------------------------------------------------------
+Task3:
+select h.Hospital_Name, d.Doctor_Name,d.Joining_Date,Specialty,salary from tblHospitalDetail h
+inner join tblDoctorDetail d on h.Hospital_Id=d.Hospital_code
+-------------------------------------------------------------
+Task4:
+select d.Doctor_Name, d.Specialty,d.Salary from tblHospitalDetail h
+inner join tblDoctorDetail d on h.Hospital_Id=d.Hospital_code
+where d.Specialty='Family Medicine' and d.Salary=4300
+
+select d.Doctor_Name, d.Specialty,d.Salary from tblHospitalDetail h
+inner join tblDoctorDetail d on h.Hospital_Id=d.Hospital_code
+where d.Specialty='Neurology' and d.Salary>=5000
+
+select d.Doctor_Name, d.Specialty,d.Salary from tblHospitalDetail h
+inner join tblDoctorDetail d on h.Hospital_Id=d.Hospital_code
+where d.Specialty='Clinical Immunology' and d.Salary<=7000
+
+select d.Doctor_Name, d.Specialty,d.Salary from tblHospitalDetail h
+inner join tblDoctorDetail d on h.Hospital_Id=d.Hospital_code
+where d.Specialty<>'Cardiology' and d.Salary<=7000
+---------------------------------------------------------------
+Task5:
+
+select d.Doctor_Name, h.Hospital_Name from tblHospitalDetail h
+inner join tblDoctorDetail d on h.Hospital_Id=d.Hospital_code
+where h.Hospital_Name ='Alpha Hospital'
+
+select d.Doctor_Name, h.Hospital_Name from tblHospitalDetail h
+inner join tblDoctorDetail d on h.Hospital_Id=d.Hospital_code
+where h.Hospital_Name ='Barts Health NHS Trust'
+
+select d.Doctor_Name, h.Hospital_Name from tblHospitalDetail h
+inner join tblDoctorDetail d on h.Hospital_Id=d.Hospital_code
+where h.Hospital_Name ='Royal Free London NHS Foundation Trust'
+
+--------------------------------------------------------------
+Task6:
+
+select Doctor_Id, Doctor_Name,
+convert (varchar(3), datediff(month,Joining_Date, getdate())/12) as experience
+from tblDoctorDetail 
+
+update tblDoctorDetail
+set experience = datediff(month,Joining_Date, getdate())/12
+-------------------------------------------------------------

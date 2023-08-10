@@ -1,0 +1,595 @@
+library(tidyverse)
+library(readr)
+
+data <- read.csv("BusinessAnalyst_CSV1.csv")
+View(data)
+library(dplyr)
+table(Location)
+library(stats)
+names(data)
+table(size)
+class(size)
+help(table)
+
+r2<- data%>%
+  summarise(Location, Job.Title) %>%
+    filter(Location =="Los Angeles, CA") 
+    View(r2)
+    
+r2<- data %>%
+  select(Job.Title,Location) %>%
+  group_by(Location) %>%
+  filter(Job.Title == "Business Analyst") %>%
+  summarise(Jobcount1=n())
+  
+topcount<- r2 %>%
+  arrange(desc(Jobcount1)) %>%
+  slice(1)
+View(topcount)
+ 
+topcountcity <- r2 %>%
+  group_by(Location) %>%
+  filter(Jobcount1==max(Jobcount1))
+View(topcountcity)
+
+
+r3 <- data %>%
+  filter(Location =="New York, NY") %>%
+  group_by(Job.Title) %>%
+  summarise(jobcount=n())
+View(r3)
+
+top5 <- r3 %>%
+  top_n(5, jobcount) %>%
+  arrange(desc(jobcount))
+View(top5)
+
+barplot(top5)
+library(ggplot2)
+
+  
+  ggplot(top5, aes(x = reorder(Job.Title, -jobcount), y = jobcount)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  labs(x = "Job Title", y = "Number of Jobs", title = "Top 5 Job Titles in New York") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5),
+  axis.title.x = element_blank()) +
+          coord_flip()
+  
+  Burbank <- data %>%
+  filter(Location =="Burbank, CA") %>%
+  group_by(Job.Title) %>%
+  summarise(jobcountburbank=n())
+View(Burbank)
+
+top5Burbank <- Burbank %>%
+  top_n(5, jobcountburbank) %>%
+  arrange(desc(jobcountburbank))
+View(top5Burbank)
+
+  
+  ggplot(top5Burbank, aes(x = reorder(Job.Title, -jobcountburbank), y = jobcountburbank)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  labs(x = "Job Title", y = "Number of Jobs", title = "Top 5 Job Titles in BurBank") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5),
+  axis.title.x = element_blank()) +
+          coord_flip() 
+  
+  
+  dallas<- data %>%
+    filter(Location =="Dallas, TX") %>%
+    group_by(Job.Title) %>%
+    summarise(jobcountdallas=n())
+  View(dallas)
+  
+  top5dallas <- dallas %>%
+    top_n(5, jobcountdallas) %>%
+    arrange(desc(jobcountdallas))
+  View(top5dallas)
+   ggplot(top5dallas, aes(x = reorder(Job.Title, -jobcountdallas), y = jobcountdallas)) +
+    geom_bar(stat = "identity", fill = "steelblue") +
+    labs(x = "Job Title", y = "Number of Jobs", title = "Top 5 Job Titles in Dallas, TX") +
+    theme(axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5),
+          axis.title.x = element_blank()) +
+    coord_flip()
+   #-------------------------
+   Austin<- data %>%
+     filter(Location =="Austin, TX") %>%
+     group_by(Job.Title) %>%
+     summarise(jobcountaustin=n())
+   View(Austin)
+   
+   top5austin <- Austin %>%
+     top_n(5, jobcountaustin) %>%
+     arrange(desc(jobcountaustin))
+   View(top5austin)
+    m1 <- top5austin %>%
+         arrange(desc(jobcountaustin)) %>%
+         distinct(Job.Title, jobcountaustin) %>%
+         head(5)
+       View(m1)
+     
+    ggplot(m1, aes(x = reorder(Job.Title, -jobcountaustin), y = jobcountaustin)) +
+     geom_bar(stat = "identity", fill = "steelblue") +
+     labs(x = "Job Title", y = "Number of Jobs", title = "Top 5 Job Titles in Austin Tx") +
+     theme(axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5),
+           axis.title.x = element_blank()) +
+     coord_flip()
+    #________________Los ANgels__________________  
+    
+    LosAngels<- data %>%
+      filter(Location =="Los Angeles, CA") %>%
+      group_by(Job.Title) %>%
+      summarise(jobcountlosangels=n())
+    View(LosAngels)
+    
+    top5losangels <- LosAngels %>%
+      top_n(5, jobcountlosangels) %>%
+      arrange(desc(jobcountlosangels))
+    View(top5losangels)
+    
+    ggplot(top5losangels, aes(x = reorder(Job.Title, -jobcountlosangels), y = jobcountlosangels)) +
+      geom_bar(stat = "identity", fill = "steelblue") +
+      labs(x = "Job Title", y = "Number of Jobs", title = "Top 5 Job Titles in Los Angeles, CA") +
+      theme(axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5),
+            axis.title.x = element_blank()) +
+      coord_flip()
+    
+    #---------------------Houston, TX------------------------
+    
+    Houseton<- data %>%
+      filter(Location =="Houston, TX") %>%
+      group_by(Job.Title) %>%
+      summarise(jobcounthouseton=n())
+    View(Houseton)
+    
+    top5houseton <- Houseton %>%
+      top_n(5, jobcounthouseton) %>%
+      arrange(desc(jobcounthouseton))
+    View(top5houseton)
+    
+    m2 <- top5houseton %>%
+      arrange(desc(jobcounthouseton)) %>%
+      distinct(Job.Title, jobcounthouseton) %>%
+      head(5)
+    View(m2)
+    
+    ggplot(m2, aes(x = Job.Title, y = jobcounthouseton, size = jobcounthouseton, color = Job.Title)) +
+      geom_point(alpha = 0.7) +
+      scale_size(range = c(3, 10)) +
+      labs(x = "Job Title", y = "Job Count", title = "Top 5 Job Counts in Housetone (Bubble Chart)") +
+      theme_minimal()
+    
+    #____________________Phoenix, AZ______________________________
+    Phoenix<- data %>%
+      filter(Location =="Phoenix, AZ") %>%
+      group_by(Job.Title) %>%
+      summarise(jobcountPhoenix=n())
+    View(Phoenix)
+    
+    
+    m3 <- top5Phoenix %>%
+      arrange(desc(jobcountPhoenix)) %>%
+      distinct(Job.Title, jobcountPhoenix) %>%
+      head(5)
+    View(m3)
+    
+    ggplot(m3, aes(x = Job.Title, y = jobcountPhoenix, size = jobcountPhoenix, color = Job.Title)) +
+      geom_point(alpha = 0.7) +
+      scale_size(range = c(3, 10)) +
+      labs(x = "Job Title", y = "Job Count", title = "Top 5 Job Counts in Phoenix, AZ (Bubble Chart)") +
+      theme_minimal()+ theme(axis.text.x = element_blank())
+    
+    #________________________-Tempe, AZ------------
+    
+    Tempe<- data %>%
+      filter(Location =="Tempe, AZ") %>%
+      group_by(Job.Title) %>%
+      summarise(jobcountTempe=n())
+    View(Tempe)
+    
+    
+    m4 <- Tempe %>%
+      arrange(desc(jobcountTempe)) %>%
+      distinct(Job.Title, jobcountTempe) %>%
+      head(5)
+    View(m4)
+    
+    ggplot(m4, aes(x = Job.Title, y = jobcountTempe, size = jobcountTempe, color = Job.Title)) +
+      geom_point(alpha = 0.7) +
+      scale_size(range = c(3, 10)) +
+      labs(x = "Job Title", y = "Job Count", title = "Top 5 Job Counts in Tempe, AZ (Bubble Chart)") +
+      theme_minimal()+ theme(axis.text.x = element_blank())
+    #-----------------------Philadelphia, PA------------------------------
+    Philadelphia<- data %>%
+      filter(Location =="Philadelphia, PA") %>%
+      group_by(Job.Title) %>%
+      summarise(jobcountPhiladelphia=n())
+    View(Philadelphia)
+    
+    
+    m5 <- Philadelphia %>%
+      arrange(desc(jobcountPhiladelphia)) %>%
+      distinct(Job.Title, jobcountPhiladelphia) %>%
+      head(5)
+    View(m5)
+    
+    ggplot(m5, aes(x = Job.Title, y = jobcountPhiladelphia, size = jobcountPhiladelphia, color = Job.Title)) +
+      geom_point(alpha = 0.7) +
+      scale_size(range = c(3, 10)) +
+      labs(x = "Job Title", y = "Job Count", title = "Top 5 Job Counts in Philadelphia, PA (Bubble Chart)") +
+      theme_minimal()+ theme(axis.text.x = element_blank())
+    
+    #-----------------------San Diego, CA---------------------------------
+    SanDiego<- data %>%
+      filter(Location =="San Diego, CA") %>%
+      group_by(Job.Title) %>%
+      summarise(jobcountSanDiego=n())
+    View(SanDiego)
+    
+    
+    m6 <- SanDiego %>%
+      arrange(desc(jobcountSanDiego)) %>%
+      distinct(Job.Title, jobcountSanDiego) %>%
+      head(5)
+    View(m6)
+    
+    ggplot(m6, aes(x = Job.Title, y = jobcountSanDiego, size = jobcountSanDiego, color = Job.Title)) +
+      geom_point(alpha = 0.7) +
+      scale_size(range = c(3, 10)) +
+      labs(x = "Job Title", y = "Job Count", title = "Top 5 Job Counts in San Diego, CA (Bubble Chart)") +
+      theme_minimal()+ theme(axis.text.x = element_blank())
+    
+    
+    #-----------------------------Irving, TX--------------------------------------
+    Irving<- data %>%
+      filter(Location =="Irving, TX") %>%
+      group_by(Job.Title) %>%
+      summarise(jobcountIrving=n())
+    View(Irving)
+    
+    
+    m7 <- Irving %>%
+      arrange(desc(jobcountIrving)) %>%
+      distinct(Job.Title, jobcountIrving) %>%
+      head(5)
+    View(m7)
+    
+    ggplot(m7, aes(x = Job.Title, y = jobcountIrving, size = jobcountIrving, color = Job.Title)) +
+      geom_point(alpha = 0.7) +
+      scale_size(range = c(5, 10)) +
+      labs(x = "Job Title", y = "Job Count", title = "Top 5 Job Counts in Irving, TX") +
+      theme_minimal()+ theme(axis.text.x = element_blank())
+    
+
+    
+    #-----------------------------San Jose, CA--------------------------------------
+    SanJose<- data %>%
+      filter(Location =="San Jose, CA") %>%
+      group_by(Job.Title) %>%
+      summarise(jobcountSanJose=n())
+    View(SanJose)
+    
+    
+    m8 <- SanJose %>%
+      arrange(desc(jobcountSanJose)) %>%
+      distinct(Job.Title, jobcountSanJose) %>%
+      head(5)
+    View(m8)
+    
+    ggplot(m8, aes(x = Job.Title, y = jobcountSanJose, size = jobcountSanJose, color = Job.Title)) +
+      geom_point(alpha = 0.7) +
+      scale_size(range = c(5, 10)) +
+      labs(x = "Job Title", y = "Job Count", title = "Top 5 Job Counts in San Jose, CA") +
+      theme_minimal()+ theme(axis.text.x = element_blank())
+ #-----------------------Jacksonville, FL-----------------------------------------
+    
+    Jacksonville<- data %>%
+      filter(Location =="Jacksonville, FL") %>%
+      group_by(Job.Title) %>%
+      summarise(jobcountJacksonville=n())
+    View(SanJose)
+    
+    
+    m9 <- Jacksonville %>%
+      arrange(desc(jobcountJacksonville)) %>%
+      distinct(Job.Title, jobcountJacksonville) %>%
+      head(5)
+    View(m9)
+    
+    
+    ggplot(m9, aes(x = Job.Title, y = jobcountJacksonville, fill = Job.Title)) +
+      geom_boxplot(color = "black", width = 0.7) +
+      geom_text(aes(label = jobcountJacksonville), vjust = -0.5, size = 3.5) +
+      labs(x = "Job Title", y = "Job Count", title = "Distribution of Job Counts for Top 5 Job Titles in Jacksonville, FL (Box Plot)") +
+      theme_minimal()+ theme(axis.text.x = element_blank())
+    
+    #-------------------Max count of Job.Title
+    maxjob <- data %>%
+      group_by(Job.Title) %>%
+      summarise(maxjobcount=n())
+    View(maxjob)
+    
+    m10<- maxjob %>%
+      arrange(desc(maxjobcount)) %>%
+       distinct(Job.Title, maxjobcount) %>%
+      head(10) 
+    View(m10)
+    
+    ggplot(m10, aes(x = Job.Title, y = maxjobcount, size = maxjobcount, color = Job.Title)) +
+      geom_point(alpha = 0.7) +
+      scale_size(range = c(5, 10)) +
+      labs(x = "Job Title", y = "Job Count", title = "Top 10 Job Counts") +
+      theme_minimal()+ theme(axis.text.x = element_blank())
+#------------- Count of Top 10 Jobs per Location-------
+    
+    maxcountry <- data %>%
+      group_by(Location) %>%
+      summarise(maxcountrycount=n()) 
+    View(maxcountry)
+    
+    m11<- maxcountry %>%
+      arrange(desc(maxcountrycount)) %>%
+      distinct(Location, maxcountrycount) %>%
+      head(10) 
+    View(m11)
+     
+    #-----------------------Top 10 country offers Busines Alanyst Job-----------
+     maxcountry <- data %>%
+       group_by(Location) %>%
+       filter(Job.Title == "Business Analyst") %>%
+       summarise(maxcountrycount=n()) 
+      View(maxcountry)
+     
+     m12<- maxcountry %>%
+       arrange(desc(maxcountrycount)) %>%
+       distinct(Location, maxcountrycount) %>%
+       head(10) 
+     View(m12)
+    #-----------------------Top 10 country offers Data Alanyst Job------------
+     maxcountry1 <- data %>%
+       group_by(Location) %>%
+       filter(Job.Title == "Data Analyst") %>%
+       summarise(maxcountrycount1=n()) 
+     View(maxcountry1)
+     
+     m13<- maxcountry1 %>%
+       arrange(desc(maxcountrycount1)) %>%
+       distinct(Location, maxcountrycount1) %>%
+       head(10) 
+     View(m13)
+     #-----------------------Top 10 country offers Business System Alanyst Job---
+     maxcountry2 <- data %>%
+       group_by(Location) %>%
+       filter(Job.Title == "Business System Analyst") %>%
+       summarise(maxcountrycount2=n()) 
+     View(maxcountry2)
+     
+     m14<- maxcountry2 %>%
+       arrange(desc(maxcountrycount2)) %>%
+       distinct(Location, maxcountrycount2) %>%
+       head(10) 
+     View(m14)
+     #----------------Top 10 country offers Senior Business Alanyst Job-------
+     maxcountry3 <- data %>%
+       group_by(Location) %>%
+       filter(Job.Title == "Senior Business Analyst") %>%
+       summarise(maxcountrycount3=n()) 
+     View(maxcountry3)
+     
+     m15<- maxcountry3 %>%
+       arrange(desc(maxcountrycount3)) %>%
+       distinct(Location, maxcountrycount3) %>%
+       head(10) 
+     View(m15)
+     #--------------------------Business Intelligence Analyst-----------
+     maxcountry4 <- data %>%
+       group_by(Location) %>%
+       filter(Job.Title == "Business Intelligence Analyst") %>%
+       summarise(maxcountrycount4=n()) 
+     View(maxcountry4)
+     
+     m16<- maxcountry4 %>%
+       arrange(desc(maxcountrycount4)) %>%
+       distinct(Location, maxcountrycount4) %>%
+       head(10) 
+     View(m16)
+     
+     #___________________Pay offers in Business Services per Location---------------
+     
+     maxsector1 <- data %>%
+       group_by(Location) %>%
+       filter(Sector == "Business Services") %>%
+       summarise(BusnessServices_sectorcount1=n()) 
+     View(maxsector1)
+     
+     m17<- maxsector1 %>%
+       
+       arrange(desc(maxsectorcount1)) %>%
+       distinct(Location, maxsectorcount1) %>%
+       head(10) 
+     View(m17)
+       
+     
+     #------------------Count of Jobs offers in Business Services-------------
+       maxsector2 <- data %>%
+       group_by(Job.Title) %>%
+       filter(Sector == "Business Services") %>%
+       summarise(BusnessServices_sectorcount2=n()) 
+     View(maxsector2)
+     
+     m18<- maxsector2 %>%
+       arrange(desc(BusnessServices_sectorcount2)) %>%
+       distinct(Job.Title, BusnessServices_sectorcount2) %>%
+       head(10) 
+     View(m18)
+     
+     ggplot(m18, aes(x = "", y = BusnessServices_sectorcount2, fill = Job.Title)) +
+       geom_bar(stat = "identity", width = 1) +
+       coord_polar("y", start = 0) +
+       labs(title = "Job Distribution in Business Services Sector", fill = "Job Titles") +
+       theme_void() +
+       geom_text(aes(label = BusnessServices_sectorcount2), position = position_stack(vjust = 0.5), color = "white", size = 3)
+    
+     #------------------Top 10 Jobs pay Max salary in Business Services-------
+     
+     maxpay <- data %>%
+       filter(Sector == "Business Services" & Sector!=-1)
+       View(maxpay)
+     maxpay <- maxpay %>%
+       group_by(Job.Title) %>%
+       summarise(Max_pay = max(MaxSalaryRange))
+     View(maxpay)
+     
+     sorted_pay <- maxpay %>%
+       arrange(desc(maxpay))
+     
+     top10_pay <- head(sorted_pay,10)
+     View(top10_pay)
+     
+  #------------------------Top 10 Jobs pay Max salary in Finance---------------------------------
+    
+     maxpayFinance <- data %>%
+       filter(Sector == "Finance" & Sector!=-1)
+     View(maxpayFinance)
+     maxpayFinance <- maxpayFinance %>%
+       group_by(Job.Title) %>%
+       summarise(Max_payFinance = max(MaxSalaryRange))
+     View(maxpayFinance)
+     
+     sorted_payFinance <- maxpayFinance %>%
+     arrange(desc(maxpayFinance))
+     top10_payFinance <- head(sorted_payFinance,10)
+     View(top10_payFinance)
+     
+     #------------------------Top 10 Jobs pay Max salary in Information Technology---------------------------------
+     
+     maxpayFinance <- data %>%
+       filter(Sector == "Information Technology" & Sector!=-1)
+     View(maxpayFinance)
+     maxpayFinance <- maxpayFinance %>%
+       group_by(Job.Title) %>%
+       summarise(Max_payFinance = max(MaxSalaryRange))
+     View(maxpayFinance)
+     
+     sorted_payFinance <- maxpayFinance %>%
+       arrange(desc(maxpayFinance))
+     top10_payFinance <- head(sorted_payFinance,10)
+     View(top10_payFinance)
+     #------------------------Top 10 Jobs pay Max salary in Insurance---------------------------------
+     
+     maxpayFinance <- data %>%
+       filter(Sector == "Insurance" & Sector!=-1)
+     View(maxpayFinance)
+     maxpayFinance <- maxpayFinance %>%
+       group_by(Job.Title) %>%
+       summarise(Max_payFinance = max(MaxSalaryRange))
+     View(maxpayFinance)
+     
+     sorted_payFinance <- maxpayFinance %>%
+       arrange(desc(maxpayFinance))
+     top10_payFinance <- head(sorted_payFinance,10)
+     View(top10_payFinance)
+     #------------------------Top 10 Jobs pay Max salary in Government---------------------------------
+     
+     maxpayFinance <- data %>%
+       filter(Sector == "Government" & Sector!=-1)
+     View(maxpayFinance)
+     maxpayFinance <- maxpayFinance %>%
+       group_by(Job.Title) %>%
+       summarise(Max_payFinance = max(MaxSalaryRange))
+     View(maxpayFinance)
+     
+     sorted_payFinance <- maxpayFinance %>%
+       arrange(desc(maxpayFinance))
+     top10_payFinance <- head(sorted_payFinance,10)
+     View(top10_payFinance)
+     
+     #------------------Top 10 Jobs pay with least salary in Business Services-------
+     
+     minpay <- data %>%
+       filter(Sector == "Business Services" & Sector!=-1)
+     View(minpay)
+     minpay <- minpay %>%
+       group_by(Job.Title) %>%
+       summarise(Min_pay = min(MinSalaryRange))
+     View(minpay)
+     
+     sorted_pay <- minpay %>%
+       arrange((minpay))
+     
+     bottom10_pay <- head(sorted_pay,10)
+     View(bottom10_pay)
+     
+     #------------------Top 10 Jobs pay with least salary in Finance-------
+     
+     minpay1 <- data %>%
+       filter(Sector == "Finance" & Sector!=-1)
+     View(minpay1)
+     
+     minpay1 <- minpay1 %>%
+       group_by(Job.Title) %>%
+       summarise(Min_pay1 = min(MinSalaryRange))
+     View(minpay1)
+     
+     sorted_pay1 <- minpay1 %>%
+       arrange(Min_pay1) %>%
+       filter(Min_pay1<=30000)
+     View(sorted_pay1)
+     
+     bottom10_pay1 <- head(sorted_pay1,10)
+     View(bottom10_pay1)
+     
+     #------------------Top 10 Jobs pay with least salary in Information Technology-------
+     
+     minpay2 <- data %>%
+       filter(Sector == "Information Technology" & Sector!=-1)
+     View(minpay2)
+     
+     minpay2 <- minpay2 %>%
+       group_by(Job.Title) %>%
+       summarise(Min_pay2 = min(MinSalaryRange))
+     View(minpay2)
+     
+     sorted_pay2 <- minpay2 %>%
+       arrange(Min_pay2) %>%
+       filter(Min_pay2<=30000)
+     View(sorted_pay2)
+     
+     bottom10_pay2 <- head(sorted_pay1,10)
+     View(bottom10_pay2)
+     #------------------Top 10 Jobs pay with least salary in Insurance-------
+     
+     minpay3 <- data %>%
+       filter(Sector == "Insurance" & Sector!=-1)
+     View(minpay3)
+     
+     minpay3 <- minpay3 %>%
+       group_by(Job.Title) %>%
+       summarise(Min_pay3 = min(MinSalaryRange))
+     View(minpay3)
+     
+     sorted_pay3 <- minpay3 %>%
+       arrange(Min_pay3) %>%
+       filter(Min_pay3<=30000)
+     View(sorted_pay3)
+     
+     bottom10_pay3 <- head(sorted_pay3,10)
+     View(bottom10_pay3)
+     #------------------Top 10 Jobs pay with least salary in Government-------
+     
+     minpay4 <- data %>%
+       filter(Sector == "Government" & Sector!=-1)
+     View(minpay4)
+     
+     minpay4 <- minpay4 %>%
+       group_by(Job.Title) %>%
+       summarise(Min_pay4 = min(MinSalaryRange))
+     View(minpay4)
+     
+     sorted_pay4 <- minpay4 %>%
+       arrange(Min_pay4) %>%
+       filter(Min_pay4<=30000)
+     View(sorted_pay4)
+     
+     bottom10_pay3 <- head(sorted_pay4,10)
+     View(bottom10_pay3)

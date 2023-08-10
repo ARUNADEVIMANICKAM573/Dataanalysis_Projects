@@ -1,0 +1,75 @@
+
+Categorize the 550 books to fiction and non-fiction.
+i.    select name, genre from amazon_csv where genre = 'Fiction';
+   
+ii.   select name, genre from amazon_csv where genre = 'Non Fiction';
+
+iii.  SELECT
+     	name AS Title,
+     	author, genre,
+    	row_number() OVER (PARTITION BY genre) AS row
+	FROM Amazon_csv;
+iv.   select count(case when genre='Fiction' then 1 end) Fiction,
+              count(case when genre='Non Fiction' then 1 end) NonFiction
+      from [dbo].[Amazon_csv] group by genre;
+
+
+Observation :
+Fiction count = 240
+Non-Function = 310
+
+Q2. Query the top 50 best sellers and show the following: 
+	a. Title of Book 
+	b. Author
+	c. Year
+	d. Review
+Answer:
+  select top(50) name, author, year,reviews from amazon_csv order by reviews desc;
+
+Observaation:
+* The range of top 50 reviews from 87841 to 26234
+* Year includes 2010 to 2019
+* Year excludes 2009
+
+Q3.Query the books which have a rating greater than 4 released last 2019
+
+ select name,user_rating, year from amazon_csv where user_rating>4 and year=2019;
+
+Observation:
+* Total count rows have a rating >4  released in the year 2019=50 
+* Average rating in the year = 4.74
+
+Q4. Query the books which have greater than 10k reviews last 2018
+ select name,reviews, year from amazon_csv where reviews>10000 and year=2018;
+
+Observation:
+* Total count rows have a reviews >10k  released in the year 2018=26 
+* Average rating in the year = 20616
+
+Additional Queries:
+* Book count per year = 50 ( 2009 to 2019)
+* Total Book count = 550
+
+Answer:
+select year, count(name) from amazon_csv group by year;
+
+Observation:
+* 50 books
+2. Top 5 reviews per year
+Answer:
+select  top(5) year, reviews from amazon_csv order by reviews desc ;
+
+3. Top 5 reviews per user_rating
+Answer:
+ select  top 5 name, author, reviews, user_rating from amazon_csv order by user_rating desc ;
+
+4. Highest price book in fiction
+Answer:
+ select max(price) from amazon_csv where genre='Fiction';
+
+5. lower price with lowerest user rating per year.
+Answer:
+ select year, min(price) as min_price, min(user_rating) as min_user_rating from amazon_csv
+ group by year;
+
+
